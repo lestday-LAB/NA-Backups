@@ -1,0 +1,87 @@
+{
+    "name": "top-rated-pages",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1544539197,
+            "author": 8343886,
+            "stamp": 1781009648,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1537131415,
+            "author": 8343886,
+            "stamp": 1761971345,
+            "flags": "A",
+            "commentary": "已新增标签：功能。 移除标签：系统。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1515785294,
+            "author": 8324175,
+            "stamp": 1699115055,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 4"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1515783401,
+            "author": 8841413,
+            "stamp": 1699109435,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1513182099,
+            "author": 8343886,
+            "stamp": 1692701170,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1513085322,
+            "author": 8343886,
+            "stamp": 1692363283,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1513085317,
+            "author": 8343886,
+            "stamp": 1692363262,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1513085304,
+            "author": 8343886,
+            "stamp": 1692363227,
+            "flags": "A",
+            "commentary": "已新增标签：系统。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1513085260,
+            "author": 8343886,
+            "stamp": 1692363214,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1449428782,
+    "tags": [
+        "功能"
+    ],
+    "title": "最高评分的页面",
+    "sitemap_update": 1781009648000,
+    "votings": [],
+    "is_locked": false
+}

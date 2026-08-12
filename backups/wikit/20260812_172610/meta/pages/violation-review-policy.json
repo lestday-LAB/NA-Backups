@@ -1,0 +1,429 @@
+{
+    "name": "violation-review-policy",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 50,
+            "global_revision": 1545875182,
+            "author": 9287872,
+            "stamp": 1786417014,
+            "flags": "A",
+            "commentary": "已新增标签：待批准。"
+        },
+        {
+            "revision": 49,
+            "global_revision": 1545875168,
+            "author": 9287872,
+            "stamp": 1786416983,
+            "flags": "S",
+            "commentary": "我们加入了特赦并等待批准"
+        },
+        {
+            "revision": 48,
+            "global_revision": 1545468984,
+            "author": 8343886,
+            "stamp": 1785037074,
+            "flags": "A",
+            "commentary": "移除标签：待批准。"
+        },
+        {
+            "revision": 47,
+            "global_revision": 1545467549,
+            "author": 8343886,
+            "stamp": 1785031845,
+            "flags": "A",
+            "commentary": "已新增标签：待批准。"
+        },
+        {
+            "revision": 46,
+            "global_revision": 1545467438,
+            "author": 8343886,
+            "stamp": 1785031475,
+            "flags": "S",
+            "commentary": "对违规审查程序进行了再修订。"
+        },
+        {
+            "revision": 45,
+            "global_revision": 1545349317,
+            "author": 9287872,
+            "stamp": 1784553143,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 44,
+            "global_revision": 1545020158,
+            "author": 8343886,
+            "stamp": 1783218978,
+            "flags": "S",
+            "commentary": "注意到重复描述内容，删减一处。"
+        },
+        {
+            "revision": 43,
+            "global_revision": 1545020059,
+            "author": 8343886,
+            "stamp": 1783218418,
+            "flags": "A",
+            "commentary": "移除标签：待批准。"
+        },
+        {
+            "revision": 42,
+            "global_revision": 1544930336,
+            "author": 8343886,
+            "stamp": 1782801733,
+            "flags": "S",
+            "commentary": "又纠正了数个错字。"
+        },
+        {
+            "revision": 41,
+            "global_revision": 1544930323,
+            "author": 8343886,
+            "stamp": 1782801621,
+            "flags": "A",
+            "commentary": "已新增标签：待批准。"
+        },
+        {
+            "revision": 40,
+            "global_revision": 1544930321,
+            "author": 8343886,
+            "stamp": 1782801611,
+            "flags": "S",
+            "commentary": "提议修订上诉规则和警告判定。"
+        },
+        {
+            "revision": 39,
+            "global_revision": 1543957120,
+            "author": 8343886,
+            "stamp": 1778926657,
+            "flags": "A",
+            "commentary": "移除标签：待批准。"
+        },
+        {
+            "revision": 38,
+            "global_revision": 1543949875,
+            "author": 8343886,
+            "stamp": 1778895892,
+            "flags": "S",
+            "commentary": "修改了“终审理决”这种奇怪的措辞。"
+        },
+        {
+            "revision": 37,
+            "global_revision": 1543949628,
+            "author": 8343886,
+            "stamp": 1778894637,
+            "flags": "S",
+            "commentary": "对采取临时措施进行了补充。"
+        },
+        {
+            "revision": 36,
+            "global_revision": 1543949507,
+            "author": 8343886,
+            "stamp": 1778893927,
+            "flags": "S",
+            "commentary": "进行了解释部分的修订。"
+        },
+        {
+            "revision": 35,
+            "global_revision": 1543932040,
+            "author": 8343886,
+            "stamp": 1778842901,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 34,
+            "global_revision": 1543931977,
+            "author": 8343886,
+            "stamp": 1778842668,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"community-judical-policy\" 至 \"violation-review-policy\"."
+        },
+        {
+            "revision": 33,
+            "global_revision": 1543931973,
+            "author": 8343886,
+            "stamp": 1778842646,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 32,
+            "global_revision": 1543901818,
+            "author": 8343886,
+            "stamp": 1778750036,
+            "flags": "A",
+            "commentary": "已新增标签：待批准。"
+        },
+        {
+            "revision": 31,
+            "global_revision": 1543901810,
+            "author": 8343886,
+            "stamp": 1778749993,
+            "flags": "S T",
+            "commentary": "进行部分细节修订。"
+        },
+        {
+            "revision": 30,
+            "global_revision": 1542960939,
+            "author": 8343886,
+            "stamp": 1774664467,
+            "flags": "A",
+            "commentary": "移除标签：待批准。"
+        },
+        {
+            "revision": 29,
+            "global_revision": 1542899382,
+            "author": 8343886,
+            "stamp": 1774412195,
+            "flags": "A",
+            "commentary": "已新增标签：待批准。"
+        },
+        {
+            "revision": 28,
+            "global_revision": 1542899380,
+            "author": 8343886,
+            "stamp": 1774412187,
+            "flags": "S",
+            "commentary": "进一步增加关于回避章节的说明和临时措施。"
+        },
+        {
+            "revision": 27,
+            "global_revision": 1542899303,
+            "author": 8343886,
+            "stamp": 1774411483,
+            "flags": "A",
+            "commentary": "移除标签：待批准。"
+        },
+        {
+            "revision": 26,
+            "global_revision": 1542816672,
+            "author": 8343886,
+            "stamp": 1774083520,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 25,
+            "global_revision": 1542816657,
+            "author": 8343886,
+            "stamp": 1774083420,
+            "flags": "A",
+            "commentary": "已新增标签：待批准。"
+        },
+        {
+            "revision": 24,
+            "global_revision": 1542816653,
+            "author": 8343886,
+            "stamp": 1774083409,
+            "flags": "S",
+            "commentary": "增加回避制度。"
+        },
+        {
+            "revision": 23,
+            "global_revision": 1542159720,
+            "author": 8343886,
+            "stamp": 1771519619,
+            "flags": "A",
+            "commentary": "移除标签：待批准。"
+        },
+        {
+            "revision": 22,
+            "global_revision": 1542124791,
+            "author": 8343886,
+            "stamp": 1771341872,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 21,
+            "global_revision": 1542124751,
+            "author": 8343886,
+            "stamp": 1771341752,
+            "flags": "S",
+            "commentary": "调整错别字。"
+        },
+        {
+            "revision": 20,
+            "global_revision": 1542124350,
+            "author": 8343886,
+            "stamp": 1771340065,
+            "flags": "A",
+            "commentary": "已新增标签：待批准。"
+        },
+        {
+            "revision": 19,
+            "global_revision": 1542123062,
+            "author": 8343886,
+            "stamp": 1771335249,
+            "flags": "S",
+            "commentary": "理清一些计算规则。"
+        },
+        {
+            "revision": 18,
+            "global_revision": 1542011854,
+            "author": 8343886,
+            "stamp": 1770867771,
+            "flags": "A",
+            "commentary": "移除标签：待批准。"
+        },
+        {
+            "revision": 17,
+            "global_revision": 1541685935,
+            "author": 8343886,
+            "stamp": 1769822733,
+            "flags": "S",
+            "commentary": "加粗重要部分。"
+        },
+        {
+            "revision": 16,
+            "global_revision": 1541685902,
+            "author": 8343886,
+            "stamp": 1769822476,
+            "flags": "A",
+            "commentary": "已新增标签：待批准。"
+        },
+        {
+            "revision": 15,
+            "global_revision": 1541685894,
+            "author": 8343886,
+            "stamp": 1769822426,
+            "flags": "S",
+            "commentary": "新增不予处分和相应的封禁计算公式的说明。修订处分计算程序和规则。"
+        },
+        {
+            "revision": 14,
+            "global_revision": 1541564791,
+            "author": 8343886,
+            "stamp": 1769245601,
+            "flags": "A",
+            "commentary": "移除标签：待批准。"
+        },
+        {
+            "revision": 13,
+            "global_revision": 1541558095,
+            "author": 8343886,
+            "stamp": 1769223308,
+            "flags": "A",
+            "commentary": "已新增标签：待批准。"
+        },
+        {
+            "revision": 12,
+            "global_revision": 1541558094,
+            "author": 8343886,
+            "stamp": 1769223299,
+            "flags": "S",
+            "commentary": "将实体法从本页面中分离。"
+        },
+        {
+            "revision": 11,
+            "global_revision": 1541166893,
+            "author": 8343886,
+            "stamp": 1766999355,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1540302682,
+            "author": 8343886,
+            "stamp": 1765025420,
+            "flags": "A",
+            "commentary": "移除标签：待批准。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1540207497,
+            "author": 8343886,
+            "stamp": 1764812805,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1540175495,
+            "author": 8343886,
+            "stamp": 1764750688,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1540167344,
+            "author": 8343886,
+            "stamp": 1764732927,
+            "flags": "A",
+            "commentary": "已新增标签：待批准。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1540116165,
+            "author": 8343886,
+            "stamp": 1764636111,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1540022325,
+            "author": 8343886,
+            "stamp": 1764388030,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1540018734,
+            "author": 8343886,
+            "stamp": 1764382318,
+            "flags": "A",
+            "commentary": "已新增标签：公共政策。 移除标签：社区政策。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1540003384,
+            "author": 8343886,
+            "stamp": 1764345503,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1540002611,
+            "author": 8343886,
+            "stamp": 1764343558,
+            "flags": "A",
+            "commentary": "已新增标签：社区政策。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540002607,
+            "author": 8343886,
+            "stamp": 1764343547,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540002599,
+            "author": 8343886,
+            "stamp": 1764343533,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467152964,
+    "tags": [
+        "公共政策",
+        "待批准"
+    ],
+    "title": "违规审查政策",
+    "sitemap_update": 1786417014000,
+    "votings": [
+        [
+            9477146,
+            true
+        ]
+    ],
+    "is_locked": false
+}

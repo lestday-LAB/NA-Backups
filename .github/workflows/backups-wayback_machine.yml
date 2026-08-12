@@ -1,0 +1,44 @@
+name: 备份至 Wayback Machine
+
+env:
+  TZ: Asia/Shanghai
+
+on:
+  schedule:
+    - cron: "30 4 * * *"
+  workflow_dispatch:
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Archive pages to Wayback Machine
+        run: |
+          set -e
+
+          archive_url() {
+            local url="$1"
+            local timeout="$2"
+
+            echo "📦 Archiving $url (timeout ${timeout}s)"
+            
+            if curl -f -s -L \
+              --max-time "$timeout" \
+              --retry 2 \
+              --retry-delay 10 \
+              "https://web.archive.org/save/$url"; then
+              echo "✅ Success: $url"
+            else
+              echo "❌ Failed: $url (exit code $?)"
+            fi
+
+            sleep 15
+          }
+
+          archive_url "https://nationarea.wikidot.com/" 120
+          archive_url "https://nationarea.wikidot.com/forum:start" 120
+          archive_url "https://nationarea.wikidot.com/system:list-all-pages" 240

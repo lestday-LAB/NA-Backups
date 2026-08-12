@@ -1,0 +1,61 @@
+{
+    "name": "6876",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1519283225,
+            "author": 8553227,
+            "stamp": 1711797006,
+            "flags": "A",
+            "commentary": "已新增标签：艺术作品。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1519270730,
+            "author": 8553227,
+            "stamp": 1711720380,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1519270501,
+            "author": 8553227,
+            "stamp": 1711719408,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1453154247,
+    "forum_thread": 16760977,
+    "tags": [
+        "艺术作品"
+    ],
+    "title": "埃珥拉地图，但是复古风",
+    "sitemap_update": 1711797006000,
+    "votings": [
+        [
+            8256969,
+            true
+        ],
+        [
+            8464470,
+            true
+        ],
+        [
+            6251737,
+            false
+        ],
+        [
+            8343886,
+            true
+        ],
+        [
+            8118764,
+            true
+        ]
+    ],
+    "is_locked": false
+}

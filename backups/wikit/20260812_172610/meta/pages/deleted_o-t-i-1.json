@@ -1,0 +1,80 @@
+{
+    "name": "deleted:o-t-i-1",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1545884768,
+            "author": 8325214,
+            "stamp": 1786440779,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"o-t-i-1\" 至 \"deleted:o-t-i-1\"."
+        },
+        {
+            "revision": 4,
+            "global_revision": 1529046800,
+            "author": 8325214,
+            "stamp": 1743750531,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1529046796,
+            "author": 8325214,
+            "stamp": 1743750514,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1529046746,
+            "author": 8325214,
+            "stamp": 1743750350,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1529046667,
+            "author": 8325214,
+            "stamp": 1743750215,
+            "flags": "A",
+            "commentary": "已新增标签：故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1529046658,
+            "author": 8325214,
+            "stamp": 1743750185,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459087112,
+    "tags": [
+        "故事"
+    ],
+    "title": "百年的艾思尔蕾德_其之一",
+    "sitemap_update": 1786440779000,
+    "votings": [
+        [
+            6251737,
+            true
+        ],
+        [
+            8343886,
+            true
+        ],
+        [
+            8118764,
+            true
+        ],
+        [
+            9321893,
+            false
+        ]
+    ],
+    "is_locked": false
+}

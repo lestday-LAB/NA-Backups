@@ -1,0 +1,1798 @@
+{
+    "name": "public-policies",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 215,
+            "global_revision": 1543937362,
+            "author": 8343886,
+            "stamp": 1778855977,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 214,
+            "global_revision": 1543931971,
+            "author": 8343886,
+            "stamp": 1778842639,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 213,
+            "global_revision": 1543931964,
+            "author": 8343886,
+            "stamp": 1778842597,
+            "flags": "S",
+            "commentary": "有关重新命名页面：“community-judical-policy-ii” 改为 “dispute-resolution-for-creation” 的自动更新。"
+        },
+        {
+            "revision": 212,
+            "global_revision": 1543928212,
+            "author": 8343886,
+            "stamp": 1778825714,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 211,
+            "global_revision": 1543916960,
+            "author": 8343886,
+            "stamp": 1778814805,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 210,
+            "global_revision": 1543916915,
+            "author": 8343886,
+            "stamp": 1778814747,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 209,
+            "global_revision": 1543101699,
+            "author": 8343886,
+            "stamp": 1775272445,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 208,
+            "global_revision": 1543099512,
+            "author": 8343886,
+            "stamp": 1775266252,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 207,
+            "global_revision": 1541685591,
+            "author": 8343886,
+            "stamp": 1769820637,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 206,
+            "global_revision": 1541560097,
+            "author": 8343886,
+            "stamp": 1769227585,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 205,
+            "global_revision": 1541560084,
+            "author": 8343886,
+            "stamp": 1769227538,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 204,
+            "global_revision": 1540591726,
+            "author": 8343886,
+            "stamp": 1765602727,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 203,
+            "global_revision": 1540022973,
+            "author": 8343886,
+            "stamp": 1764389167,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 202,
+            "global_revision": 1540022950,
+            "author": 8343886,
+            "stamp": 1764389120,
+            "flags": "F",
+            "commentary": "已删除文件 “著作和设定条例”。"
+        },
+        {
+            "revision": 201,
+            "global_revision": 1540022945,
+            "author": 8343886,
+            "stamp": 1764389114,
+            "flags": "F",
+            "commentary": "已删除文件 “创作协商会议条例”。"
+        },
+        {
+            "revision": 200,
+            "global_revision": 1540020083,
+            "author": 8343886,
+            "stamp": 1764384974,
+            "flags": "F",
+            "commentary": "已删除文件 “选举条例”。"
+        },
+        {
+            "revision": 199,
+            "global_revision": 1540020078,
+            "author": 8343886,
+            "stamp": 1764384969,
+            "flags": "F",
+            "commentary": "已删除文件 “议事规则”。"
+        },
+        {
+            "revision": 198,
+            "global_revision": 1540018834,
+            "author": 8343886,
+            "stamp": 1764382526,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 197,
+            "global_revision": 1540016766,
+            "author": 8343886,
+            "stamp": 1764378021,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 196,
+            "global_revision": 1540004637,
+            "author": 8343886,
+            "stamp": 1764348548,
+            "flags": "F",
+            "commentary": "已删除文件 “社区处分条例”。"
+        },
+        {
+            "revision": 195,
+            "global_revision": 1540004633,
+            "author": 8343886,
+            "stamp": 1764348541,
+            "flags": "F",
+            "commentary": "已删除文件 “审判与处分程序条例”。"
+        },
+        {
+            "revision": 194,
+            "global_revision": 1540003024,
+            "author": 8343886,
+            "stamp": 1764344609,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 193,
+            "global_revision": 1540002982,
+            "author": 8343886,
+            "stamp": 1764344523,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 192,
+            "global_revision": 1539995092,
+            "author": 8343886,
+            "stamp": 1764327046,
+            "flags": "A",
+            "commentary": "已新增标签：总览。 移除标签：社区政策。"
+        },
+        {
+            "revision": 191,
+            "global_revision": 1539814877,
+            "author": 8343886,
+            "stamp": 1763823192,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 190,
+            "global_revision": 1539814510,
+            "author": 8343886,
+            "stamp": 1763822477,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 189,
+            "global_revision": 1539814047,
+            "author": 8343886,
+            "stamp": 1763821507,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 188,
+            "global_revision": 1539814025,
+            "author": 8343886,
+            "stamp": 1763821468,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 187,
+            "global_revision": 1539813347,
+            "author": 8343886,
+            "stamp": 1763820061,
+            "flags": "F",
+            "commentary": "已上传文件 “著作和设定条例”。"
+        },
+        {
+            "revision": 186,
+            "global_revision": 1539812505,
+            "author": 8343886,
+            "stamp": 1763818245,
+            "flags": "F",
+            "commentary": "已上传文件 “社区处分条例”。"
+        },
+        {
+            "revision": 185,
+            "global_revision": 1539503829,
+            "author": 8343886,
+            "stamp": 1763207628,
+            "flags": "F",
+            "commentary": "已上传文件 “社区处分条例”。"
+        },
+        {
+            "revision": 184,
+            "global_revision": 1539488764,
+            "author": 8343886,
+            "stamp": 1763177890,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 182"
+        },
+        {
+            "revision": 183,
+            "global_revision": 1539468522,
+            "author": 8343886,
+            "stamp": 1763134181,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 178"
+        },
+        {
+            "revision": 182,
+            "global_revision": 1539460864,
+            "author": 8343886,
+            "stamp": 1763121641,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 181,
+            "global_revision": 1539460847,
+            "author": 8343886,
+            "stamp": 1763121612,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 180,
+            "global_revision": 1539460777,
+            "author": 8343886,
+            "stamp": 1763121489,
+            "flags": "F",
+            "commentary": "已上传文件 “选举条例”。"
+        },
+        {
+            "revision": 179,
+            "global_revision": 1539389149,
+            "author": 8343886,
+            "stamp": 1763047265,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 178,
+            "global_revision": 1539389103,
+            "author": 8343886,
+            "stamp": 1763047233,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 177,
+            "global_revision": 1539389025,
+            "author": 8343886,
+            "stamp": 1763047191,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 176,
+            "global_revision": 1539388980,
+            "author": 8343886,
+            "stamp": 1763047162,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 175,
+            "global_revision": 1539384714,
+            "author": 8343886,
+            "stamp": 1763044596,
+            "flags": "F",
+            "commentary": "已上传文件 “社区处分条例”。"
+        },
+        {
+            "revision": 174,
+            "global_revision": 1539382182,
+            "author": 8343886,
+            "stamp": 1763043130,
+            "flags": "F",
+            "commentary": "已上传文件 “社区处分条例”。"
+        },
+        {
+            "revision": 173,
+            "global_revision": 1539152463,
+            "author": 8343886,
+            "stamp": 1762621661,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 172,
+            "global_revision": 1539152414,
+            "author": 8343886,
+            "stamp": 1762621466,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 171,
+            "global_revision": 1539152389,
+            "author": 8343886,
+            "stamp": 1762621320,
+            "flags": "F",
+            "commentary": "已上传文件 “社区处分条例”。"
+        },
+        {
+            "revision": 170,
+            "global_revision": 1539146661,
+            "author": 8343886,
+            "stamp": 1762603144,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 169,
+            "global_revision": 1539146656,
+            "author": 8343886,
+            "stamp": 1762603117,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 168,
+            "global_revision": 1539146409,
+            "author": 8343886,
+            "stamp": 1762602783,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 167,
+            "global_revision": 1539145495,
+            "author": 8343886,
+            "stamp": 1762600036,
+            "flags": "F",
+            "commentary": "已上传文件 “著作和设定条例”。"
+        },
+        {
+            "revision": 166,
+            "global_revision": 1539145487,
+            "author": 8343886,
+            "stamp": 1762600013,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 165,
+            "global_revision": 1539143305,
+            "author": 8343886,
+            "stamp": 1762591400,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 164,
+            "global_revision": 1539142683,
+            "author": 8343886,
+            "stamp": 1762589041,
+            "flags": "F",
+            "commentary": "已上传文件 “社区处分条例”。"
+        },
+        {
+            "revision": 163,
+            "global_revision": 1539142660,
+            "author": 8343886,
+            "stamp": 1762588970,
+            "flags": "F",
+            "commentary": "已上传文件 “审判与处分程序条例”。"
+        },
+        {
+            "revision": 162,
+            "global_revision": 1539142590,
+            "author": 8343886,
+            "stamp": 1762588604,
+            "flags": "F",
+            "commentary": "已上传文件 “社区处分条例”。"
+        },
+        {
+            "revision": 161,
+            "global_revision": 1539142441,
+            "author": 8343886,
+            "stamp": 1762587949,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 160,
+            "global_revision": 1539142302,
+            "author": 8343886,
+            "stamp": 1762587433,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"basic-rules\" 至 \"public-policies\"."
+        },
+        {
+            "revision": 159,
+            "global_revision": 1539142294,
+            "author": 8343886,
+            "stamp": 1762587397,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 158,
+            "global_revision": 1539141837,
+            "author": 8343886,
+            "stamp": 1762585865,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 157,
+            "global_revision": 1539141789,
+            "author": 8343886,
+            "stamp": 1762585667,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 156,
+            "global_revision": 1539141761,
+            "author": 8343886,
+            "stamp": 1762585589,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 155,
+            "global_revision": 1539141746,
+            "author": 8343886,
+            "stamp": 1762585522,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 154,
+            "global_revision": 1539141728,
+            "author": 8343886,
+            "stamp": 1762585441,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 153,
+            "global_revision": 1537167456,
+            "author": 8343886,
+            "stamp": 1761977913,
+            "flags": "F",
+            "commentary": "已上传文件 “创作协商会议条例”。"
+        },
+        {
+            "revision": 152,
+            "global_revision": 1537165253,
+            "author": 8343886,
+            "stamp": 1761977637,
+            "flags": "F",
+            "commentary": "已上传文件 “创作协商会议条例”。"
+        },
+        {
+            "revision": 151,
+            "global_revision": 1537164306,
+            "author": 8343886,
+            "stamp": 1761977528,
+            "flags": "F",
+            "commentary": "已上传文件 “创作协商会议条例”。"
+        },
+        {
+            "revision": 150,
+            "global_revision": 1537130886,
+            "author": 8343886,
+            "stamp": 1761969014,
+            "flags": "A",
+            "commentary": "已新增标签：社区政策。 移除标签：指导, 系统。"
+        },
+        {
+            "revision": 149,
+            "global_revision": 1533226659,
+            "author": 8343886,
+            "stamp": 1761358115,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 148,
+            "global_revision": 1532690865,
+            "author": 8343886,
+            "stamp": 1759680774,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 147,
+            "global_revision": 1532690341,
+            "author": 8343886,
+            "stamp": 1759678694,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 146,
+            "global_revision": 1532690217,
+            "author": 8343886,
+            "stamp": 1759678172,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 145,
+            "global_revision": 1532690150,
+            "author": 8343886,
+            "stamp": 1759677894,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 144,
+            "global_revision": 1532689798,
+            "author": 8343886,
+            "stamp": 1759676553,
+            "flags": "F",
+            "commentary": "已上传文件 “审判与处分程序条例”。"
+        },
+        {
+            "revision": 143,
+            "global_revision": 1532679926,
+            "author": 8343886,
+            "stamp": 1759636972,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 142,
+            "global_revision": 1532388040,
+            "author": 8343886,
+            "stamp": 1758374652,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 141,
+            "global_revision": 1532388032,
+            "author": 8343886,
+            "stamp": 1758374613,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 140,
+            "global_revision": 1532368142,
+            "author": 8343886,
+            "stamp": 1758292194,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 139,
+            "global_revision": 1532269431,
+            "author": 8343886,
+            "stamp": 1757766027,
+            "flags": "F",
+            "commentary": "已上传文件 “审判与处分程序条例”。"
+        },
+        {
+            "revision": 138,
+            "global_revision": 1532253912,
+            "author": 8343886,
+            "stamp": 1757698074,
+            "flags": "F",
+            "commentary": "已上传文件 “议事规则”。"
+        },
+        {
+            "revision": 137,
+            "global_revision": 1532253876,
+            "author": 8343886,
+            "stamp": 1757697981,
+            "flags": "F",
+            "commentary": "已上传文件 “选举条例”。"
+        },
+        {
+            "revision": 136,
+            "global_revision": 1531776726,
+            "author": 8343886,
+            "stamp": 1756203708,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 135,
+            "global_revision": 1531631778,
+            "author": 8343886,
+            "stamp": 1755525339,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 134,
+            "global_revision": 1531625218,
+            "author": 8343886,
+            "stamp": 1755498597,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 133,
+            "global_revision": 1531621442,
+            "author": 8343886,
+            "stamp": 1755481916,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 132,
+            "global_revision": 1531621215,
+            "author": 8553227,
+            "stamp": 1755480611,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 131,
+            "global_revision": 1531621141,
+            "author": 8553227,
+            "stamp": 1755480330,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 130,
+            "global_revision": 1531554989,
+            "author": 8553227,
+            "stamp": 1755141095,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 129,
+            "global_revision": 1531554508,
+            "author": 8553227,
+            "stamp": 1755139248,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 128,
+            "global_revision": 1531554450,
+            "author": 8553227,
+            "stamp": 1755138989,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 127,
+            "global_revision": 1531554430,
+            "author": 8553227,
+            "stamp": 1755138886,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 126,
+            "global_revision": 1531533341,
+            "author": 8343886,
+            "stamp": 1755071690,
+            "flags": "F",
+            "commentary": "已上传文件 “著作和设定条例”。"
+        },
+        {
+            "revision": 125,
+            "global_revision": 1531509354,
+            "author": 8343886,
+            "stamp": 1754992533,
+            "flags": "F",
+            "commentary": "已上传文件 “著作和设定条例”。"
+        },
+        {
+            "revision": 124,
+            "global_revision": 1531509223,
+            "author": 8343886,
+            "stamp": 1754992212,
+            "flags": "F",
+            "commentary": "已上传文件 “著作和设定条例”。"
+        },
+        {
+            "revision": 123,
+            "global_revision": 1531508850,
+            "author": 8343886,
+            "stamp": 1754990837,
+            "flags": "F",
+            "commentary": "已上传文件 “选举条例”。"
+        },
+        {
+            "revision": 122,
+            "global_revision": 1531410753,
+            "author": 8343886,
+            "stamp": 1754483026,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 121,
+            "global_revision": 1531197898,
+            "author": 8343886,
+            "stamp": 1753535263,
+            "flags": "F",
+            "commentary": "已上传文件 “著作和设定条例”。"
+        },
+        {
+            "revision": 120,
+            "global_revision": 1531196077,
+            "author": 8343886,
+            "stamp": 1753528438,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 119,
+            "global_revision": 1530946947,
+            "author": 8343886,
+            "stamp": 1752281905,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 118,
+            "global_revision": 1530946929,
+            "author": 8343886,
+            "stamp": 1752281814,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 117,
+            "global_revision": 1530946927,
+            "author": 8343886,
+            "stamp": 1752281796,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 116,
+            "global_revision": 1530946922,
+            "author": 8343886,
+            "stamp": 1752281768,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 115,
+            "global_revision": 1530946919,
+            "author": 8343886,
+            "stamp": 1752281729,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 114,
+            "global_revision": 1530946893,
+            "author": 8343886,
+            "stamp": 1752281570,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 113,
+            "global_revision": 1530946889,
+            "author": 8343886,
+            "stamp": 1752281531,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 112,
+            "global_revision": 1530946797,
+            "author": 8343886,
+            "stamp": 1752281008,
+            "flags": "F",
+            "commentary": "已上传文件 “议事规则”。"
+        },
+        {
+            "revision": 111,
+            "global_revision": 1530946793,
+            "author": 8343886,
+            "stamp": 1752280991,
+            "flags": "F",
+            "commentary": "已上传文件 “选举条例”。"
+        },
+        {
+            "revision": 110,
+            "global_revision": 1530946789,
+            "author": 8343886,
+            "stamp": 1752280959,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 109,
+            "global_revision": 1530946783,
+            "author": 8343886,
+            "stamp": 1752280925,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 108,
+            "global_revision": 1530704285,
+            "author": 8343886,
+            "stamp": 1751078230,
+            "flags": "F",
+            "commentary": "已上传文件 “议事规则”。"
+        },
+        {
+            "revision": 107,
+            "global_revision": 1530594696,
+            "author": 8343886,
+            "stamp": 1750465785,
+            "flags": "F",
+            "commentary": "已上传文件 “议事规则”。"
+        },
+        {
+            "revision": 106,
+            "global_revision": 1530594693,
+            "author": 8343886,
+            "stamp": 1750465770,
+            "flags": "F",
+            "commentary": "已上传文件 “选举条例”。"
+        },
+        {
+            "revision": 105,
+            "global_revision": 1530321138,
+            "author": 8343886,
+            "stamp": 1748743739,
+            "flags": "F",
+            "commentary": "已上传文件 “议事规则”。"
+        },
+        {
+            "revision": 104,
+            "global_revision": 1530300814,
+            "author": 8343886,
+            "stamp": 1748615264,
+            "flags": "F",
+            "commentary": "已上传文件 “议事规则”。"
+        },
+        {
+            "revision": 103,
+            "global_revision": 1530300805,
+            "author": 8343886,
+            "stamp": 1748615193,
+            "flags": "F",
+            "commentary": "已上传文件 “选举条例”。"
+        },
+        {
+            "revision": 102,
+            "global_revision": 1530300770,
+            "author": 8343886,
+            "stamp": 1748614934,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 101,
+            "global_revision": 1530142254,
+            "author": 8343886,
+            "stamp": 1747444186,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 100,
+            "global_revision": 1530142169,
+            "author": 8343886,
+            "stamp": 1747443574,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 99,
+            "global_revision": 1530022782,
+            "author": 8343886,
+            "stamp": 1746807979,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 98,
+            "global_revision": 1530020118,
+            "author": 8343886,
+            "stamp": 1746794744,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 97,
+            "global_revision": 1530019958,
+            "author": 8343886,
+            "stamp": 1746794060,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 96,
+            "global_revision": 1530019881,
+            "author": 8343886,
+            "stamp": 1746793770,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 95,
+            "global_revision": 1528557675,
+            "author": 8343886,
+            "stamp": 1742572938,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 94,
+            "global_revision": 1528557633,
+            "author": 8343886,
+            "stamp": 1742572731,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 93,
+            "global_revision": 1528557593,
+            "author": 8343886,
+            "stamp": 1742572482,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 92,
+            "global_revision": 1528472934,
+            "author": 8343886,
+            "stamp": 1742112792,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 91,
+            "global_revision": 1528472927,
+            "author": 8343886,
+            "stamp": 1742112735,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 90,
+            "global_revision": 1528472903,
+            "author": 8343886,
+            "stamp": 1742112610,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 89,
+            "global_revision": 1528472561,
+            "author": 8343886,
+            "stamp": 1742111516,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 88,
+            "global_revision": 1528472477,
+            "author": 8343886,
+            "stamp": 1742111370,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 87,
+            "global_revision": 1528270657,
+            "author": 8343886,
+            "stamp": 1741426417,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 86,
+            "global_revision": 1528270653,
+            "author": 8343886,
+            "stamp": 1741426377,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 85,
+            "global_revision": 1528270630,
+            "author": 8343886,
+            "stamp": 1741426266,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 84,
+            "global_revision": 1528270220,
+            "author": 8324175,
+            "stamp": 1741424319,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 83,
+            "global_revision": 1528270200,
+            "author": 8324175,
+            "stamp": 1741424242,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 81"
+        },
+        {
+            "revision": 82,
+            "global_revision": 1528270160,
+            "author": 8324175,
+            "stamp": 1741424195,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 81,
+            "global_revision": 1528267001,
+            "author": 8343886,
+            "stamp": 1741406827,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 80,
+            "global_revision": 1528265441,
+            "author": 8343886,
+            "stamp": 1741399556,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 79,
+            "global_revision": 1528264634,
+            "author": 8343886,
+            "stamp": 1741395110,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 78,
+            "global_revision": 1528146806,
+            "author": 8343886,
+            "stamp": 1740831045,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 77,
+            "global_revision": 1528146783,
+            "author": 8343886,
+            "stamp": 1740830967,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 76,
+            "global_revision": 1528146774,
+            "author": 8343886,
+            "stamp": 1740830898,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 75,
+            "global_revision": 1528146761,
+            "author": 8343886,
+            "stamp": 1740830856,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 74,
+            "global_revision": 1528146756,
+            "author": 8343886,
+            "stamp": 1740830834,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 73,
+            "global_revision": 1528143751,
+            "author": 8343886,
+            "stamp": 1740821191,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 59"
+        },
+        {
+            "revision": 72,
+            "global_revision": 1528143698,
+            "author": 8324175,
+            "stamp": 1740820854,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 71,
+            "global_revision": 1528143652,
+            "author": 8324175,
+            "stamp": 1740820752,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 70,
+            "global_revision": 1528143646,
+            "author": 8324175,
+            "stamp": 1740820718,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 69,
+            "global_revision": 1528143611,
+            "author": 8324175,
+            "stamp": 1740820508,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 68,
+            "global_revision": 1528143603,
+            "author": 8324175,
+            "stamp": 1740820449,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 67,
+            "global_revision": 1528143591,
+            "author": 8324175,
+            "stamp": 1740820404,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 66,
+            "global_revision": 1528143546,
+            "author": 8324175,
+            "stamp": 1740820157,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 65,
+            "global_revision": 1528143537,
+            "author": 8324175,
+            "stamp": 1740820124,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 64,
+            "global_revision": 1528143479,
+            "author": 8324175,
+            "stamp": 1740820050,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 63,
+            "global_revision": 1528143470,
+            "author": 8324175,
+            "stamp": 1740819998,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 62,
+            "global_revision": 1528143415,
+            "author": 8324175,
+            "stamp": 1740819657,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 61,
+            "global_revision": 1528143400,
+            "author": 8324175,
+            "stamp": 1740819553,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 60,
+            "global_revision": 1528143389,
+            "author": 8324175,
+            "stamp": 1740819495,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 59,
+            "global_revision": 1528137878,
+            "author": 8343886,
+            "stamp": 1740793058,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 58,
+            "global_revision": 1528042074,
+            "author": 8553227,
+            "stamp": 1740230098,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 57,
+            "global_revision": 1527631508,
+            "author": 8356393,
+            "stamp": 1738908632,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 56,
+            "global_revision": 1527598454,
+            "author": 8343886,
+            "stamp": 1738733884,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 55,
+            "global_revision": 1527598411,
+            "author": 8343886,
+            "stamp": 1738733655,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 54,
+            "global_revision": 1527596639,
+            "author": 8343886,
+            "stamp": 1738719901,
+            "flags": "F",
+            "commentary": "已上传文件 “外交人员条例”。"
+        },
+        {
+            "revision": 53,
+            "global_revision": 1527590787,
+            "author": 8343886,
+            "stamp": 1738681508,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 52,
+            "global_revision": 1527590783,
+            "author": 8343886,
+            "stamp": 1738681470,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 51,
+            "global_revision": 1527590759,
+            "author": 8343886,
+            "stamp": 1738681336,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 50,
+            "global_revision": 1527590305,
+            "author": 8343886,
+            "stamp": 1738679495,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 49,
+            "global_revision": 1527586699,
+            "author": 8343886,
+            "stamp": 1738664404,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 48,
+            "global_revision": 1527571324,
+            "author": 8343886,
+            "stamp": 1738584124,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 47,
+            "global_revision": 1527570924,
+            "author": 8343886,
+            "stamp": 1738582384,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 46,
+            "global_revision": 1527570919,
+            "author": 8343886,
+            "stamp": 1738582364,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 45,
+            "global_revision": 1527570888,
+            "author": 8343886,
+            "stamp": 1738582205,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 44,
+            "global_revision": 1527570697,
+            "author": 8343886,
+            "stamp": 1738581388,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 43,
+            "global_revision": 1527570689,
+            "author": 8343886,
+            "stamp": 1738581312,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 42,
+            "global_revision": 1527570661,
+            "author": 8343886,
+            "stamp": 1738581079,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 41,
+            "global_revision": 1527570654,
+            "author": 8343886,
+            "stamp": 1738581039,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 40,
+            "global_revision": 1527569678,
+            "author": 8343886,
+            "stamp": 1738577220,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 39,
+            "global_revision": 1527314476,
+            "author": 8343886,
+            "stamp": 1737299746,
+            "flags": "A",
+            "commentary": "已新增标签：指导。"
+        },
+        {
+            "revision": 38,
+            "global_revision": 1526710216,
+            "author": 8343886,
+            "stamp": 1734109853,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 37,
+            "global_revision": 1523001014,
+            "author": 6251737,
+            "stamp": 1720749536,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 36,
+            "global_revision": 1522955780,
+            "author": 6251737,
+            "stamp": 1720536892,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 35,
+            "global_revision": 1522955761,
+            "author": 6251737,
+            "stamp": 1720536788,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 34,
+            "global_revision": 1516271189,
+            "author": 8343886,
+            "stamp": 1701005550,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 33,
+            "global_revision": 1515568597,
+            "author": 8343886,
+            "stamp": 1698621577,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 32,
+            "global_revision": 1514580948,
+            "author": 8343886,
+            "stamp": 1696581168,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 31,
+            "global_revision": 1514571397,
+            "author": 8343886,
+            "stamp": 1696551868,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 30,
+            "global_revision": 1514571259,
+            "author": 8343886,
+            "stamp": 1696551359,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 29,
+            "global_revision": 1514193162,
+            "author": 8343886,
+            "stamp": 1695544039,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 28,
+            "global_revision": 1514193159,
+            "author": 8343886,
+            "stamp": 1695544018,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 27,
+            "global_revision": 1514192628,
+            "author": 8343886,
+            "stamp": 1695541874,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 26,
+            "global_revision": 1514192614,
+            "author": 8343886,
+            "stamp": 1695541781,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 25,
+            "global_revision": 1514192336,
+            "author": 8343886,
+            "stamp": 1695540737,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 24,
+            "global_revision": 1514192306,
+            "author": 8343886,
+            "stamp": 1695540722,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 23,
+            "global_revision": 1514192253,
+            "author": 8343886,
+            "stamp": 1695540615,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 22,
+            "global_revision": 1514192247,
+            "author": 8343886,
+            "stamp": 1695540568,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 21,
+            "global_revision": 1514192238,
+            "author": 8343886,
+            "stamp": 1695540530,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 20,
+            "global_revision": 1514191776,
+            "author": 8343886,
+            "stamp": 1695539285,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 19,
+            "global_revision": 1513932728,
+            "author": 8343886,
+            "stamp": 1694705786,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1513661069,
+            "author": 8343886,
+            "stamp": 1693638105,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1513660574,
+            "author": 8543531,
+            "stamp": 1693636365,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1513660563,
+            "author": 8543531,
+            "stamp": 1693636317,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1513660463,
+            "author": 8543531,
+            "stamp": 1693636008,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1513094367,
+            "author": 8343886,
+            "stamp": 1692404574,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1513085786,
+            "author": 8343886,
+            "stamp": 1692364796,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1513084950,
+            "author": 8343886,
+            "stamp": 1692361932,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1512883541,
+            "author": 8343886,
+            "stamp": 1691657453,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1512882330,
+            "author": 8343886,
+            "stamp": 1691652403,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1512882317,
+            "author": 8343886,
+            "stamp": 1691652338,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1512882312,
+            "author": 8343886,
+            "stamp": 1691652321,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1512882293,
+            "author": 8343886,
+            "stamp": 1691652218,
+            "flags": "A",
+            "commentary": "已新增标签：系统。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1512882285,
+            "author": 8343886,
+            "stamp": 1691652175,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1512882224,
+            "author": 8343886,
+            "stamp": 1691651992,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1512881778,
+            "author": 8343886,
+            "stamp": 1691649931,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1512881335,
+            "author": 8343886,
+            "stamp": 1691648635,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1512881305,
+            "author": 8343886,
+            "stamp": 1691648519,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1512879354,
+            "author": 8343886,
+            "stamp": 1691640691,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1512879161,
+            "author": 8343886,
+            "stamp": 1691639761,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11318337,
+            "name": "外交人员条例",
+            "url": "http://nationarea.wikidot.com/local--files/public-policies/%E5%A4%96%E4%BA%A4%E4%BA%BA%E5%91%98%E6%9D%A1%E4%BE%8B",
+            "size": "1.97 kB (2020 Bytes)",
+            "size_bytes": 2020,
+            "mime": "text/plain; charset=utf-8",
+            "content": "Unicode text, UTF-8 text, with CRLF line terminators",
+            "author": 8343886,
+            "stamp": 1738719901,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1449329433,
+    "forum_thread": 17045525,
+    "tags": [
+        "总览"
+    ],
+    "title": "公共政策中心",
+    "sitemap_update": 1778855977000,
+    "votings": [
+        [
+            8356393,
+            true
+        ],
+        [
+            8710540,
+            false
+        ],
+        [
+            9470182,
+            true
+        ],
+        [
+            8148020,
+            true
+        ],
+        [
+            6251737,
+            true
+        ],
+        [
+            8325214,
+            true
+        ],
+        [
+            8375717,
+            true
+        ],
+        [
+            8878416,
+            true
+        ],
+        [
+            8345010,
+            true
+        ],
+        [
+            8118764,
+            true
+        ]
+    ],
+    "is_locked": true
+}

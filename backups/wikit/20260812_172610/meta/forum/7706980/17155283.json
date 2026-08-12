@@ -1,0 +1,23 @@
+{
+    "title": "国际共产主义联盟",
+    "id": 17155283,
+    "description": "",
+    "last": 1750127693,
+    "lastUser": 8426633,
+    "started": 1750127650,
+    "startedUser": null,
+    "postsNum": 1,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7035177,
+            "title": "全球战争?",
+            "poster": 8426633,
+            "stamp": 1750127693,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}
