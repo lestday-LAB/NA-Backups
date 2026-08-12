@@ -1,0 +1,229 @@
+{
+    "name": "component:dialogue",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 23,
+            "global_revision": 1529476509,
+            "author": 8386863,
+            "stamp": 1745320738,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 20"
+        },
+        {
+            "revision": 22,
+            "global_revision": 1529476505,
+            "author": 8386863,
+            "stamp": 1745320722,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 21,
+            "global_revision": 1529476503,
+            "author": 8386863,
+            "stamp": 1745320706,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 19"
+        },
+        {
+            "revision": 20,
+            "global_revision": 1529476486,
+            "author": 8386863,
+            "stamp": 1745320602,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 18"
+        },
+        {
+            "revision": 19,
+            "global_revision": 1529476485,
+            "author": 8386863,
+            "stamp": 1745320586,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1529476470,
+            "author": 8386863,
+            "stamp": 1745320485,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 15"
+        },
+        {
+            "revision": 17,
+            "global_revision": 1529476467,
+            "author": 8386863,
+            "stamp": 1745320466,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1529476434,
+            "author": 8386863,
+            "stamp": 1745320327,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1529476424,
+            "author": 8386863,
+            "stamp": 1745320264,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 13"
+        },
+        {
+            "revision": 14,
+            "global_revision": 1529476423,
+            "author": 8386863,
+            "stamp": 1745320250,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1529476411,
+            "author": 8386863,
+            "stamp": 1745320156,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 10"
+        },
+        {
+            "revision": 12,
+            "global_revision": 1529476408,
+            "author": 8386863,
+            "stamp": 1745320140,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1529476405,
+            "author": 8386863,
+            "stamp": 1745320118,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1529413156,
+            "author": 8386863,
+            "stamp": 1745071988,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1529412879,
+            "author": 8386863,
+            "stamp": 1745070892,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1529407774,
+            "author": 8386863,
+            "stamp": 1745045488,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1529407765,
+            "author": 8386863,
+            "stamp": 1745045451,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1529407424,
+            "author": 8386863,
+            "stamp": 1745043105,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1529405763,
+            "author": 8386863,
+            "stamp": 1745034973,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1529405752,
+            "author": 8386863,
+            "stamp": 1745034924,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1529405742,
+            "author": 8386863,
+            "stamp": 1745034838,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1529405464,
+            "author": 8386863,
+            "stamp": 1745032965,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1529405456,
+            "author": 8386863,
+            "stamp": 1745032918,
+            "flags": "A",
+            "commentary": "已新增标签：组件。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1529405455,
+            "author": 8386863,
+            "stamp": 1745032904,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459283120,
+    "rating": 5,
+    "tags": [
+        "组件"
+    ],
+    "title": "通用对话组件",
+    "sitemap_update": 1745320738000,
+    "votings": [
+        [
+            8356393,
+            true
+        ],
+        [
+            9102405,
+            true
+        ],
+        [
+            8325214,
+            true
+        ],
+        [
+            8343886,
+            true
+        ],
+        [
+            9321893,
+            true
+        ]
+    ],
+    "is_locked": false
+}

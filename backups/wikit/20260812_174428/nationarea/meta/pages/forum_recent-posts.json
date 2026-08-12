@@ -1,0 +1,47 @@
+{
+    "name": "forum:recent-posts",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1537131414,
+            "author": 8343886,
+            "stamp": 1761971328,
+            "flags": "A",
+            "commentary": "已新增标签：功能。 移除标签：系统。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530613905,
+            "author": 8325214,
+            "stamp": 1750584448,
+            "flags": "A",
+            "commentary": "已新增标签：系统。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1513682168,
+            "author": 6348600,
+            "stamp": 1693710886,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1512882371,
+            "author": 8343886,
+            "stamp": 1691652663,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1449330616,
+    "tags": [
+        "功能"
+    ],
+    "title": "最近的帖子",
+    "sitemap_update": 1761971328000,
+    "votings": [],
+    "is_locked": false
+}

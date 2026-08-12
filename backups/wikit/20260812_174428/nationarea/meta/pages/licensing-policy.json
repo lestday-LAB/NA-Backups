@@ -1,0 +1,184 @@
+{
+    "name": "licensing-policy",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 19,
+            "global_revision": 1543957125,
+            "author": 8343886,
+            "stamp": 1778926677,
+            "flags": "A",
+            "commentary": "移除标签：待批准。"
+        },
+        {
+            "revision": 18,
+            "global_revision": 1543937238,
+            "author": 8343886,
+            "stamp": 1778855778,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1543937216,
+            "author": 8343886,
+            "stamp": 1778855732,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1543937126,
+            "author": 8343886,
+            "stamp": 1778855596,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1543936636,
+            "author": 8343886,
+            "stamp": 1778854932,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1543936623,
+            "author": 8343886,
+            "stamp": 1778854908,
+            "flags": "A",
+            "commentary": "已新增标签：待批准。"
+        },
+        {
+            "revision": 13,
+            "global_revision": 1543936597,
+            "author": 8343886,
+            "stamp": 1778854897,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1543102063,
+            "author": 8343886,
+            "stamp": 1775273705,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1541205387,
+            "author": 8343886,
+            "stamp": 1767233071,
+            "flags": "A",
+            "commentary": "移除标签：待批准。"
+        },
+        {
+            "revision": 10,
+            "global_revision": 1541197577,
+            "author": 8343886,
+            "stamp": 1767188429,
+            "flags": "A",
+            "commentary": "已新增标签：待批准。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1541197575,
+            "author": 8343886,
+            "stamp": 1767188420,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1540302700,
+            "author": 8343886,
+            "stamp": 1765025464,
+            "flags": "A",
+            "commentary": "移除标签：待批准。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1540167406,
+            "author": 8343886,
+            "stamp": 1764733070,
+            "flags": "A",
+            "commentary": "已新增标签：待批准。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1540104643,
+            "author": 8343886,
+            "stamp": 1764577683,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1540025153,
+            "author": 8343886,
+            "stamp": 1764392978,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1540023316,
+            "author": 8343886,
+            "stamp": 1764389808,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1540023112,
+            "author": 8343886,
+            "stamp": 1764389421,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1540022928,
+            "author": 8343886,
+            "stamp": 1764389084,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540022915,
+            "author": 8343886,
+            "stamp": 1764389053,
+            "flags": "A",
+            "commentary": "已新增标签：公共政策。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540022907,
+            "author": 8343886,
+            "stamp": 1764389042,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467167992,
+    "tags": [
+        "公共政策"
+    ],
+    "title": "授权和使用政策",
+    "sitemap_update": 1778926677000,
+    "votings": [
+        [
+            8356393,
+            true
+        ],
+        [
+            8683675,
+            true
+        ]
+    ],
+    "is_locked": false
+}

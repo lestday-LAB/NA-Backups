@@ -1,0 +1,122 @@
+{
+    "title": "版式：落雨夜",
+    "id": 17074994,
+    "description": "",
+    "last": 1743252967,
+    "lastUser": 6251737,
+    "started": 1742727334,
+    "startedUser": null,
+    "postsNum": 4,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 6889681,
+            "title": "作者帖",
+            "poster": 8386863,
+            "stamp": 1742727418,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 6889734,
+            "title": "",
+            "poster": 8118764,
+            "stamp": 1742733388,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 6890842,
+            "title": "已阅",
+            "poster": 8373329,
+            "stamp": 1742890556,
+            "lastEdit": 1742895181,
+            "lastEditBy": 8373329,
+            "revisions": [
+                {
+                    "title": "已阅",
+                    "author": 8373329,
+                    "id": 8346647,
+                    "stamp": 1742895181
+                },
+                {
+                    "title": "已阅",
+                    "author": 8373329,
+                    "id": 8346645,
+                    "stamp": 1742895161
+                },
+                {
+                    "title": "已阅",
+                    "author": 8373329,
+                    "id": 8346638,
+                    "stamp": 1742894967
+                },
+                {
+                    "title": "已阅",
+                    "author": 8373329,
+                    "id": 8346636,
+                    "stamp": 1742894888
+                },
+                {
+                    "title": "已阅",
+                    "author": 8373329,
+                    "id": 8346634,
+                    "stamp": 1742894830
+                },
+                {
+                    "title": "已阅",
+                    "author": 8373329,
+                    "id": 8346631,
+                    "stamp": 1742894719
+                },
+                {
+                    "title": "已阅",
+                    "author": 8373329,
+                    "id": 8346630,
+                    "stamp": 1742894705
+                },
+                {
+                    "title": "已阅",
+                    "author": 8373329,
+                    "id": 8346628,
+                    "stamp": 1742894638
+                },
+                {
+                    "title": "已阅",
+                    "author": 8373329,
+                    "id": 8346624,
+                    "stamp": 1742894526
+                },
+                {
+                    "title": "已阅",
+                    "author": 8373329,
+                    "id": 8346622,
+                    "stamp": 1742894419
+                },
+                {
+                    "title": "已阅",
+                    "author": 8373329,
+                    "id": 8346618,
+                    "stamp": 1742894205
+                },
+                {
+                    "title": "已阅",
+                    "author": 8373329,
+                    "id": 8346592,
+                    "stamp": 1742890556
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": 6893729,
+            "title": "48该换版式了",
+            "poster": 6251737,
+            "stamp": 1743252967,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "name": "so-many-problems",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 11,
+            "global_revision": 1541316458,
+            "author": 8343886,
+            "stamp": 1767889469,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1541316450,
+            "author": 8343886,
+            "stamp": 1767889430,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1541316443,
+            "author": 8343886,
+            "stamp": 1767889395,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1541316421,
+            "author": 8343886,
+            "stamp": 1767889279,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1541316007,
+            "author": 8343886,
+            "stamp": 1767887397,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1541315855,
+            "author": 8343886,
+            "stamp": 1767886865,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1541315799,
+            "author": 8343886,
+            "stamp": 1767886617,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"old:so-many-problems\" 至 \"so-many-problems\"."
+        },
+        {
+            "revision": 4,
+            "global_revision": 1541315708,
+            "author": 8343886,
+            "stamp": 1767886293,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"so-many-problems\" 至 \"old:so-many-problems\"."
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541315552,
+            "author": 8343886,
+            "stamp": 1767885642,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541315276,
+            "author": 8343886,
+            "stamp": 1767884447,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541315270,
+            "author": 8343886,
+            "stamp": 1767884423,
+            "flags": "A",
+            "commentary": "已新增标签：议论。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541315258,
+            "author": 8343886,
+            "stamp": 1767884378,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467978782,
+    "forum_thread": 17558768,
+    "tags": [
+        "议论"
+    ],
+    "title": "SwitzerCandy 关于部分社区历史问题的意见、回应和自我批评",
+    "sitemap_update": 1767889469000,
+    "votings": [
+        [
+            8356393,
+            true
+        ],
+        [
+            9562327,
+            true
+        ],
+        [
+            8426551,
+            true
+        ],
+        [
+            8553227,
+            true
+        ],
+        [
+            9287872,
+            true
+        ]
+    ],
+    "is_locked": false
+}

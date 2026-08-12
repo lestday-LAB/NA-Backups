@@ -1,0 +1,247 @@
+{
+    "name": "pages-administration-policy",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 28,
+            "global_revision": 1545280349,
+            "author": 8343886,
+            "stamp": 1784279663,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 27,
+            "global_revision": 1544752329,
+            "author": 9287872,
+            "stamp": 1781950462,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 26,
+            "global_revision": 1544751938,
+            "author": 9287872,
+            "stamp": 1781949274,
+            "flags": "S",
+            "commentary": "新加入了審查機制。"
+        },
+        {
+            "revision": 25,
+            "global_revision": 1544357369,
+            "author": 8343886,
+            "stamp": 1780216901,
+            "flags": "S",
+            "commentary": "增设了原理；删除了国际条例。"
+        },
+        {
+            "revision": 24,
+            "global_revision": 1543938099,
+            "author": 8343886,
+            "stamp": 1778857344,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 23,
+            "global_revision": 1543933706,
+            "author": 8343886,
+            "stamp": 1778849394,
+            "flags": "S",
+            "commentary": "修改重写相关的规定。"
+        },
+        {
+            "revision": 22,
+            "global_revision": 1543646686,
+            "author": 8343886,
+            "stamp": 1777615329,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 21,
+            "global_revision": 1543568658,
+            "author": 8343886,
+            "stamp": 1777189105,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 20,
+            "global_revision": 1543131248,
+            "author": 8343886,
+            "stamp": 1775384152,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 19,
+            "global_revision": 1543102068,
+            "author": 8343886,
+            "stamp": 1775273724,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1542591416,
+            "author": 8343886,
+            "stamp": 1773202136,
+            "flags": "S",
+            "commentary": "增加文言标签。"
+        },
+        {
+            "revision": 17,
+            "global_revision": 1541198003,
+            "author": 8343886,
+            "stamp": 1767189829,
+            "flags": "S",
+            "commentary": "添加”悲剧“标签。这一标签因误删而未被显示，现重新添加，直接成为有效修订。"
+        },
+        {
+            "revision": 16,
+            "global_revision": 1541197794,
+            "author": 8343886,
+            "stamp": 1767189245,
+            "flags": "A",
+            "commentary": "移除标签：待批准。"
+        },
+        {
+            "revision": 15,
+            "global_revision": 1541089924,
+            "author": 8343886,
+            "stamp": 1766802157,
+            "flags": "A",
+            "commentary": "已新增标签：待批准。"
+        },
+        {
+            "revision": 14,
+            "global_revision": 1541089388,
+            "author": 8343886,
+            "stamp": 1766801377,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1540952412,
+            "author": 8343886,
+            "stamp": 1766550059,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1540782006,
+            "author": 8343886,
+            "stamp": 1766230772,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1540302688,
+            "author": 8343886,
+            "stamp": 1765025440,
+            "flags": "A",
+            "commentary": "移除标签：待批准。"
+        },
+        {
+            "revision": 10,
+            "global_revision": 1540172119,
+            "author": 8343886,
+            "stamp": 1764743317,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1540171489,
+            "author": 8343886,
+            "stamp": 1764742027,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1540168090,
+            "author": 8343886,
+            "stamp": 1764734676,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1540167400,
+            "author": 8343886,
+            "stamp": 1764733054,
+            "flags": "A",
+            "commentary": "已新增标签：待批准。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1540116136,
+            "author": 8343886,
+            "stamp": 1764635694,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1540023071,
+            "author": 8343886,
+            "stamp": 1764389341,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1540022535,
+            "author": 8343886,
+            "stamp": 1764388367,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1540019490,
+            "author": 8343886,
+            "stamp": 1764383922,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1540019477,
+            "author": 8343886,
+            "stamp": 1764383892,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540019147,
+            "author": 8343886,
+            "stamp": 1764383293,
+            "flags": "A",
+            "commentary": "已新增标签：公共政策。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540019141,
+            "author": 8343886,
+            "stamp": 1764383279,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467165851,
+    "tags": [
+        "公共政策"
+    ],
+    "title": "页面管理政策",
+    "sitemap_update": 1784279663000,
+    "votings": [],
+    "is_locked": false
+}
