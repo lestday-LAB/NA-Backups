@@ -1,0 +1,110 @@
+{
+    "name": "mayor",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1544537807,
+            "author": 9287872,
+            "stamp": 1781005067,
+            "flags": "F",
+            "commentary": "已上传文件 “img”。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1544537776,
+            "author": 9287872,
+            "stamp": 1781004971,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1544537437,
+            "author": 9287872,
+            "stamp": 1781003499,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1544537435,
+            "author": 9287872,
+            "stamp": 1781003489,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1544537432,
+            "author": 9287872,
+            "stamp": 1781003464,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1544537429,
+            "author": 9287872,
+            "stamp": 1781003443,
+            "flags": "A",
+            "commentary": "已新增标签：指导。 移除标签：公共政策。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1544537426,
+            "author": 9287872,
+            "stamp": 1781003426,
+            "flags": "A",
+            "commentary": "已新增标签：公共政策。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544537425,
+            "author": 9287872,
+            "stamp": 1781003410,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11835939,
+            "name": "img",
+            "url": "http://nationarea.wikidot.com/local--files/mayor/img",
+            "size": "145.77 kB (149266 Bytes)",
+            "size_bytes": 149266,
+            "mime": "image/png",
+            "content": "PNG image data, 264 x 356, 8-bit/color RGBA, non-interlaced",
+            "author": 9287872,
+            "stamp": 1781005067,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1468828566,
+    "forum_thread": 18018714,
+    "tags": [
+        "指导"
+    ],
+    "title": "The Nationarea 市長",
+    "sitemap_update": 1781005067000,
+    "votings": [
+        [
+            9477146,
+            true
+        ],
+        [
+            9899603,
+            true
+        ],
+        [
+            8736966,
+            true
+        ],
+        [
+            8343886,
+            true
+        ]
+    ],
+    "is_locked": false
+}

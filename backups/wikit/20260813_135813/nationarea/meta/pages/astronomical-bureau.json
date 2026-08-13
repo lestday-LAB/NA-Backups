@@ -1,0 +1,49 @@
+{
+    "name": "astronomical-bureau",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1542241401,
+            "author": 9102405,
+            "stamp": 1771816348,
+            "flags": "A",
+            "commentary": "已新增标签：组织。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542241394,
+            "author": 9102405,
+            "stamp": 1771816330,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468162915,
+    "forum_thread": 17598383,
+    "tags": [
+        "组织"
+    ],
+    "title": "司天监",
+    "sitemap_update": 1771816348000,
+    "votings": [
+        [
+            8708015,
+            true
+        ],
+        [
+            8426633,
+            true
+        ],
+        [
+            8343886,
+            true
+        ],
+        [
+            8553227,
+            true
+        ]
+    ],
+    "is_locked": false
+}

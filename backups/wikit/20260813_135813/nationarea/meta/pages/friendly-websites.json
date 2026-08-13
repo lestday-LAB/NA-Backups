@@ -1,0 +1,68 @@
+{
+    "name": "friendly-websites",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1544824617,
+            "author": 8553227,
+            "stamp": 1782276511,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1539336740,
+            "author": 8343886,
+            "stamp": 1762945012,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1539152201,
+            "author": 8343886,
+            "stamp": 1762620419,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1539148110,
+            "author": 8343886,
+            "stamp": 1762606907,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1539147726,
+            "author": 8343886,
+            "stamp": 1762605847,
+            "flags": "A",
+            "commentary": "已新增标签：总览。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539147672,
+            "author": 8343886,
+            "stamp": 1762605683,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1466495898,
+    "tags": [
+        "总览"
+    ],
+    "title": "友情链接",
+    "sitemap_update": 1782276511000,
+    "votings": [
+        [
+            6251737,
+            true
+        ]
+    ],
+    "is_locked": false
+}

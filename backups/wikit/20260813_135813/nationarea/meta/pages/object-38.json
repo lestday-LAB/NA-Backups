@@ -1,0 +1,114 @@
+{
+    "name": "object-38",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 9,
+            "global_revision": 1527099087,
+            "author": 8374306,
+            "stamp": 1736050681,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1527098988,
+            "author": 8374306,
+            "stamp": 1736050108,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1527098733,
+            "author": 8374306,
+            "stamp": 1736048965,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1527098685,
+            "author": 8374306,
+            "stamp": 1736048684,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1527098245,
+            "author": 8374306,
+            "stamp": 1736046233,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1527098224,
+            "author": 8374306,
+            "stamp": 1736046066,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1527097669,
+            "author": 8374306,
+            "stamp": 1736041226,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1527097666,
+            "author": 8374306,
+            "stamp": 1736041189,
+            "flags": "A",
+            "commentary": "已新增标签：宗教性, 物品。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1527097663,
+            "author": 8374306,
+            "stamp": 1736041171,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1527097658,
+            "author": 8374306,
+            "stamp": 1736041118,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458181140,
+    "rating": 4,
+    "tags": [
+        "宗教性",
+        "物品"
+    ],
+    "title": "安卡教圣物-银杖",
+    "sitemap_update": 1736050681000,
+    "votings": [
+        [
+            8256969,
+            true
+        ],
+        [
+            8374306,
+            true
+        ],
+        [
+            8356393,
+            true
+        ],
+        [
+            8118764,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,72 @@
+{
+    "name": "deleted:the-great-book",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1545884745,
+            "author": 8325214,
+            "stamp": 1786440702,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"the-great-book\" 至 \"deleted:the-great-book\"."
+        },
+        {
+            "revision": 3,
+            "global_revision": 1539465427,
+            "author": 8325214,
+            "stamp": 1763129155,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1539465160,
+            "author": 8325214,
+            "stamp": 1763128641,
+            "flags": "A",
+            "commentary": "已新增标签：争议性, 悲剧, 物品。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1539465072,
+            "author": 8325214,
+            "stamp": 1763128509,
+            "flags": "A",
+            "commentary": "已新增标签：故事, 浪漫, 讽刺, 诗歌, 隐喻。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539465025,
+            "author": 8325214,
+            "stamp": 1763128417,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1466741906,
+    "rating": 2,
+    "tags": [
+        "争议性",
+        "悲剧",
+        "故事",
+        "浪漫",
+        "物品",
+        "讽刺",
+        "诗歌",
+        "隐喻"
+    ],
+    "title": "●●伪●●●真●●●力●●",
+    "sitemap_update": 1786440702000,
+    "votings": [
+        [
+            6251737,
+            true
+        ],
+        [
+            8343886,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,176 @@
+{
+    "name": "old:humanrights",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 17,
+            "global_revision": 1541212356,
+            "author": 8343886,
+            "stamp": 1767271445,
+            "flags": "A",
+            "commentary": "已新增标签：归档页。 移除标签：世界联盟, 国际条例。"
+        },
+        {
+            "revision": 16,
+            "global_revision": 1541212349,
+            "author": 8343886,
+            "stamp": 1767271432,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1541212342,
+            "author": 8343886,
+            "stamp": 1767271416,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"wa:humanrights\" 至 \"old:humanrights\"."
+        },
+        {
+            "revision": 14,
+            "global_revision": 1530656012,
+            "author": 8343886,
+            "stamp": 1750849779,
+            "flags": "A",
+            "commentary": "已新增标签：国际条例。"
+        },
+        {
+            "revision": 13,
+            "global_revision": 1529402633,
+            "author": 8343886,
+            "stamp": 1745018911,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1529402600,
+            "author": 8343886,
+            "stamp": 1745018755,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1529199167,
+            "author": 8343886,
+            "stamp": 1744419513,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1529199134,
+            "author": 8343886,
+            "stamp": 1744419252,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1529199133,
+            "author": 8343886,
+            "stamp": 1744419239,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1528927462,
+            "author": 8343886,
+            "stamp": 1743255784,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1528922878,
+            "author": 8343886,
+            "stamp": 1743235143,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1528573879,
+            "author": 8343886,
+            "stamp": 1742644979,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1528573667,
+            "author": 8343886,
+            "stamp": 1742643809,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1528567817,
+            "author": 8343886,
+            "stamp": 1742620416,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1528567803,
+            "author": 8343886,
+            "stamp": 1742620376,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1527386021,
+            "author": 8343886,
+            "stamp": 1737598539,
+            "flags": "A",
+            "commentary": "已新增标签：世界联盟。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1527386019,
+            "author": 8343886,
+            "stamp": 1737598523,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1527386015,
+            "author": 8343886,
+            "stamp": 1737598479,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458296282,
+    "tags": [
+        "归档页"
+    ],
+    "title": "世界人权公约（旧）",
+    "sitemap_update": 1767271445000,
+    "votings": [
+        [
+            7679098,
+            true
+        ],
+        [
+            8356393,
+            true
+        ],
+        [
+            8736966,
+            true
+        ],
+        [
+            8375717,
+            true
+        ]
+    ],
+    "is_locked": false
+}

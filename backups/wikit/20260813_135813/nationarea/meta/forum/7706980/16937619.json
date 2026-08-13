@@ -1,0 +1,32 @@
+{
+    "title": "红渊",
+    "id": 16937619,
+    "description": "",
+    "last": 1726361825,
+    "lastUser": 8248071,
+    "started": 1726313352,
+    "startedUser": null,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 6653478,
+            "title": "好",
+            "poster": 8426633,
+            "stamp": 1726313401,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 6653837,
+                    "title": "我要说的一些话",
+                    "poster": 8248071,
+                    "stamp": 1726361825,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}
