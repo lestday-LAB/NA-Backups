@@ -1,0 +1,630 @@
+{
+    "name": "theme:the-world-assembly",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 75,
+            "global_revision": 1539488815,
+            "author": 8343886,
+            "stamp": 1763177982,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 74,
+            "global_revision": 1537131485,
+            "author": 8343886,
+            "stamp": 1761971677,
+            "flags": "A",
+            "commentary": "已新增标签：公共所有。 移除标签：系统。"
+        },
+        {
+            "revision": 73,
+            "global_revision": 1532374385,
+            "author": 8343886,
+            "stamp": 1758323876,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 72,
+            "global_revision": 1532374381,
+            "author": 8343886,
+            "stamp": 1758323861,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 71,
+            "global_revision": 1532374367,
+            "author": 8343886,
+            "stamp": 1758323810,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 70,
+            "global_revision": 1532374341,
+            "author": 8343886,
+            "stamp": 1758323653,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 69,
+            "global_revision": 1532374275,
+            "author": 8343886,
+            "stamp": 1758323243,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 68,
+            "global_revision": 1529201498,
+            "author": 8343886,
+            "stamp": 1744430603,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 67,
+            "global_revision": 1529201159,
+            "author": 8343886,
+            "stamp": 1744429138,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 66,
+            "global_revision": 1529201120,
+            "author": 8343886,
+            "stamp": 1744428943,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 65,
+            "global_revision": 1529201098,
+            "author": 8343886,
+            "stamp": 1744428833,
+            "flags": "A",
+            "commentary": "已新增标签：系统。"
+        },
+        {
+            "revision": 64,
+            "global_revision": 1527198359,
+            "author": 8343886,
+            "stamp": 1736566669,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 63,
+            "global_revision": 1527198296,
+            "author": 8343886,
+            "stamp": 1736566368,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 62,
+            "global_revision": 1527198289,
+            "author": 8343886,
+            "stamp": 1736566336,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 61,
+            "global_revision": 1527038119,
+            "author": 8343886,
+            "stamp": 1735701719,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 60,
+            "global_revision": 1516986957,
+            "author": 8343886,
+            "stamp": 1703478888,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 59,
+            "global_revision": 1516435817,
+            "author": 8343886,
+            "stamp": 1701529127,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 58,
+            "global_revision": 1516435805,
+            "author": 8343886,
+            "stamp": 1701529090,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 57,
+            "global_revision": 1516435754,
+            "author": 8343886,
+            "stamp": 1701528895,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 56,
+            "global_revision": 1516262834,
+            "author": 8343886,
+            "stamp": 1700977247,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 55,
+            "global_revision": 1515937451,
+            "author": 8343886,
+            "stamp": 1699753832,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 54,
+            "global_revision": 1515937427,
+            "author": 8343886,
+            "stamp": 1699753654,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 53,
+            "global_revision": 1515876089,
+            "author": 8343886,
+            "stamp": 1699440321,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 52,
+            "global_revision": 1515784966,
+            "author": 8324175,
+            "stamp": 1699114213,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 50"
+        },
+        {
+            "revision": 51,
+            "global_revision": 1515784201,
+            "author": 8841413,
+            "stamp": 1699111807,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 50,
+            "global_revision": 1515773480,
+            "author": 8343886,
+            "stamp": 1699085141,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 49,
+            "global_revision": 1515773398,
+            "author": 8343886,
+            "stamp": 1699085107,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 48,
+            "global_revision": 1515773157,
+            "author": 8343886,
+            "stamp": 1699084817,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"theme:the-world-council\" 至 \"theme:the-world-assembly\"."
+        },
+        {
+            "revision": 47,
+            "global_revision": 1515773153,
+            "author": 8343886,
+            "stamp": 1699084800,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 46,
+            "global_revision": 1515773148,
+            "author": 8343886,
+            "stamp": 1699084763,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 45,
+            "global_revision": 1515224836,
+            "author": 8343886,
+            "stamp": 1697942627,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 44,
+            "global_revision": 1515224407,
+            "author": 8343886,
+            "stamp": 1697941176,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 43,
+            "global_revision": 1515224402,
+            "author": 8343886,
+            "stamp": 1697941146,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 42,
+            "global_revision": 1515224310,
+            "author": 8343886,
+            "stamp": 1697940819,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 41,
+            "global_revision": 1515224276,
+            "author": 8343886,
+            "stamp": 1697940786,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 40,
+            "global_revision": 1515224215,
+            "author": 8343886,
+            "stamp": 1697940568,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 39,
+            "global_revision": 1515224207,
+            "author": 8343886,
+            "stamp": 1697940516,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 38,
+            "global_revision": 1515223870,
+            "author": 8343886,
+            "stamp": 1697939443,
+            "flags": "A",
+            "commentary": "移除标签：系统。"
+        },
+        {
+            "revision": 37,
+            "global_revision": 1515223865,
+            "author": 8343886,
+            "stamp": 1697939394,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 36,
+            "global_revision": 1515223691,
+            "author": 8343886,
+            "stamp": 1697938859,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 35,
+            "global_revision": 1515212165,
+            "author": 8343886,
+            "stamp": 1697896223,
+            "flags": "A",
+            "commentary": "已新增标签：系统。"
+        },
+        {
+            "revision": 34,
+            "global_revision": 1515209716,
+            "author": 8343886,
+            "stamp": 1697890152,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 33,
+            "global_revision": 1515209706,
+            "author": 8343886,
+            "stamp": 1697890111,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 32,
+            "global_revision": 1515209678,
+            "author": 8343886,
+            "stamp": 1697889994,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 31,
+            "global_revision": 1515209633,
+            "author": 8343886,
+            "stamp": 1697889917,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 30,
+            "global_revision": 1515209575,
+            "author": 8343886,
+            "stamp": 1697889808,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 29,
+            "global_revision": 1515209569,
+            "author": 8343886,
+            "stamp": 1697889774,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 28,
+            "global_revision": 1515209555,
+            "author": 8343886,
+            "stamp": 1697889718,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 27,
+            "global_revision": 1515209550,
+            "author": 8343886,
+            "stamp": 1697889701,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 26,
+            "global_revision": 1515209499,
+            "author": 8343886,
+            "stamp": 1697889625,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 25,
+            "global_revision": 1515209465,
+            "author": 8343886,
+            "stamp": 1697889531,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 24,
+            "global_revision": 1515209420,
+            "author": 8343886,
+            "stamp": 1697889481,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 23,
+            "global_revision": 1515209343,
+            "author": 8343886,
+            "stamp": 1697889300,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 22,
+            "global_revision": 1515209339,
+            "author": 8343886,
+            "stamp": 1697889277,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 21,
+            "global_revision": 1515209128,
+            "author": 8343886,
+            "stamp": 1697888704,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 20,
+            "global_revision": 1515209115,
+            "author": 8343886,
+            "stamp": 1697888655,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 19,
+            "global_revision": 1515209087,
+            "author": 8343886,
+            "stamp": 1697888553,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1515209036,
+            "author": 8343886,
+            "stamp": 1697888453,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1515209015,
+            "author": 8343886,
+            "stamp": 1697888361,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1515208951,
+            "author": 8343886,
+            "stamp": 1697888172,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1515208937,
+            "author": 8343886,
+            "stamp": 1697888118,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1515208923,
+            "author": 8343886,
+            "stamp": 1697888033,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1515208918,
+            "author": 8343886,
+            "stamp": 1697888001,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1515208837,
+            "author": 8343886,
+            "stamp": 1697887853,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1515208813,
+            "author": 8343886,
+            "stamp": 1697887749,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1515208796,
+            "author": 8343886,
+            "stamp": 1697887656,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1515208744,
+            "author": 8343886,
+            "stamp": 1697887529,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1515208722,
+            "author": 8343886,
+            "stamp": 1697887410,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1515207601,
+            "author": 8343886,
+            "stamp": 1697884894,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1515207568,
+            "author": 8343886,
+            "stamp": 1697884754,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1515207557,
+            "author": 8343886,
+            "stamp": 1697884730,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1515207525,
+            "author": 8343886,
+            "stamp": 1697884604,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1515207478,
+            "author": 8343886,
+            "stamp": 1697884494,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1515207468,
+            "author": 8343886,
+            "stamp": 1697884458,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1515207393,
+            "author": 8343886,
+            "stamp": 1697884170,
+            "flags": "A",
+            "commentary": "已新增标签：版式。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1515207390,
+            "author": 8343886,
+            "stamp": 1697884150,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1450861584,
+    "forum_thread": 16413910,
+    "tags": [
+        "公共所有",
+        "版式"
+    ],
+    "title": "版式：世界联盟",
+    "sitemap_update": 1763177982000,
+    "votings": [
+        [
+            8375717,
+            true
+        ]
+    ],
+    "is_locked": false
+}

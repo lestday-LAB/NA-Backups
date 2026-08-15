@@ -1,0 +1,28 @@
+{
+    "name": "deleted:magic",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1545933005,
+            "author": 8426633,
+            "stamp": 1786597026,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"magic\" 至 \"deleted:magic\"."
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545932971,
+            "author": 8426633,
+            "stamp": 1786596897,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469144644,
+    "title": "魔法设定",
+    "sitemap_update": 1786597026000,
+    "votings": [],
+    "is_locked": false
+}

@@ -1,0 +1,151 @@
+{
+    "name": "old:security-council",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 16,
+            "global_revision": 1529201089,
+            "author": 8343886,
+            "stamp": 1744428785,
+            "flags": "A",
+            "commentary": "已新增标签：归档页。 移除标签：世界联盟, 系统。"
+        },
+        {
+            "revision": 15,
+            "global_revision": 1529201084,
+            "author": 8343886,
+            "stamp": 1744428764,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1529201078,
+            "author": 8343886,
+            "stamp": 1744428745,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"wa:security-council\" 至 \"old:security-council\"."
+        },
+        {
+            "revision": 13,
+            "global_revision": 1527038225,
+            "author": 8343886,
+            "stamp": 1735702600,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1527038073,
+            "author": 8343886,
+            "stamp": 1735701421,
+            "flags": "A",
+            "commentary": "已新增标签：世界联盟。 移除标签：世界大会。"
+        },
+        {
+            "revision": 11,
+            "global_revision": 1527038055,
+            "author": 8343886,
+            "stamp": 1735701349,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1519058007,
+            "author": 8343886,
+            "stamp": 1710670949,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1519041523,
+            "author": 8343886,
+            "stamp": 1710593036,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1516884615,
+            "author": 8343886,
+            "stamp": 1703048266,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1516433177,
+            "author": 8343886,
+            "stamp": 1701522914,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1515953780,
+            "author": 8343886,
+            "stamp": 1699797660,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1515953498,
+            "author": 8343886,
+            "stamp": 1699797176,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1515947826,
+            "author": 8343886,
+            "stamp": 1699783217,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1515946388,
+            "author": 8343886,
+            "stamp": 1699780437,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1515946380,
+            "author": 8343886,
+            "stamp": 1699780395,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1515945994,
+            "author": 8343886,
+            "stamp": 1699779856,
+            "flags": "A",
+            "commentary": "已新增标签：世界大会, 系统。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1515945986,
+            "author": 8343886,
+            "stamp": 1699779839,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1451374615,
+    "tags": [
+        "归档页"
+    ],
+    "title": "联盟：安全理事会（旧）",
+    "sitemap_update": 1744428785000,
+    "votings": [],
+    "is_locked": false
+}

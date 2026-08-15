@@ -1,0 +1,39 @@
+{
+    "name": "admin:themes",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1537130983,
+            "author": 8343886,
+            "stamp": 1761969512,
+            "flags": "A",
+            "commentary": "已新增标签：功能。 移除标签：系统。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1527358426,
+            "author": 8343886,
+            "stamp": 1737439174,
+            "flags": "A",
+            "commentary": "已新增标签：系统。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1512809742,
+            "author": 8343886,
+            "stamp": 1691391215,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1449295703,
+    "tags": [
+        "功能"
+    ],
+    "title": "Customize your theme",
+    "sitemap_update": 1761969512000,
+    "votings": [],
+    "is_locked": false
+}

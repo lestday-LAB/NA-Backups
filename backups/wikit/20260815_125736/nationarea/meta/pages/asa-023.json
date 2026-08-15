@@ -1,0 +1,41 @@
+{
+    "name": "asa-023",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1527190746,
+            "author": 8343886,
+            "stamp": 1736519768,
+            "flags": "A",
+            "commentary": "已新增标签：故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1527176926,
+            "author": 8736966,
+            "stamp": 1736428114,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458219348,
+    "forum_thread": 17018901,
+    "tags": [
+        "故事"
+    ],
+    "title": "ASA-023",
+    "sitemap_update": 1736519768000,
+    "votings": [
+        [
+            8343886,
+            true
+        ],
+        [
+            8118764,
+            true
+        ]
+    ],
+    "is_locked": false
+}

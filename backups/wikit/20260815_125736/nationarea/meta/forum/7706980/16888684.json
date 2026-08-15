@@ -1,0 +1,82 @@
+{
+    "title": "谢尔特斯顿",
+    "id": 16888684,
+    "description": "",
+    "last": 1726911819,
+    "lastUser": 8248071,
+    "started": 1721436267,
+    "startedUser": null,
+    "postsNum": 8,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 6569283,
+            "title": "作者贴",
+            "poster": 8325214,
+            "stamp": 1721436412,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 6569388,
+            "title": "傻逼WIKIDOT为什么只让我给1个uv，我要给20个！！！",
+            "poster": 6251737,
+            "stamp": 1721447468,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 6569389,
+                    "title": "Re: 傻逼WIKIDOT为什么只让我给1个uv，我要给20个！！！",
+                    "poster": 6251737,
+                    "stamp": 1721447559,
+                    "revisions": [],
+                    "children": [
+                        {
+                            "id": 6569395,
+                            "title": "Re: 傻逼WIKIDOT为什么只让我给1个uv，我要给20个！！！",
+                            "poster": 8325214,
+                            "stamp": 1721448221,
+                            "revisions": [],
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": 6569440,
+                    "title": "Re: 傻逼WIKIDOT为什么只让我给1个uv，我要给20个！！！",
+                    "poster": 8118764,
+                    "stamp": 1721451933,
+                    "revisions": [],
+                    "children": [
+                        {
+                            "id": 6569467,
+                            "title": "Re: 傻逼WIKIDOT为什么只让我给1个uv，我要给20个！！！",
+                            "poster": 8248071,
+                            "stamp": 1721455224,
+                            "revisions": [],
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6577034,
+            "title": "",
+            "poster": 8728373,
+            "stamp": 1722157932,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 6660414,
+            "title": "我淡圈",
+            "poster": 8248071,
+            "stamp": 1726911819,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}
