@@ -1,0 +1,69 @@
+{
+    "name": "minecraft-server-1",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1530613896,
+            "author": 8325214,
+            "stamp": 1750584403,
+            "flags": "A",
+            "commentary": "已新增标签：归档页。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1518960250,
+            "author": 8543531,
+            "stamp": 1710175164,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1518960057,
+            "author": 8543531,
+            "stamp": 1710174350,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1518960028,
+            "author": 8543531,
+            "stamp": 1710174255,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1518960022,
+            "author": 8543531,
+            "stamp": 1710174234,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1518960011,
+            "author": 8543531,
+            "stamp": 1710174211,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1453025214,
+    "rating": 1,
+    "tags": [
+        "归档页"
+    ],
+    "title": "The Nationarea for Minecraft Server 一周目",
+    "sitemap_update": 1750584403000,
+    "votings": [
+        [
+            8325214,
+            true
+        ]
+    ],
+    "is_locked": true
+}
