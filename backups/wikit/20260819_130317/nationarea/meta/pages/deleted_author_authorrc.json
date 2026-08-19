@@ -1,0 +1,402 @@
+{
+    "name": "deleted:author:authorrc",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 26,
+            "global_revision": 1546106042,
+            "author": 8325214,
+            "stamp": 1787097703,
+            "flags": "F",
+            "commentary": "已上传文件 “雪花黑”。"
+        },
+        {
+            "revision": 25,
+            "global_revision": 1546105980,
+            "author": 8325214,
+            "stamp": 1787097333,
+            "flags": "F",
+            "commentary": "已上传文件 “小雪花”。"
+        },
+        {
+            "revision": 24,
+            "global_revision": 1546105900,
+            "author": 8325214,
+            "stamp": 1787096772,
+            "flags": "F",
+            "commentary": "已上传文件 “圣所标志”。"
+        },
+        {
+            "revision": 23,
+            "global_revision": 1546105839,
+            "author": 8325214,
+            "stamp": 1787096400,
+            "flags": "F",
+            "commentary": "已上传文件 “雪花”。"
+        },
+        {
+            "revision": 22,
+            "global_revision": 1546105710,
+            "author": 8325214,
+            "stamp": 1787095647,
+            "flags": "F",
+            "commentary": "已上传文件 “林奈木”。"
+        },
+        {
+            "revision": 21,
+            "global_revision": 1545884803,
+            "author": 8325214,
+            "stamp": 1786440893,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"author:authorrc\" 至 \"deleted:author:authorrc\"."
+        },
+        {
+            "revision": 20,
+            "global_revision": 1545845596,
+            "author": 8325214,
+            "stamp": 1786336029,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 17"
+        },
+        {
+            "revision": 19,
+            "global_revision": 1545845546,
+            "author": 8325214,
+            "stamp": 1786335929,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1545614658,
+            "author": 8325214,
+            "stamp": 1785548479,
+            "flags": "F",
+            "commentary": "已上传文件 “星门线上”。"
+        },
+        {
+            "revision": 17,
+            "global_revision": 1541212454,
+            "author": 8325214,
+            "stamp": 1767271748,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1541212442,
+            "author": 8325214,
+            "stamp": 1767271702,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1541212419,
+            "author": 8325214,
+            "stamp": 1767271642,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1540227969,
+            "author": 8325214,
+            "stamp": 1764855009,
+            "flags": "F",
+            "commentary": "已上传文件 “收款码”。"
+        },
+        {
+            "revision": 13,
+            "global_revision": 1540211519,
+            "author": 8325214,
+            "stamp": 1764822054,
+            "flags": "F",
+            "commentary": "已上传文件 “冰原.avif”。"
+        },
+        {
+            "revision": 12,
+            "global_revision": 1539812593,
+            "author": 8325214,
+            "stamp": 1763818475,
+            "flags": "F",
+            "commentary": "已上传文件 “极点的旗帜.png”。"
+        },
+        {
+            "revision": 11,
+            "global_revision": 1539504855,
+            "author": 8325214,
+            "stamp": 1763209173,
+            "flags": "F",
+            "commentary": "已上传文件 “辐射警告_Centrarea（森特瑞尔）.png”。"
+        },
+        {
+            "revision": 10,
+            "global_revision": 1539341996,
+            "author": 8325214,
+            "stamp": 1762958257,
+            "flags": "F",
+            "commentary": "已上传文件 “Morning light（晨光）.avif”。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1539341816,
+            "author": 8325214,
+            "stamp": 1762957780,
+            "flags": "F",
+            "commentary": "已上传文件 “Eternal Night（永夜）.avif”。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1530656280,
+            "author": 8343886,
+            "stamp": 1750850599,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"authorrc\" 至 \"author:authorrc\"."
+        },
+        {
+            "revision": 7,
+            "global_revision": 1530613177,
+            "author": 8325214,
+            "stamp": 1750580782,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1530613169,
+            "author": 8325214,
+            "stamp": 1750580744,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1530613056,
+            "author": 8325214,
+            "stamp": 1750580266,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530613050,
+            "author": 8325214,
+            "stamp": 1750580232,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530613033,
+            "author": 8325214,
+            "stamp": 1750580155,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530612988,
+            "author": 8325214,
+            "stamp": 1750580079,
+            "flags": "A",
+            "commentary": "已新增标签：作者。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530612975,
+            "author": 8325214,
+            "stamp": 1750579946,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530612946,
+            "author": 8325214,
+            "stamp": 1750579804,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11676283,
+            "name": "Eternal Night（永夜）.avif",
+            "url": "http://nationarea.wikidot.com/local--files/deleted:author:authorrc/Eternal%20Night%EF%BC%88%E6%B0%B8%E5%A4%9C%EF%BC%89.avif",
+            "size": "8.73 kB (8936 Bytes)",
+            "size_bytes": 8936,
+            "mime": "image/avif",
+            "content": "No description, unavailable due to fixed file mime type.",
+            "author": 8325214,
+            "stamp": 1762957780,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11676285,
+            "name": "Morning light（晨光）.avif",
+            "url": "http://nationarea.wikidot.com/local--files/deleted:author:authorrc/Morning%20light%EF%BC%88%E6%99%A8%E5%85%89%EF%BC%89.avif",
+            "size": "80.3 kB (82223 Bytes)",
+            "size_bytes": 82223,
+            "mime": "image/avif",
+            "content": "No description, unavailable due to fixed file mime type.",
+            "author": 8325214,
+            "stamp": 1762958257,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11695397,
+            "name": "冰原.avif",
+            "url": "http://nationarea.wikidot.com/local--files/deleted:author:authorrc/%E5%86%B0%E5%8E%9F.avif",
+            "size": "51.93 kB (53174 Bytes)",
+            "size_bytes": 53174,
+            "mime": "image/avif",
+            "content": "No description, unavailable due to fixed file mime type.",
+            "author": 8325214,
+            "stamp": 1764822055,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11886912,
+            "name": "圣所标志",
+            "url": "http://nationarea.wikidot.com/local--files/deleted:author:authorrc/%E5%9C%A3%E6%89%80%E6%A0%87%E5%BF%97",
+            "size": "50.36 kB (51569 Bytes)",
+            "size_bytes": 51569,
+            "mime": "image/png",
+            "content": "PNG image data, 1080 x 810, 8-bit/color RGBA, non-interlaced",
+            "author": 8325214,
+            "stamp": 1787096772,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11886922,
+            "name": "小雪花",
+            "url": "http://nationarea.wikidot.com/local--files/deleted:author:authorrc/%E5%B0%8F%E9%9B%AA%E8%8A%B1",
+            "size": "134.11 kB (137329 Bytes)",
+            "size_bytes": 137329,
+            "mime": "image/png",
+            "content": "PNG image data, 1254 x 1254, 8-bit/color RGBA, non-interlaced",
+            "author": 8325214,
+            "stamp": 1787097333,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11695664,
+            "name": "收款码",
+            "url": "http://nationarea.wikidot.com/local--files/deleted:author:authorrc/%E6%94%B6%E6%AC%BE%E7%A0%81",
+            "size": "119.19 kB (122052 Bytes)",
+            "size_bytes": 122052,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 72x72, segment length 16, Exif Standard: , baseline, precision 8, 828x1124, components 3",
+            "author": 8325214,
+            "stamp": 1764855009,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11872695,
+            "name": "星门线上",
+            "url": "http://nationarea.wikidot.com/local--files/deleted:author:authorrc/%E6%98%9F%E9%97%A8%E7%BA%BF%E4%B8%8A",
+            "size": "453.69 kB (464582 Bytes)",
+            "size_bytes": 464582,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif standard: , baseline, precision 8, 1038x1315, components 3",
+            "author": 8325214,
+            "stamp": 1785548479,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11687827,
+            "name": "极点的旗帜.png",
+            "url": "http://nationarea.wikidot.com/local--files/deleted:author:authorrc/%E6%9E%81%E7%82%B9%E7%9A%84%E6%97%97%E5%B8%9C.png",
+            "size": "9.12 kB (9343 Bytes)",
+            "size_bytes": 9343,
+            "mime": "image/png",
+            "content": "PNG image data, 1080 x 607, 8-bit/color RGBA, non-interlaced",
+            "author": 8325214,
+            "stamp": 1763818475,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11886904,
+            "name": "林奈木",
+            "url": "http://nationarea.wikidot.com/local--files/deleted:author:authorrc/%E6%9E%97%E5%A5%88%E6%9C%A8",
+            "size": "456.96 kB (467925 Bytes)",
+            "size_bytes": 467925,
+            "mime": "image/png",
+            "content": "PNG image data, 2172 x 724, 8-bit/color RGBA, non-interlaced",
+            "author": 8325214,
+            "stamp": 1787095647,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11680351,
+            "name": "辐射警告_Centrarea（森特瑞尔）.png",
+            "url": "http://nationarea.wikidot.com/local--files/deleted:author:authorrc/%E8%BE%90%E5%B0%84%E8%AD%A6%E5%91%8A_Centrarea%EF%BC%88%E6%A3%AE%E7%89%B9%E7%91%9E%E5%B0%94%EF%BC%89.png",
+            "size": "18 kB (18431 Bytes)",
+            "size_bytes": 18431,
+            "mime": "image/png",
+            "content": "PNG image data, 1152 x 885, 8-bit/color RGB, non-interlaced",
+            "author": 8325214,
+            "stamp": 1763209173,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11886908,
+            "name": "雪花",
+            "url": "http://nationarea.wikidot.com/local--files/deleted:author:authorrc/%E9%9B%AA%E8%8A%B1",
+            "size": "604.84 kB (619353 Bytes)",
+            "size_bytes": 619353,
+            "mime": "image/png",
+            "content": "PNG image data, 1254 x 1254, 8-bit/color RGBA, non-interlaced",
+            "author": 8325214,
+            "stamp": 1787096400,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11886928,
+            "name": "雪花黑",
+            "url": "http://nationarea.wikidot.com/local--files/deleted:author:authorrc/%E9%9B%AA%E8%8A%B1%E9%BB%91",
+            "size": "165.39 kB (169362 Bytes)",
+            "size_bytes": 169362,
+            "mime": "image/png",
+            "content": "PNG image data, 1254 x 1254, 8-bit/color RGBA, non-interlaced",
+            "author": 8325214,
+            "stamp": 1787097703,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1459829571,
+    "votings": [
+        [
+            8256969,
+            true
+        ],
+        [
+            8356393,
+            true
+        ],
+        [
+            8426633,
+            true
+        ],
+        [
+            6251737,
+            true
+        ],
+        [
+            8325214,
+            true
+        ],
+        [
+            8343886,
+            true
+        ]
+    ],
+    "forum_thread": 17759091,
+    "tags": [
+        "作者"
+    ],
+    "title": "阿瑟RC",
+    "sitemap_update": 1787097703000,
+    "is_locked": false
+}

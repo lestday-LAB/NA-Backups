@@ -1,0 +1,55 @@
+{
+    "name": "minor-list-center",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1546026997,
+            "author": 8316541,
+            "stamp": 1786858165,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1546026588,
+            "author": 8316541,
+            "stamp": 1786856661,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1546026581,
+            "author": 8316541,
+            "stamp": 1786856635,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1546005920,
+            "author": 8316541,
+            "stamp": 1786793976,
+            "flags": "A",
+            "commentary": "已新增标签：总览。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1546005669,
+            "author": 8316541,
+            "stamp": 1786793230,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469174665,
+    "tags": [
+        "总览"
+    ],
+    "title": "次要档案馆中心",
+    "sitemap_update": 1786858165000,
+    "votings": [],
+    "is_locked": false
+}

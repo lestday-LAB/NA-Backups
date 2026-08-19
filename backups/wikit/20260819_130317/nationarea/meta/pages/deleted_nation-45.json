@@ -1,0 +1,96 @@
+{
+    "name": "deleted:nation-45",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1545884538,
+            "author": 8325214,
+            "stamp": 1786440240,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"nation-45\" 至 \"deleted:nation-45\"."
+        },
+        {
+            "revision": 5,
+            "global_revision": 1539338762,
+            "author": 8343886,
+            "stamp": 1762949806,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1539190762,
+            "author": 7344601,
+            "stamp": 1762698134,
+            "flags": "A",
+            "commentary": "已新增标签：竞赛优胜作品。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530018711,
+            "author": 8325214,
+            "stamp": 1746787102,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1529842005,
+            "author": 8343886,
+            "stamp": 1746099711,
+            "flags": "A",
+            "commentary": "已新增标签：东半球, 微小的。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1529840617,
+            "author": 8325214,
+            "stamp": 1746094265,
+            "flags": "A",
+            "commentary": "已新增标签：2025袖珍国家活动, 国家。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1529840613,
+            "author": 8325214,
+            "stamp": 1746094221,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459586029,
+    "tags": [
+        "2025袖珍国家活动",
+        "东半球",
+        "国家",
+        "微小的",
+        "竞赛优胜作品"
+    ],
+    "title": "浮城岛",
+    "sitemap_update": 1786440240000,
+    "votings": [
+        [
+            8356393,
+            true
+        ],
+        [
+            8426633,
+            true
+        ],
+        [
+            8325214,
+            true
+        ],
+        [
+            8426551,
+            true
+        ],
+        [
+            8343886,
+            true
+        ]
+    ],
+    "is_locked": false
+}

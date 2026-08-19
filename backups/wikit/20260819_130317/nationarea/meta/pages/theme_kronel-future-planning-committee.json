@@ -1,0 +1,162 @@
+{
+    "name": "theme:kronel-future-planning-committee",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 15,
+            "global_revision": 1542651174,
+            "author": 8736966,
+            "stamp": 1773483763,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1542651142,
+            "author": 8736966,
+            "stamp": 1773483668,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1537292932,
+            "author": 8736966,
+            "stamp": 1761994342,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1537292676,
+            "author": 8736966,
+            "stamp": 1761994302,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1531615477,
+            "author": 8736966,
+            "stamp": 1755442875,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1531615469,
+            "author": 8736966,
+            "stamp": 1755442850,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1531279028,
+            "author": 8736966,
+            "stamp": 1753875463,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1531279023,
+            "author": 8736966,
+            "stamp": 1753875429,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1531279018,
+            "author": 8736966,
+            "stamp": 1753875405,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1525930998,
+            "author": 8736966,
+            "stamp": 1732314678,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1525930995,
+            "author": 8736966,
+            "stamp": 1732314657,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1525704725,
+            "author": 8736966,
+            "stamp": 1731250630,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1525704647,
+            "author": 8736966,
+            "stamp": 1731250099,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1525704581,
+            "author": 8736966,
+            "stamp": 1731249909,
+            "flags": "A",
+            "commentary": "已新增标签：版式。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1525704580,
+            "author": 8736966,
+            "stamp": 1731249898,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1525704575,
+            "author": 8736966,
+            "stamp": 1731249868,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1457309851,
+    "rating": 2,
+    "forum_thread": 16984740,
+    "tags": [
+        "版式"
+    ],
+    "title": "版式：克伦尔未来规划委员会",
+    "sitemap_update": 1773483763000,
+    "votings": [
+        [
+            8462980,
+            true
+        ],
+        [
+            8343886,
+            true
+        ],
+        [
+            8553227,
+            true
+        ],
+        [
+            8386863,
+            false
+        ]
+    ],
+    "is_locked": false
+}
