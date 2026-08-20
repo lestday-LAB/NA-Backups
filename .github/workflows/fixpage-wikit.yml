@@ -20,7 +20,7 @@ jobs:
     env:
       WIKIT_BIN: "${{ github.workspace }}/wikit"
       BACKUP_ROOT: "backups/wikit"
-      WIKI_NAME: "deep-forest-club"
+      WIKI_NAME: "nationarea"
 
     steps:
       - name: 检出仓库代码
