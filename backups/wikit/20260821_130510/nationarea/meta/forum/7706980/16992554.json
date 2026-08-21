@@ -1,0 +1,103 @@
+{
+    "title": "猴子王国",
+    "id": 16992554,
+    "description": "",
+    "last": 1732876653,
+    "lastUser": 8488493,
+    "started": 1732714332,
+    "startedUser": null,
+    "postsNum": 5,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 6739683,
+            "title": "作者贴",
+            "poster": 8488493,
+            "stamp": 1732714449,
+            "lastEdit": 1732714710,
+            "lastEditBy": 8488493,
+            "revisions": [
+                {
+                    "title": "作者贴",
+                    "author": 8488493,
+                    "id": 8171432,
+                    "stamp": 1732714710
+                },
+                {
+                    "title": "作者贴",
+                    "author": 8488493,
+                    "id": 8171419,
+                    "stamp": 1732714449
+                }
+            ],
+            "children": [
+                {
+                    "id": 6740412,
+                    "title": "允许参赛。",
+                    "poster": 6251737,
+                    "stamp": 1732787255,
+                    "revisions": [],
+                    "children": [
+                        {
+                            "id": 6740417,
+                            "title": "Re: 允许参赛。",
+                            "poster": 8488493,
+                            "stamp": 1732787667,
+                            "revisions": [],
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6742342,
+            "title": "nv，2.5/6.0",
+            "poster": 6251737,
+            "stamp": 1732849268,
+            "lastEdit": 1732849296,
+            "lastEditBy": 6251737,
+            "revisions": [
+                {
+                    "title": "nv，2.5/6.0",
+                    "author": 6251737,
+                    "id": 8174347,
+                    "stamp": 1732849296
+                },
+                {
+                    "title": "nv",
+                    "author": 6251737,
+                    "id": 8174346,
+                    "stamp": 1732849268
+                }
+            ],
+            "children": [
+                {
+                    "id": 6742438,
+                    "title": "Re: nv，2.5/6.0",
+                    "poster": 8488493,
+                    "stamp": 1732876653,
+                    "lastEdit": 1732876695,
+                    "lastEditBy": 8488493,
+                    "revisions": [
+                        {
+                            "title": "Re: nv，2.5/6.0",
+                            "author": 8488493,
+                            "id": 8174514,
+                            "stamp": 1732876695
+                        },
+                        {
+                            "title": "Re: nv，2.5/6.0",
+                            "author": 8488493,
+                            "id": 8174513,
+                            "stamp": 1732876653
+                        }
+                    ],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

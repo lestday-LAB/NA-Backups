@@ -1,0 +1,94 @@
+{
+    "name": "deleted:chc",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1545884565,
+            "author": 8325214,
+            "stamp": 1786440333,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"chc\" 至 \"deleted:chc\"."
+        },
+        {
+            "revision": 5,
+            "global_revision": 1526055017,
+            "author": 8325214,
+            "stamp": 1733055619,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1526054978,
+            "author": 8325214,
+            "stamp": 1733055369,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1526041177,
+            "author": 8325214,
+            "stamp": 1732968006,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1526040648,
+            "author": 8325214,
+            "stamp": 1732965028,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1526040642,
+            "author": 8325214,
+            "stamp": 1732964994,
+            "flags": "A",
+            "commentary": "已新增标签：2024音乐竞赛, 相关人物。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1526040630,
+            "author": 8325214,
+            "stamp": 1732964906,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1457456040,
+    "rating": 5,
+    "tags": [
+        "2024音乐竞赛",
+        "相关人物"
+    ],
+    "title": "夏洛特_幻",
+    "sitemap_update": 1786440333000,
+    "votings": [
+        [
+            9102405,
+            true
+        ],
+        [
+            8426633,
+            true
+        ],
+        [
+            8325214,
+            true
+        ],
+        [
+            8118764,
+            true
+        ],
+        [
+            8386863,
+            true
+        ]
+    ],
+    "is_locked": false
+}
