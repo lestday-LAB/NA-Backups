@@ -1,0 +1,104 @@
+{
+    "name": "bkrm",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 10,
+            "global_revision": 1546143071,
+            "author": 8325214,
+            "stamp": 1787231525,
+            "flags": "A",
+            "commentary": "已新增标签：组件。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1546143020,
+            "author": 8325214,
+            "stamp": 1787231487,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1546142588,
+            "author": 8325214,
+            "stamp": 1787230934,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1546142577,
+            "author": 8325214,
+            "stamp": 1787230911,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1546142539,
+            "author": 8325214,
+            "stamp": 1787230824,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1546142449,
+            "author": 8325214,
+            "stamp": 1787230678,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1546142436,
+            "author": 8325214,
+            "stamp": 1787230652,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1546142385,
+            "author": 8325214,
+            "stamp": 1787230499,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1546142369,
+            "author": 8325214,
+            "stamp": 1787230460,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1546142344,
+            "author": 8325214,
+            "stamp": 1787230388,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1546142338,
+            "author": 8325214,
+            "stamp": 1787230370,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469198762,
+    "forum_thread": 18328402,
+    "tags": [
+        "组件"
+    ],
+    "title": "国家登陆地放映系统原件",
+    "sitemap_update": 1787231525000,
+    "votings": [],
+    "is_locked": false
+}
