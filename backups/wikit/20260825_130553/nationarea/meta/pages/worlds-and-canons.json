@@ -1,0 +1,151 @@
+{
+    "name": "worlds-and-canons",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 16,
+            "global_revision": 1546210817,
+            "author": 8316541,
+            "stamp": 1787462804,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1546118833,
+            "author": 8426633,
+            "stamp": 1787139467,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1546118824,
+            "author": 8426633,
+            "stamp": 1787139426,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1546118436,
+            "author": 8426633,
+            "stamp": 1787138101,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1546026695,
+            "author": 8316541,
+            "stamp": 1786856996,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1546026686,
+            "author": 8316541,
+            "stamp": 1786856966,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1546026677,
+            "author": 8316541,
+            "stamp": 1786856931,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1546026671,
+            "author": 8316541,
+            "stamp": 1786856909,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1545874264,
+            "author": 9287872,
+            "stamp": 1786415310,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1543412054,
+            "author": 8343886,
+            "stamp": 1776512179,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"canon:world-and-time-line\" 至 \"worlds-and-canons\"."
+        },
+        {
+            "revision": 6,
+            "global_revision": 1542967581,
+            "author": 8343886,
+            "stamp": 1774689167,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1542967437,
+            "author": 8343886,
+            "stamp": 1774688575,
+            "flags": "A",
+            "commentary": "已新增标签：总览。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1542967432,
+            "author": 8343886,
+            "stamp": 1774688564,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1542967021,
+            "author": 8343886,
+            "stamp": 1774687745,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542966995,
+            "author": 8343886,
+            "stamp": 1774687693,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542966794,
+            "author": 8343886,
+            "stamp": 1774687281,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542966787,
+            "author": 8343886,
+            "stamp": 1774687262,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468375072,
+    "votings": [],
+    "tags": [
+        "总览"
+    ],
+    "title": "世界观中心",
+    "sitemap_update": 1787462804000,
+    "is_locked": false
+}
