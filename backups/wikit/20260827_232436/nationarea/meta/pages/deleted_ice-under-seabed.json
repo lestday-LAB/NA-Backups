@@ -1,0 +1,93 @@
+{
+    "name": "deleted:ice-under-seabed",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1545884692,
+            "author": 8325214,
+            "stamp": 1786440603,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"ice-under-seabed\" 至 \"deleted:ice-under-seabed\"."
+        },
+        {
+            "revision": 6,
+            "global_revision": 1541197949,
+            "author": 8343886,
+            "stamp": 1767189659,
+            "flags": "A",
+            "commentary": "移除标签：科幻。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1530004323,
+            "author": 8325214,
+            "stamp": 1746701609,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530004308,
+            "author": 8325214,
+            "stamp": 1746701491,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530004278,
+            "author": 8325214,
+            "stamp": 1746701271,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530004273,
+            "author": 8325214,
+            "stamp": 1746701224,
+            "flags": "A",
+            "commentary": "已新增标签：2025袖珍国家活动, 故事, 科幻。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530004267,
+            "author": 8325214,
+            "stamp": 1746701201,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530004258,
+            "author": 8325214,
+            "stamp": 1746701146,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459666852,
+    "tags": [
+        "2025袖珍国家活动",
+        "故事"
+    ],
+    "title": "海底冰",
+    "sitemap_update": 1786440603000,
+    "votings": [
+        [
+            8356393,
+            true
+        ],
+        [
+            8325214,
+            true
+        ],
+        [
+            8553227,
+            true
+        ]
+    ],
+    "is_locked": false
+}

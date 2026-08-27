@@ -1,0 +1,63 @@
+{
+    "name": "components-list",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1537131574,
+            "author": 8343886,
+            "stamp": 1761971955,
+            "flags": "A",
+            "commentary": "已新增标签：总览。 移除标签：系统。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530589361,
+            "author": 8343886,
+            "stamp": 1750433742,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530224979,
+            "author": 8343886,
+            "stamp": 1748050487,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1527358225,
+            "author": 8343886,
+            "stamp": 1737437988,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1514169032,
+            "author": 8343886,
+            "stamp": 1695464093,
+            "flags": "A",
+            "commentary": "已新增标签：系统。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1514168718,
+            "author": 8343886,
+            "stamp": 1695462927,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1450123975,
+    "tags": [
+        "总览"
+    ],
+    "title": "网站组件",
+    "sitemap_update": 1761971955000,
+    "votings": [],
+    "is_locked": true
+}
