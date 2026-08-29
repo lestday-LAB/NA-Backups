@@ -1,0 +1,195 @@
+{
+    "name": "kan-don",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 19,
+            "global_revision": 1546224051,
+            "author": 9913959,
+            "stamp": 1787500712,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1546218371,
+            "author": 9913959,
+            "stamp": 1787483508,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1546217595,
+            "author": 9913959,
+            "stamp": 1787481823,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1546215940,
+            "author": 9913959,
+            "stamp": 1787476185,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1546215933,
+            "author": 9913959,
+            "stamp": 1787476149,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1546215906,
+            "author": 9913959,
+            "stamp": 1787476055,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1546205734,
+            "author": 9913959,
+            "stamp": 1787442106,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1546205722,
+            "author": 9913959,
+            "stamp": 1787442048,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1546205376,
+            "author": 9913959,
+            "stamp": 1787440098,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1546205345,
+            "author": 9913959,
+            "stamp": 1787439897,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1546205299,
+            "author": 9913959,
+            "stamp": 1787439611,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1546205279,
+            "author": 9913959,
+            "stamp": 1787439452,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1546205224,
+            "author": 9913959,
+            "stamp": 1787439295,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1546205202,
+            "author": 9913959,
+            "stamp": 1787439218,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1546205192,
+            "author": 9913959,
+            "stamp": 1787439174,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1546205173,
+            "author": 9913959,
+            "stamp": 1787439102,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1546203512,
+            "author": 9913959,
+            "stamp": 1787427660,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1546203485,
+            "author": 9913959,
+            "stamp": 1787427510,
+            "flags": "A",
+            "commentary": "已新增标签：地区, 坎日瑞, 艾尔登。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1546203482,
+            "author": 9913959,
+            "stamp": 1787427485,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1546203478,
+            "author": 9913959,
+            "stamp": 1787427462,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469216289,
+    "votings": [
+        [
+            9913959,
+            true
+        ],
+        [
+            10478100,
+            false
+        ],
+        [
+            9899603,
+            false
+        ],
+        [
+            8325214,
+            false
+        ]
+    ],
+    "forum_thread": 18330241,
+    "tags": [
+        "地区",
+        "坎日瑞",
+        "艾尔登"
+    ],
+    "title": "甘东",
+    "sitemap_update": 1787500712000,
+    "is_locked": false
+}
