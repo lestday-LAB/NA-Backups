@@ -1,0 +1,46 @@
+{
+    "title": "全球魔法事务监测局",
+    "id": 17048631,
+    "description": "",
+    "last": 1740458408,
+    "lastUser": 8325214,
+    "started": 1740407800,
+    "startedUser": null,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 6831469,
+            "title": "NA圈传来噩耗",
+            "poster": 6251737,
+            "stamp": 1740407874,
+            "lastEdit": 1740579932,
+            "lastEditBy": 6251737,
+            "revisions": [
+                {
+                    "title": "NA圈传来噩耗",
+                    "author": 6251737,
+                    "id": 8284937,
+                    "stamp": 1740579932
+                },
+                {
+                    "title": "NA圈传来噩耗",
+                    "author": 6251737,
+                    "id": 8281051,
+                    "stamp": 1740407874
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": 6832469,
+            "title": "诶，既然你提到了“黄色空间”，那——",
+            "poster": 8325214,
+            "stamp": 1740458408,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

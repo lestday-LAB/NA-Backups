@@ -1,0 +1,20 @@
+{
+    "name": "_admins",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 0,
+            "global_revision": 1512809744,
+            "author": 8343886,
+            "stamp": 1691391215,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1449295705,
+    "title": "_admins",
+    "sitemap_update": 1691391215000,
+    "votings": [],
+    "is_locked": false
+}

@@ -1,0 +1,324 @@
+{
+    "name": "election-and-democracy-policy",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 36,
+            "global_revision": 1546211471,
+            "author": 8343886,
+            "stamp": 1787465177,
+            "flags": "A",
+            "commentary": "移除标签：待批准。"
+        },
+        {
+            "revision": 35,
+            "global_revision": 1546210161,
+            "author": 8343886,
+            "stamp": 1787460339,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 34,
+            "global_revision": 1546209787,
+            "author": 8343886,
+            "stamp": 1787459189,
+            "flags": "S",
+            "commentary": "我们可能需要删除国际站点代表 常委机制 精简社区议会"
+        },
+        {
+            "revision": 33,
+            "global_revision": 1546005110,
+            "author": 8316541,
+            "stamp": 1786791052,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 32,
+            "global_revision": 1545873495,
+            "author": 8343886,
+            "stamp": 1786413734,
+            "flags": "A",
+            "commentary": "已新增标签：待批准。"
+        },
+        {
+            "revision": 31,
+            "global_revision": 1545873473,
+            "author": 8343886,
+            "stamp": 1786413702,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 30,
+            "global_revision": 1545873209,
+            "author": 8343886,
+            "stamp": 1786413198,
+            "flags": "S",
+            "commentary": "重新明确了选举流程。"
+        },
+        {
+            "revision": 29,
+            "global_revision": 1545872780,
+            "author": 8343886,
+            "stamp": 1786412316,
+            "flags": "F",
+            "commentary": "已上传文件 “Example”。"
+        },
+        {
+            "revision": 28,
+            "global_revision": 1543111076,
+            "author": 8343886,
+            "stamp": 1775303628,
+            "flags": "A",
+            "commentary": "移除标签：待批准。"
+        },
+        {
+            "revision": 27,
+            "global_revision": 1543103138,
+            "author": 8343886,
+            "stamp": 1775278412,
+            "flags": "A",
+            "commentary": "已新增标签：待批准。"
+        },
+        {
+            "revision": 26,
+            "global_revision": 1543103136,
+            "author": 8343886,
+            "stamp": 1775278403,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 25,
+            "global_revision": 1543103022,
+            "author": 8343886,
+            "stamp": 1775277702,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 24,
+            "global_revision": 1543102451,
+            "author": 8343886,
+            "stamp": 1775275095,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 23,
+            "global_revision": 1543101951,
+            "author": 8343886,
+            "stamp": 1775273368,
+            "flags": "S",
+            "commentary": "引入二分之一改选政策。"
+        },
+        {
+            "revision": 22,
+            "global_revision": 1543099523,
+            "author": 8343886,
+            "stamp": 1775266296,
+            "flags": "S",
+            "commentary": "将行政管理迁出为新的独立页面。"
+        },
+        {
+            "revision": 21,
+            "global_revision": 1541564796,
+            "author": 8343886,
+            "stamp": 1769245610,
+            "flags": "A",
+            "commentary": "移除标签：待批准。"
+        },
+        {
+            "revision": 20,
+            "global_revision": 1541559189,
+            "author": 8343886,
+            "stamp": 1769225336,
+            "flags": "A",
+            "commentary": "已新增标签：待批准。"
+        },
+        {
+            "revision": 19,
+            "global_revision": 1541559181,
+            "author": 8343886,
+            "stamp": 1769225315,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1541559052,
+            "author": 8343886,
+            "stamp": 1769225067,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1541559025,
+            "author": 8343886,
+            "stamp": 1769225010,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1541197652,
+            "author": 8343886,
+            "stamp": 1767188752,
+            "flags": "A",
+            "commentary": "移除标签：待批准。"
+        },
+        {
+            "revision": 15,
+            "global_revision": 1541089894,
+            "author": 8343886,
+            "stamp": 1766802112,
+            "flags": "A",
+            "commentary": "已新增标签：待批准。"
+        },
+        {
+            "revision": 14,
+            "global_revision": 1540952219,
+            "author": 8343886,
+            "stamp": 1766549718,
+            "flags": "S",
+            "commentary": "增加联署资格限制"
+        },
+        {
+            "revision": 13,
+            "global_revision": 1540952123,
+            "author": 8343886,
+            "stamp": 1766549516,
+            "flags": "A",
+            "commentary": "移除标签：待批准。"
+        },
+        {
+            "revision": 12,
+            "global_revision": 1540786285,
+            "author": 8343886,
+            "stamp": 1766237043,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1540780661,
+            "author": 8343886,
+            "stamp": 1766228629,
+            "flags": "A",
+            "commentary": "已新增标签：待批准。"
+        },
+        {
+            "revision": 10,
+            "global_revision": 1540780655,
+            "author": 8343886,
+            "stamp": 1766228618,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1540609954,
+            "author": 8343886,
+            "stamp": 1765685806,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1540302670,
+            "author": 8343886,
+            "stamp": 1765025392,
+            "flags": "A",
+            "commentary": "移除标签：待批准。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1540171087,
+            "author": 8343886,
+            "stamp": 1764741123,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1540167354,
+            "author": 8343886,
+            "stamp": 1764732941,
+            "flags": "A",
+            "commentary": "已新增标签：待批准。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1540146860,
+            "author": 8343886,
+            "stamp": 1764690741,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1540145587,
+            "author": 8343886,
+            "stamp": 1764688435,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1540145508,
+            "author": 8343886,
+            "stamp": 1764688227,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1540025481,
+            "author": 8343886,
+            "stamp": 1764393488,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540018721,
+            "author": 8343886,
+            "stamp": 1764382289,
+            "flags": "A",
+            "commentary": "已新增标签：公共政策。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540018716,
+            "author": 8343886,
+            "stamp": 1764382280,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11880599,
+            "name": "Example",
+            "url": "http://nationarea.wikidot.com/local--files/election-and-democracy-policy/Example",
+            "size": "40.81 kB (41788 Bytes)",
+            "size_bytes": 41788,
+            "mime": "image/png",
+            "content": "PNG image data, 650 x 866, 8-bit/color RGBA, non-interlaced",
+            "author": 8343886,
+            "stamp": 1786412316,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1467165541,
+    "votings": [],
+    "tags": [
+        "公共政策"
+    ],
+    "title": "选举和民主政策",
+    "sitemap_update": 1787465177000,
+    "is_locked": false
+}

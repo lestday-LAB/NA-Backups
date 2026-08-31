@@ -1,0 +1,103 @@
+{
+    "name": "dispute-resolution-for-creation",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 10,
+            "global_revision": 1545349337,
+            "author": 9287872,
+            "stamp": 1784553207,
+            "flags": "S",
+            "commentary": "修复了错误的链接"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1543957117,
+            "author": 8343886,
+            "stamp": 1778926647,
+            "flags": "A",
+            "commentary": "移除标签：待批准。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1543931963,
+            "author": 8343886,
+            "stamp": 1778842597,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"community-judical-policy-ii\" 至 \"dispute-resolution-for-creation\"."
+        },
+        {
+            "revision": 7,
+            "global_revision": 1543931953,
+            "author": 8343886,
+            "stamp": 1778842534,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1543931946,
+            "author": 8343886,
+            "stamp": 1778842493,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1543928205,
+            "author": 8343886,
+            "stamp": 1778825637,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1543922148,
+            "author": 8343886,
+            "stamp": 1778822646,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1543916778,
+            "author": 8343886,
+            "stamp": 1778814621,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543916255,
+            "author": 8343886,
+            "stamp": 1778811774,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543916234,
+            "author": 8343886,
+            "stamp": 1778811657,
+            "flags": "A",
+            "commentary": "已新增标签：公共政策, 待批准。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543916231,
+            "author": 8343886,
+            "stamp": 1778811645,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468661489,
+    "tags": [
+        "公共政策"
+    ],
+    "title": "创作争议解决",
+    "sitemap_update": 1784553207000,
+    "votings": [],
+    "is_locked": false
+}

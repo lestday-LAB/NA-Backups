@@ -1,0 +1,169 @@
+{
+    "name": "magic",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 16,
+            "global_revision": 1546119322,
+            "author": 8426633,
+            "stamp": 1787140855,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1546005254,
+            "author": 8316541,
+            "stamp": 1786791556,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1546005250,
+            "author": 8316541,
+            "stamp": 1786791541,
+            "flags": "A",
+            "commentary": "移除标签：公共所有。"
+        },
+        {
+            "revision": 13,
+            "global_revision": 1546002871,
+            "author": 8426633,
+            "stamp": 1786784655,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1546002302,
+            "author": 8426633,
+            "stamp": 1786783064,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1546002245,
+            "author": 8426633,
+            "stamp": 1786782861,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1546001884,
+            "author": 8426633,
+            "stamp": 1786781619,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1545990990,
+            "author": 8426633,
+            "stamp": 1786753684,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1545990982,
+            "author": 8426633,
+            "stamp": 1786753654,
+            "flags": "A",
+            "commentary": "已新增标签：世界联盟, 公共所有。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1545990955,
+            "author": 8426633,
+            "stamp": 1786753559,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1545990939,
+            "author": 8426633,
+            "stamp": 1786753501,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1545990857,
+            "author": 8426633,
+            "stamp": 1786753157,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1545990842,
+            "author": 8426633,
+            "stamp": 1786753098,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1545990836,
+            "author": 8426633,
+            "stamp": 1786753071,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1545990831,
+            "author": 8426633,
+            "stamp": 1786753050,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1545990816,
+            "author": 8426633,
+            "stamp": 1786752981,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545990728,
+            "author": 8426633,
+            "stamp": 1786752649,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469169593,
+    "votings": [
+        [
+            9455755,
+            true
+        ],
+        [
+            9899603,
+            false
+        ],
+        [
+            8488493,
+            true
+        ],
+        [
+            8426633,
+            true
+        ]
+    ],
+    "forum_thread": 18325846,
+    "tags": [
+        "世界联盟"
+    ],
+    "title": "魔法设定",
+    "sitemap_update": 1787140855000,
+    "is_locked": false
+}
