@@ -1,0 +1,397 @@
+{
+    "name": "regions-list",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 46,
+            "global_revision": 1546119518,
+            "author": 8426633,
+            "stamp": 1787141401,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 45,
+            "global_revision": 1546119503,
+            "author": 8426633,
+            "stamp": 1787141355,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 44,
+            "global_revision": 1546119482,
+            "author": 8426633,
+            "stamp": 1787141280,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 43,
+            "global_revision": 1546119465,
+            "author": 8426633,
+            "stamp": 1787141258,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 42,
+            "global_revision": 1546119187,
+            "author": 8426633,
+            "stamp": 1787140440,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 41,
+            "global_revision": 1542044317,
+            "author": 8553227,
+            "stamp": 1770956757,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 40,
+            "global_revision": 1540500054,
+            "author": 6251737,
+            "stamp": 1765427822,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 39,
+            "global_revision": 1540500048,
+            "author": 6251737,
+            "stamp": 1765427782,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 38,
+            "global_revision": 1540500033,
+            "author": 6251737,
+            "stamp": 1765427713,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 37,
+            "global_revision": 1537131313,
+            "author": 8343886,
+            "stamp": 1761970950,
+            "flags": "A",
+            "commentary": "已新增标签：总览。 移除标签：系统。"
+        },
+        {
+            "revision": 36,
+            "global_revision": 1531506458,
+            "author": 8553227,
+            "stamp": 1754981305,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 35,
+            "global_revision": 1530934603,
+            "author": 8553227,
+            "stamp": 1752211008,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 34,
+            "global_revision": 1528936201,
+            "author": 8343886,
+            "stamp": 1743305069,
+            "flags": "S",
+            "commentary": "有关重新命名页面：“old:nation-10” 改为 “nation-10” 的自动更新。"
+        },
+        {
+            "revision": 33,
+            "global_revision": 1528936180,
+            "author": 8343886,
+            "stamp": 1743305017,
+            "flags": "S",
+            "commentary": "有关重新命名页面：“nation-10” 改为 “old:nation-10” 的自动更新。"
+        },
+        {
+            "revision": 32,
+            "global_revision": 1527599018,
+            "author": 9102405,
+            "stamp": 1738737259,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 31,
+            "global_revision": 1527148203,
+            "author": 6251737,
+            "stamp": 1736242493,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 30,
+            "global_revision": 1527148095,
+            "author": 6251737,
+            "stamp": 1736241765,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 29,
+            "global_revision": 1525939464,
+            "author": 6251737,
+            "stamp": 1732350404,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 28,
+            "global_revision": 1525061292,
+            "author": 6251737,
+            "stamp": 1728229318,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 27,
+            "global_revision": 1518527884,
+            "author": 6251737,
+            "stamp": 1708763339,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 26,
+            "global_revision": 1515927377,
+            "author": 8343886,
+            "stamp": 1699704894,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 25,
+            "global_revision": 1515785097,
+            "author": 8324175,
+            "stamp": 1699114579,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 23"
+        },
+        {
+            "revision": 24,
+            "global_revision": 1515783420,
+            "author": 8841413,
+            "stamp": 1699109485,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 23,
+            "global_revision": 1515757882,
+            "author": 8343886,
+            "stamp": 1699057351,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 22,
+            "global_revision": 1515757782,
+            "author": 8343886,
+            "stamp": 1699057197,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 21,
+            "global_revision": 1515757630,
+            "author": 8343886,
+            "stamp": 1699056963,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 20,
+            "global_revision": 1515757616,
+            "author": 8343886,
+            "stamp": 1699056942,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 19,
+            "global_revision": 1515757376,
+            "author": 8343886,
+            "stamp": 1699056462,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1515757298,
+            "author": 8343886,
+            "stamp": 1699056382,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"areas-list\" 至 \"regions-list\"."
+        },
+        {
+            "revision": 17,
+            "global_revision": 1515757297,
+            "author": 8343886,
+            "stamp": 1699056361,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1515757285,
+            "author": 8343886,
+            "stamp": 1699056309,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1515757280,
+            "author": 8343886,
+            "stamp": 1699056281,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1515757199,
+            "author": 8343886,
+            "stamp": 1699056171,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1515757182,
+            "author": 8343886,
+            "stamp": 1699056063,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1515756913,
+            "author": 8343886,
+            "stamp": 1699055543,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1515203385,
+            "author": 8343886,
+            "stamp": 1697870609,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1514550479,
+            "author": 8452950,
+            "stamp": 1696505887,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1514382692,
+            "author": 8343886,
+            "stamp": 1696152775,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1513834743,
+            "author": 8343886,
+            "stamp": 1694265036,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1513105446,
+            "author": 8636742,
+            "stamp": 1692455749,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1513102354,
+            "author": 8636742,
+            "stamp": 1692441962,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1513102350,
+            "author": 8636742,
+            "stamp": 1692441926,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1513101980,
+            "author": 8636742,
+            "stamp": 1692440113,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1513101977,
+            "author": 8636742,
+            "stamp": 1692440086,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1513101902,
+            "author": 8636742,
+            "stamp": 1692439858,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1513056746,
+            "author": 8343886,
+            "stamp": 1692244824,
+            "flags": "A",
+            "commentary": "已新增标签：系统。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1513056742,
+            "author": 8343886,
+            "stamp": 1692244806,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1449417815,
+    "votings": [
+        [
+            9899603,
+            true
+        ]
+    ],
+    "forum_thread": 17201697,
+    "tags": [
+        "总览"
+    ],
+    "title": "地区档案馆",
+    "sitemap_update": 1787141401000,
+    "is_locked": false
+}

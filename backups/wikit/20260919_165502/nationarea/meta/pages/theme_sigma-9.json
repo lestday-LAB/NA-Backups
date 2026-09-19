@@ -1,0 +1,114 @@
+{
+    "name": "theme:sigma-9",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 9,
+            "global_revision": 1546129726,
+            "author": 7504264,
+            "stamp": 1787184982,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1546129709,
+            "author": 7504264,
+            "stamp": 1787184871,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1546129681,
+            "author": 7504264,
+            "stamp": 1787184556,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1546129672,
+            "author": 7504264,
+            "stamp": 1787184445,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 1"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1546129661,
+            "author": 7504264,
+            "stamp": 1787184285,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1546129652,
+            "author": 7504264,
+            "stamp": 1787184201,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1546129510,
+            "author": 7504264,
+            "stamp": 1787183217,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 1"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1546129467,
+            "author": 7504264,
+            "stamp": 1787182934,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1545264873,
+            "author": 8343886,
+            "stamp": 1784205373,
+            "flags": "A",
+            "commentary": "已新增标签：版式。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545264868,
+            "author": 8343886,
+            "stamp": 1784205360,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468989976,
+    "votings": [
+        [
+            9477146,
+            true
+        ],
+        [
+            9899603,
+            true
+        ],
+        [
+            8343886,
+            true
+        ],
+        [
+            8152715,
+            true
+        ]
+    ],
+    "rating": 4,
+    "forum_thread": 18188690,
+    "tags": [
+        "版式"
+    ],
+    "title": "版式：Sigma 9",
+    "sitemap_update": 1787184982000,
+    "is_locked": false
+}
