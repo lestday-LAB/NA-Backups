@@ -1,0 +1,874 @@
+{
+    "name": "nation-120",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 97,
+            "global_revision": 1541206509,
+            "author": 8343886,
+            "stamp": 1767240237,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 96,
+            "global_revision": 1540171645,
+            "author": 8343886,
+            "stamp": 1764742334,
+            "flags": "A",
+            "commentary": "已新增标签：关键设定。 移除标签：核心文档。"
+        },
+        {
+            "revision": 95,
+            "global_revision": 1531173290,
+            "author": 8426633,
+            "stamp": 1753417449,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 94,
+            "global_revision": 1531173000,
+            "author": 8426633,
+            "stamp": 1753416106,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 93,
+            "global_revision": 1531172991,
+            "author": 8426633,
+            "stamp": 1753416069,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 92,
+            "global_revision": 1531040506,
+            "author": 8426633,
+            "stamp": 1752722538,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 91,
+            "global_revision": 1530752088,
+            "author": 8426633,
+            "stamp": 1751269834,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 90,
+            "global_revision": 1530604722,
+            "author": 8426633,
+            "stamp": 1750512760,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 89,
+            "global_revision": 1530604095,
+            "author": 8426633,
+            "stamp": 1750509654,
+            "flags": "F",
+            "commentary": "已上传文件 “因理地区公约组织经济柱形图”。"
+        },
+        {
+            "revision": 88,
+            "global_revision": 1530540743,
+            "author": 8426633,
+            "stamp": 1750127339,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 87,
+            "global_revision": 1530540733,
+            "author": 8426633,
+            "stamp": 1750127290,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 86,
+            "global_revision": 1530404451,
+            "author": 8426633,
+            "stamp": 1749265987,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 85,
+            "global_revision": 1530327443,
+            "author": 8426633,
+            "stamp": 1748782608,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 84,
+            "global_revision": 1528270633,
+            "author": 8426633,
+            "stamp": 1741426291,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 83,
+            "global_revision": 1528147854,
+            "author": 8426633,
+            "stamp": 1740835233,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 82,
+            "global_revision": 1528147618,
+            "author": 8426633,
+            "stamp": 1740834095,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 81,
+            "global_revision": 1528050418,
+            "author": 8426633,
+            "stamp": 1740275917,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 80,
+            "global_revision": 1528035502,
+            "author": 8426633,
+            "stamp": 1740202074,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 79,
+            "global_revision": 1527685311,
+            "author": 8426633,
+            "stamp": 1739094359,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 78,
+            "global_revision": 1527685171,
+            "author": 8426633,
+            "stamp": 1739093759,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 77,
+            "global_revision": 1527684976,
+            "author": 8426633,
+            "stamp": 1739092903,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 76,
+            "global_revision": 1527628185,
+            "author": 8343886,
+            "stamp": 1738892817,
+            "flags": "S",
+            "commentary": "有关重新命名页面：“world-assembly” 改为 “world-alliance” 的自动更新。"
+        },
+        {
+            "revision": 75,
+            "global_revision": 1527618000,
+            "author": 8356393,
+            "stamp": 1738842567,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 74,
+            "global_revision": 1527616512,
+            "author": 8426633,
+            "stamp": 1738834204,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 73,
+            "global_revision": 1527417297,
+            "author": 8426633,
+            "stamp": 1737760355,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 72,
+            "global_revision": 1527370619,
+            "author": 8426633,
+            "stamp": 1737502774,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 71,
+            "global_revision": 1527363982,
+            "author": 8426633,
+            "stamp": 1737464694,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 70,
+            "global_revision": 1527363924,
+            "author": 8426633,
+            "stamp": 1737464446,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 69,
+            "global_revision": 1527363791,
+            "author": 8426633,
+            "stamp": 1737464180,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 68,
+            "global_revision": 1527320819,
+            "author": 8426633,
+            "stamp": 1737342065,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 67,
+            "global_revision": 1527320799,
+            "author": 8426633,
+            "stamp": 1737341837,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 66,
+            "global_revision": 1527320745,
+            "author": 8426633,
+            "stamp": 1737341162,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 65,
+            "global_revision": 1527320548,
+            "author": 8426633,
+            "stamp": 1737339759,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 64,
+            "global_revision": 1527199160,
+            "author": 8343886,
+            "stamp": 1736571782,
+            "flags": "A",
+            "commentary": "已新增标签：核心文档。 移除标签：重要文档。"
+        },
+        {
+            "revision": 63,
+            "global_revision": 1526050310,
+            "author": 8426633,
+            "stamp": 1733026648,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 62,
+            "global_revision": 1526024753,
+            "author": 8426633,
+            "stamp": 1732872044,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 61,
+            "global_revision": 1526024474,
+            "author": 8426633,
+            "stamp": 1732870238,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 60,
+            "global_revision": 1525922306,
+            "author": 8343886,
+            "stamp": 1732269823,
+            "flags": "A",
+            "commentary": "已新增标签：西半球。 移除标签：人权保护, 威权社会主义, 沿海。"
+        },
+        {
+            "revision": 59,
+            "global_revision": 1525856781,
+            "author": 8426633,
+            "stamp": 1731834561,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 58,
+            "global_revision": 1525701457,
+            "author": 8426633,
+            "stamp": 1731233990,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 57,
+            "global_revision": 1525687123,
+            "author": 8426633,
+            "stamp": 1731153237,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 56,
+            "global_revision": 1525686898,
+            "author": 8426633,
+            "stamp": 1731152344,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 55,
+            "global_revision": 1525232780,
+            "author": 8426633,
+            "stamp": 1728999012,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 54,
+            "global_revision": 1525199441,
+            "author": 8426633,
+            "stamp": 1728790115,
+            "flags": "A",
+            "commentary": "已新增标签：精选。"
+        },
+        {
+            "revision": 53,
+            "global_revision": 1525039412,
+            "author": 8426633,
+            "stamp": 1728106493,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 52,
+            "global_revision": 1525039033,
+            "author": 8426633,
+            "stamp": 1728104130,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 51,
+            "global_revision": 1524990115,
+            "author": 8426633,
+            "stamp": 1728016205,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 50,
+            "global_revision": 1524990097,
+            "author": 8426633,
+            "stamp": 1728016039,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 49,
+            "global_revision": 1524974949,
+            "author": 8426633,
+            "stamp": 1727928061,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 48,
+            "global_revision": 1524965037,
+            "author": 8426633,
+            "stamp": 1727872477,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 47,
+            "global_revision": 1524963624,
+            "author": 8426633,
+            "stamp": 1727866139,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 46,
+            "global_revision": 1524963599,
+            "author": 8426633,
+            "stamp": 1727865949,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 45,
+            "global_revision": 1524963509,
+            "author": 8426633,
+            "stamp": 1727865130,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 44,
+            "global_revision": 1524896481,
+            "author": 8426633,
+            "stamp": 1727497255,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 43,
+            "global_revision": 1524861653,
+            "author": 8426633,
+            "stamp": 1727303572,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 42,
+            "global_revision": 1524768488,
+            "author": 8426633,
+            "stamp": 1726919713,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 41,
+            "global_revision": 1524739577,
+            "author": 8426633,
+            "stamp": 1726788537,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 40,
+            "global_revision": 1524696152,
+            "author": 8426633,
+            "stamp": 1726746565,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 39,
+            "global_revision": 1524695852,
+            "author": 8426633,
+            "stamp": 1726745194,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 38,
+            "global_revision": 1524695746,
+            "author": 8426633,
+            "stamp": 1726744043,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 37,
+            "global_revision": 1524681877,
+            "author": 8426633,
+            "stamp": 1726661959,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 36,
+            "global_revision": 1524681826,
+            "author": 8426633,
+            "stamp": 1726661800,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 35,
+            "global_revision": 1524657926,
+            "author": 8426633,
+            "stamp": 1726557312,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 34,
+            "global_revision": 1524635941,
+            "author": 8426633,
+            "stamp": 1726467815,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 33,
+            "global_revision": 1524635575,
+            "author": 8426633,
+            "stamp": 1726466140,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 32,
+            "global_revision": 1524634641,
+            "author": 8426633,
+            "stamp": 1726462435,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 31,
+            "global_revision": 1524616694,
+            "author": 8426633,
+            "stamp": 1726392403,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 30,
+            "global_revision": 1524611917,
+            "author": 8426633,
+            "stamp": 1726372258,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 29,
+            "global_revision": 1524611385,
+            "author": 8426633,
+            "stamp": 1726369718,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 28,
+            "global_revision": 1524609181,
+            "author": 8426633,
+            "stamp": 1726359402,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 27,
+            "global_revision": 1524578667,
+            "author": 8426633,
+            "stamp": 1726238177,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 26,
+            "global_revision": 1524532594,
+            "author": 8426633,
+            "stamp": 1726094324,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 25,
+            "global_revision": 1524532585,
+            "author": 8426633,
+            "stamp": 1726094222,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 24,
+            "global_revision": 1524505148,
+            "author": 8426633,
+            "stamp": 1725972613,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 23,
+            "global_revision": 1524505078,
+            "author": 8426633,
+            "stamp": 1725972373,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 22,
+            "global_revision": 1524499958,
+            "author": 8426633,
+            "stamp": 1725950586,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 21,
+            "global_revision": 1524499896,
+            "author": 8426633,
+            "stamp": 1725950041,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 20,
+            "global_revision": 1524499721,
+            "author": 8426633,
+            "stamp": 1725949600,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 19,
+            "global_revision": 1524499628,
+            "author": 8426633,
+            "stamp": 1725949150,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1524459398,
+            "author": 8426633,
+            "stamp": 1725762189,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1524269673,
+            "author": 8426633,
+            "stamp": 1724971897,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1524209361,
+            "author": 8426633,
+            "stamp": 1724711596,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1524199594,
+            "author": 6251737,
+            "stamp": 1724671899,
+            "flags": "A",
+            "commentary": "已新增标签：重要文档。 移除标签：核心文档。"
+        },
+        {
+            "revision": 14,
+            "global_revision": 1524199551,
+            "author": 6251737,
+            "stamp": 1724671753,
+            "flags": "A",
+            "commentary": "已新增标签：核心文档。 移除标签：核心设定。"
+        },
+        {
+            "revision": 13,
+            "global_revision": 1524198070,
+            "author": 8426633,
+            "stamp": 1724665166,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1524198041,
+            "author": 8426633,
+            "stamp": 1724664872,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1524197902,
+            "author": 8426633,
+            "stamp": 1724663848,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1524197858,
+            "author": 8426633,
+            "stamp": 1724663489,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1524197819,
+            "author": 8426633,
+            "stamp": 1724663304,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1524197626,
+            "author": 8426633,
+            "stamp": 1724662307,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1524196823,
+            "author": 8426633,
+            "stamp": 1724657143,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1524195950,
+            "author": 8426633,
+            "stamp": 1724652372,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1524186832,
+            "author": 8426633,
+            "stamp": 1724590170,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1524186190,
+            "author": 6251737,
+            "stamp": 1724587312,
+            "flags": "A",
+            "commentary": "已新增标签：核心设定。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1524178966,
+            "author": 8426633,
+            "stamp": 1724562690,
+            "flags": "A",
+            "commentary": "已新增标签：国家, 沿海。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1524178958,
+            "author": 8426633,
+            "stamp": 1724562628,
+            "flags": "A",
+            "commentary": "已新增标签：人权保护, 奇异居民, 威权社会主义。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1524178816,
+            "author": 8426633,
+            "stamp": 1724562408,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1524109567,
+            "author": 8426633,
+            "stamp": 1724419904,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11406281,
+            "name": "因理地区公约组织经济柱形图",
+            "url": "http://nationarea.wikidot.com/local--files/nation-120/%E5%9B%A0%E7%90%86%E5%9C%B0%E5%8C%BA%E5%85%AC%E7%BA%A6%E7%BB%84%E7%BB%87%E7%BB%8F%E6%B5%8E%E6%9F%B1%E5%BD%A2%E5%9B%BE",
+            "size": "90.62 kB (92796 Bytes)",
+            "size_bytes": 92796,
+            "mime": "image/png",
+            "content": "PNG image data, 1848 x 1274, 8-bit/color RGBA, non-interlaced",
+            "author": 8426633,
+            "stamp": 1750509654,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1456524479,
+    "forum_thread": 16922502,
+    "tags": [
+        "关键设定",
+        "国家",
+        "奇异居民",
+        "精选",
+        "西半球"
+    ],
+    "title": "因理地区公约组织",
+    "sitemap_update": 1767240237000,
+    "votings": [
+        [
+            8548483,
+            true
+        ],
+        [
+            8462980,
+            true
+        ],
+        [
+            8248071,
+            true
+        ],
+        [
+            8316541,
+            true
+        ],
+        [
+            8356393,
+            true
+        ],
+        [
+            9102405,
+            true
+        ],
+        [
+            8724677,
+            true
+        ],
+        [
+            8426633,
+            true
+        ],
+        [
+            6251737,
+            true
+        ],
+        [
+            8325214,
+            true
+        ],
+        [
+            9808207,
+            true
+        ],
+        [
+            8445047,
+            true
+        ],
+        [
+            8118764,
+            true
+        ],
+        [
+            8553227,
+            true
+        ]
+    ],
+    "is_locked": false
+}

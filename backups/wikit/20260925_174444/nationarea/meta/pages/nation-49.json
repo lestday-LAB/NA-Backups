@@ -1,0 +1,226 @@
+{
+    "name": "nation-49",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 21,
+            "global_revision": 1541206091,
+            "author": 8343886,
+            "stamp": 1767237849,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 20,
+            "global_revision": 1540172050,
+            "author": 8343886,
+            "stamp": 1764743162,
+            "flags": "A",
+            "commentary": "移除标签：次要文档。"
+        },
+        {
+            "revision": 19,
+            "global_revision": 1539338820,
+            "author": 8343886,
+            "stamp": 1762949908,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1527628173,
+            "author": 8343886,
+            "stamp": 1738892815,
+            "flags": "S",
+            "commentary": "有关重新命名页面：“world-assembly” 改为 “world-alliance” 的自动更新。"
+        },
+        {
+            "revision": 17,
+            "global_revision": 1527617896,
+            "author": 8356393,
+            "stamp": 1738842107,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1527604717,
+            "author": 6251737,
+            "stamp": 1738766604,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1525922131,
+            "author": 8343886,
+            "stamp": 1732268887,
+            "flags": "A",
+            "commentary": "已新增标签：东半球, 国家。 移除标签：半岛, 奇异居民, 民主资本主义。"
+        },
+        {
+            "revision": 14,
+            "global_revision": 1523071505,
+            "author": 6251737,
+            "stamp": 1721189005,
+            "flags": "A",
+            "commentary": "已新增标签：次要文档。"
+        },
+        {
+            "revision": 13,
+            "global_revision": 1519736528,
+            "author": 8724677,
+            "stamp": 1713663745,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1519736353,
+            "author": 8724677,
+            "stamp": 1713662337,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1519731722,
+            "author": 8724677,
+            "stamp": 1713631793,
+            "flags": "A",
+            "commentary": "移除标签：重写中。"
+        },
+        {
+            "revision": 10,
+            "global_revision": 1519731715,
+            "author": 8724677,
+            "stamp": 1713631759,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1519731709,
+            "author": 8724677,
+            "stamp": 1713631696,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1519592716,
+            "author": 8724677,
+            "stamp": 1713031479,
+            "flags": "A",
+            "commentary": "已新增标签：物理异常, 重写中。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1518866796,
+            "author": 8724677,
+            "stamp": 1709995836,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1518866698,
+            "author": 8724677,
+            "stamp": 1709995408,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1518866674,
+            "author": 8724677,
+            "stamp": 1709995287,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1518866642,
+            "author": 8343886,
+            "stamp": 1709995087,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"checking:nation-49\" 至 \"nation-49\"."
+        },
+        {
+            "revision": 3,
+            "global_revision": 1518866638,
+            "author": 8724677,
+            "stamp": 1709995062,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1518866576,
+            "author": 8724677,
+            "stamp": 1709994902,
+            "flags": "A",
+            "commentary": "已新增标签：crossover, 半岛, 奇异居民, 民主资本主义, 隐秘。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1518866518,
+            "author": 8724677,
+            "stamp": 1709994790,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1518866511,
+            "author": 8724677,
+            "stamp": 1709994749,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1452955312,
+    "rating": 3,
+    "forum_thread": 16747000,
+    "tags": [
+        "crossover",
+        "东半球",
+        "国家",
+        "物理异常",
+        "隐秘"
+    ],
+    "title": "迪爱尔伊穆拉斯珀斯",
+    "sitemap_update": 1767237849000,
+    "votings": [
+        [
+            8443876,
+            true
+        ],
+        [
+            8248071,
+            true
+        ],
+        [
+            8316541,
+            true
+        ],
+        [
+            8464470,
+            false
+        ],
+        [
+            6251737,
+            false
+        ],
+        [
+            8343886,
+            true
+        ],
+        [
+            8118764,
+            true
+        ]
+    ],
+    "is_locked": false
+}

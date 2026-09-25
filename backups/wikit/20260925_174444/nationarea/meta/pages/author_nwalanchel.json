@@ -1,0 +1,196 @@
+{
+    "name": "author:nwalanchel",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 19,
+            "global_revision": 1531212213,
+            "author": 8426633,
+            "stamp": 1753601481,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1531212209,
+            "author": 8426633,
+            "stamp": 1753601456,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1531211651,
+            "author": 8426633,
+            "stamp": 1753599885,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1531211578,
+            "author": 8426633,
+            "stamp": 1753599520,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1531211410,
+            "author": 8426633,
+            "stamp": 1753598877,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1531206616,
+            "author": 8426633,
+            "stamp": 1753575885,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1531206605,
+            "author": 8426633,
+            "stamp": 1753575746,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1531206600,
+            "author": 8426633,
+            "stamp": 1753575710,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1531206598,
+            "author": 8426633,
+            "stamp": 1753575675,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1531206592,
+            "author": 8426633,
+            "stamp": 1753575647,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1530656231,
+            "author": 8343886,
+            "stamp": 1750850476,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"nwalanchel\" 至 \"author:nwalanchel\"."
+        },
+        {
+            "revision": 8,
+            "global_revision": 1527327968,
+            "author": 8426633,
+            "stamp": 1737378206,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1527327943,
+            "author": 8426633,
+            "stamp": 1737378042,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1527327866,
+            "author": 8426633,
+            "stamp": 1737377619,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1527327814,
+            "author": 8426633,
+            "stamp": 1737377375,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1527327809,
+            "author": 8426633,
+            "stamp": 1737377326,
+            "flags": "A",
+            "commentary": "已新增标签：作者。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1527327808,
+            "author": 8426633,
+            "stamp": 1737377311,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1527327800,
+            "author": 8426633,
+            "stamp": 1737377286,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1527327720,
+            "author": 8426633,
+            "stamp": 1737377087,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1527327704,
+            "author": 8426633,
+            "stamp": 1737377050,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458265206,
+    "tags": [
+        "作者"
+    ],
+    "title": "The Nwa的作者页",
+    "sitemap_update": 1753601481000,
+    "votings": [
+        [
+            8356393,
+            true
+        ],
+        [
+            8426633,
+            true
+        ],
+        [
+            9808207,
+            true
+        ],
+        [
+            8343886,
+            true
+        ],
+        [
+            8345010,
+            true
+        ]
+    ],
+    "is_locked": false
+}

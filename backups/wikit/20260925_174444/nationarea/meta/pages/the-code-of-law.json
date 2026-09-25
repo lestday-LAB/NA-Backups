@@ -1,0 +1,143 @@
+{
+    "name": "the-code-of-law",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 15,
+            "global_revision": 1545349334,
+            "author": 9287872,
+            "stamp": 1784553195,
+            "flags": "S",
+            "commentary": "修复了错误的链接"
+        },
+        {
+            "revision": 14,
+            "global_revision": 1543957123,
+            "author": 8343886,
+            "stamp": 1778926667,
+            "flags": "A",
+            "commentary": "移除标签：待批准。"
+        },
+        {
+            "revision": 13,
+            "global_revision": 1543951122,
+            "author": 8343886,
+            "stamp": 1778900510,
+            "flags": "S",
+            "commentary": "修改了关于适用时效的表述。"
+        },
+        {
+            "revision": 12,
+            "global_revision": 1543901670,
+            "author": 8343886,
+            "stamp": 1778749483,
+            "flags": "A",
+            "commentary": "已新增标签：待批准。"
+        },
+        {
+            "revision": 11,
+            "global_revision": 1543901662,
+            "author": 8343886,
+            "stamp": 1778749459,
+            "flags": "S",
+            "commentary": "修订了基本原则和部分量刑。"
+        },
+        {
+            "revision": 10,
+            "global_revision": 1542970002,
+            "author": 8343886,
+            "stamp": 1774699410,
+            "flags": "A",
+            "commentary": "移除标签：待批准。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1542961438,
+            "author": 8343886,
+            "stamp": 1774666087,
+            "flags": "A",
+            "commentary": "已新增标签：待批准。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1542899417,
+            "author": 8343886,
+            "stamp": 1774412570,
+            "flags": "S",
+            "commentary": "修改部分量刑。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1542124579,
+            "author": 8343886,
+            "stamp": 1771341058,
+            "flags": "S",
+            "commentary": "添加新的说明，包括上传大附件和煽动恶意评分。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1542124520,
+            "author": 8343886,
+            "stamp": 1771340661,
+            "flags": "S",
+            "commentary": "调整量刑。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1541685659,
+            "author": 8343886,
+            "stamp": 1769820902,
+            "flags": "S",
+            "commentary": "添加不要抄袭和不当引用的阐释。\n将第四节的标题改为“遵守创作礼仪”。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1541685640,
+            "author": 8343886,
+            "stamp": 1769820788,
+            "flags": "S",
+            "commentary": "加粗了一处字体。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541564784,
+            "author": 8343886,
+            "stamp": 1769245589,
+            "flags": "A",
+            "commentary": "移除标签：待批准。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541557848,
+            "author": 8343886,
+            "stamp": 1769222122,
+            "flags": "A",
+            "commentary": "已新增标签：公共政策, 待批准。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541557843,
+            "author": 8343886,
+            "stamp": 1769222112,
+            "flags": "S",
+            "commentary": "正式从社区司法政策中将本法典分离。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541557792,
+            "author": 8343886,
+            "stamp": 1769221869,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468042854,
+    "tags": [
+        "公共政策"
+    ],
+    "title": "The Nationarea 社区法典",
+    "sitemap_update": 1784553195000,
+    "votings": [],
+    "is_locked": false
+}

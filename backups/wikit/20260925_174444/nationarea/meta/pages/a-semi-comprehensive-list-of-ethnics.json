@@ -1,0 +1,53 @@
+{
+    "name": "a-semi-comprehensive-list-of-ethnics",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1546026986,
+            "author": 8316541,
+            "stamp": 1786858113,
+            "flags": "A",
+            "commentary": "已新增标签：总览, 种族。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1544980014,
+            "author": 4949980,
+            "stamp": 1783045077,
+            "flags": "S",
+            "commentary": "更正了卡米拉尔人的种类分类。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544974034,
+            "author": 4949980,
+            "stamp": 1783010940,
+            "flags": "N",
+            "commentary": "最初创建"
+        }
+    ],
+    "files": [],
+    "page_id": 1468931996,
+    "votings": [
+        [
+            9899603,
+            true
+        ],
+        [
+            8343886,
+            true
+        ],
+        [
+            9287872,
+            true
+        ]
+    ],
+    "tags": [
+        "总览",
+        "种族"
+    ],
+    "title": "埃珥拉种族半完整列表",
+    "sitemap_update": 1786858113000,
+    "is_locked": false
+}

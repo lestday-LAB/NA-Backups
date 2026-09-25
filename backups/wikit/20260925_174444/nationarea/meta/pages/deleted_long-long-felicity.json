@@ -1,0 +1,82 @@
+{
+    "name": "deleted:long-long-felicity",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1545884574,
+            "author": 8325214,
+            "stamp": 1786440353,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"long-long-felicity\" 至 \"deleted:long-long-felicity\"."
+        },
+        {
+            "revision": 4,
+            "global_revision": 1541156278,
+            "author": 8325214,
+            "stamp": 1766931967,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541156047,
+            "author": 8325214,
+            "stamp": 1766931148,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541156039,
+            "author": 8325214,
+            "stamp": 1766931124,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541156022,
+            "author": 8325214,
+            "stamp": 1766931063,
+            "flags": "A",
+            "commentary": "已新增标签：2025圣诞颂活动, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541156016,
+            "author": 8325214,
+            "stamp": 1766931033,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467937260,
+    "rating": 4,
+    "tags": [
+        "2025圣诞颂活动",
+        "故事"
+    ],
+    "title": "大会373年的圣诞日",
+    "sitemap_update": 1786440353000,
+    "votings": [
+        [
+            7679098,
+            true
+        ],
+        [
+            9102405,
+            true
+        ],
+        [
+            8325214,
+            true
+        ],
+        [
+            8343886,
+            true
+        ]
+    ],
+    "is_locked": false
+}

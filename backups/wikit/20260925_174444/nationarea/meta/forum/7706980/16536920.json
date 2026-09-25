@@ -1,0 +1,31 @@
+{
+    "title": "国家信息模块",
+    "id": 16536920,
+    "description": "",
+    "last": 1755227285,
+    "lastUser": 6348600,
+    "started": 1703154594,
+    "startedUser": null,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 6276589,
+            "title": "",
+            "poster": 8108397,
+            "stamp": 1703154622,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7118306,
+            "title": "",
+            "poster": 6348600,
+            "stamp": 1755227285,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

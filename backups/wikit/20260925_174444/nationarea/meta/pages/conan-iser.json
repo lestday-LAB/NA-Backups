@@ -1,0 +1,79 @@
+{
+    "name": "conan-iser",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1546086099,
+            "author": 8374306,
+            "stamp": 1787030261,
+            "flags": "A",
+            "commentary": "已新增标签：逝世的人物。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532585405,
+            "author": 8343886,
+            "stamp": 1759334618,
+            "flags": "A",
+            "commentary": "移除标签：逝世的人物。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532176089,
+            "author": 8374306,
+            "stamp": 1757250290,
+            "flags": "A",
+            "commentary": "已新增标签：逝世的人物。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532176057,
+            "author": 8374306,
+            "stamp": 1757250164,
+            "flags": "A",
+            "commentary": "已新增标签：相关人物。 移除标签：人物。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532176048,
+            "author": 8374306,
+            "stamp": 1757250122,
+            "flags": "A",
+            "commentary": "已新增标签：2025群像活动, 人物。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532176046,
+            "author": 8374306,
+            "stamp": 1757250104,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460357178,
+    "votings": [
+        [
+            8316541,
+            true
+        ],
+        [
+            6251737,
+            true
+        ],
+        [
+            8118764,
+            true
+        ]
+    ],
+    "forum_thread": 17295717,
+    "tags": [
+        "2025群像活动",
+        "相关人物",
+        "逝世的人物"
+    ],
+    "title": "柯南·伊瑟尔",
+    "sitemap_update": 1787030261000,
+    "is_locked": false
+}

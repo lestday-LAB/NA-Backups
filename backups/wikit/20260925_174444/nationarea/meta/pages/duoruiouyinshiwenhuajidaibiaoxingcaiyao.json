@@ -1,0 +1,50 @@
+{
+    "name": "duoruiouyinshiwenhuajidaibiaoxingcaiyao",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1544367535,
+            "author": 7679098,
+            "stamp": 1780248334,
+            "flags": "A",
+            "commentary": "已新增标签：万国饭食, 故事。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1544367519,
+            "author": 7679098,
+            "stamp": 1780248245,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544367512,
+            "author": 7679098,
+            "stamp": 1780248179,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468787281,
+    "forum_thread": 17982945,
+    "tags": [
+        "万国饭食",
+        "故事"
+    ],
+    "title": "多瑞欧饮食文化及代表性菜肴",
+    "sitemap_update": 1780248334000,
+    "votings": [
+        [
+            9898928,
+            true
+        ],
+        [
+            9287872,
+            true
+        ]
+    ],
+    "is_locked": false
+}

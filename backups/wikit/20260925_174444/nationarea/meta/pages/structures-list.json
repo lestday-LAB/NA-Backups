@@ -1,0 +1,63 @@
+{
+    "name": "structures-list",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1543644186,
+            "author": 8343886,
+            "stamp": 1777609125,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1537131338,
+            "author": 8343886,
+            "stamp": 1761971047,
+            "flags": "A",
+            "commentary": "已新增标签：总览。 移除标签：系统。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1527198176,
+            "author": 8343886,
+            "stamp": 1736565685,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1526027511,
+            "author": 8343886,
+            "stamp": 1732888147,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1515755949,
+            "author": 8343886,
+            "stamp": 1699053117,
+            "flags": "A",
+            "commentary": "已新增标签：系统。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1515755946,
+            "author": 8343886,
+            "stamp": 1699053103,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1451276199,
+    "tags": [
+        "总览"
+    ],
+    "title": "建筑结构档案馆",
+    "sitemap_update": 1777609125000,
+    "votings": [],
+    "is_locked": false
+}

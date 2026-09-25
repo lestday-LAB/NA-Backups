@@ -1,0 +1,63 @@
+{
+    "name": "quick-admin",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1546027384,
+            "author": 8316541,
+            "stamp": 1786858907,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 3"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1546027365,
+            "author": 8316541,
+            "stamp": 1786858884,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1546027213,
+            "author": 8316541,
+            "stamp": 1786858796,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1546026966,
+            "author": 8316541,
+            "stamp": 1786858003,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1546026871,
+            "author": 8316541,
+            "stamp": 1786857675,
+            "flags": "A",
+            "commentary": "已新增标签：功能。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1546026828,
+            "author": 8316541,
+            "stamp": 1786857531,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469177466,
+    "tags": [
+        "功能"
+    ],
+    "title": "快速行政页",
+    "sitemap_update": 1786858907000,
+    "votings": [],
+    "is_locked": false
+}

@@ -1,0 +1,47 @@
+{
+    "name": "forum:start",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1537131696,
+            "author": 8343886,
+            "stamp": 1761972407,
+            "flags": "A",
+            "commentary": "已新增标签：功能。 移除标签：系统。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530613910,
+            "author": 8325214,
+            "stamp": 1750584473,
+            "flags": "A",
+            "commentary": "已新增标签：系统。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1513682271,
+            "author": 8343886,
+            "stamp": 1693711496,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1512882369,
+            "author": 8343886,
+            "stamp": 1691652663,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1449330614,
+    "tags": [
+        "功能"
+    ],
+    "title": "论坛",
+    "sitemap_update": 1761972407000,
+    "votings": [],
+    "is_locked": true
+}

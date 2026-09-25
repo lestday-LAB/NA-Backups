@@ -1,0 +1,184 @@
+{
+    "name": "nation-48",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 15,
+            "global_revision": 1545342433,
+            "author": 8343886,
+            "stamp": 1784528428,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1543474364,
+            "author": 8343886,
+            "stamp": 1776755121,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1540172147,
+            "author": 8343886,
+            "stamp": 1764743388,
+            "flags": "A",
+            "commentary": "已新增标签：关键设定。 移除标签：重要文档。"
+        },
+        {
+            "revision": 12,
+            "global_revision": 1539338789,
+            "author": 8343886,
+            "stamp": 1762949892,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1533018538,
+            "author": 8118764,
+            "stamp": 1760421321,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1527628171,
+            "author": 8343886,
+            "stamp": 1738892815,
+            "flags": "S",
+            "commentary": "有关重新命名页面：“world-assembly” 改为 “world-alliance” 的自动更新。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1527617892,
+            "author": 8356393,
+            "stamp": 1738842077,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1527604711,
+            "author": 6251737,
+            "stamp": 1738766558,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1525939637,
+            "author": 6251737,
+            "stamp": 1732351615,
+            "flags": "A",
+            "commentary": "已新增标签：crossover。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1525934967,
+            "author": 6251737,
+            "stamp": 1732335378,
+            "flags": "A",
+            "commentary": "已新增标签：物理异常。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1525922127,
+            "author": 8343886,
+            "stamp": 1732268860,
+            "flags": "A",
+            "commentary": "已新增标签：东半球。 移除标签：人权保护, 民主社会主义, 沿海, 物理异常。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1523142951,
+            "author": 6251737,
+            "stamp": 1721529233,
+            "flags": "A",
+            "commentary": "已新增标签：重要文档。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1523142828,
+            "author": 6251737,
+            "stamp": 1721528571,
+            "flags": "A",
+            "commentary": "已新增标签：奇异居民。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1523142820,
+            "author": 6251737,
+            "stamp": 1721528546,
+            "flags": "A",
+            "commentary": "已新增标签：民主社会主义。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1523142790,
+            "author": 6251737,
+            "stamp": 1721528366,
+            "flags": "A",
+            "commentary": "已新增标签：人权保护, 国家, 沿海, 物理异常, 积极。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1523142754,
+            "author": 8118764,
+            "stamp": 1721528176,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1455930320,
+    "rating": 8,
+    "forum_thread": 16889433,
+    "tags": [
+        "crossover",
+        "东半球",
+        "关键设定",
+        "国家",
+        "奇异居民",
+        "物理异常",
+        "积极"
+    ],
+    "title": "洛雨叶",
+    "sitemap_update": 1784528428000,
+    "votings": [
+        [
+            8462980,
+            true
+        ],
+        [
+            8248071,
+            true
+        ],
+        [
+            8724677,
+            true
+        ],
+        [
+            6251737,
+            true
+        ],
+        [
+            8325214,
+            true
+        ],
+        [
+            8345010,
+            true
+        ],
+        [
+            8553227,
+            true
+        ],
+        [
+            9287872,
+            true
+        ]
+    ],
+    "is_locked": false
+}

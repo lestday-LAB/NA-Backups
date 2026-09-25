@@ -1,0 +1,149 @@
+{
+    "name": "welcome-page",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 12,
+            "global_revision": 1544752669,
+            "author": 9287872,
+            "stamp": 1781951671,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1537131474,
+            "author": 8343886,
+            "stamp": 1761971645,
+            "flags": "A",
+            "commentary": "已新增标签：功能。 移除标签：系统。"
+        },
+        {
+            "revision": 10,
+            "global_revision": 1526042030,
+            "author": 8343886,
+            "stamp": 1732972005,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1514161089,
+            "author": 8343886,
+            "stamp": 1695453282,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"special:welcome\" 至 \"welcome-page\"."
+        },
+        {
+            "revision": 8,
+            "global_revision": 1513956717,
+            "author": 8343886,
+            "stamp": 1694822356,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1513956553,
+            "author": 8343886,
+            "stamp": 1694821540,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1513956550,
+            "author": 8343886,
+            "stamp": 1694821521,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1513956482,
+            "author": 8343886,
+            "stamp": 1694821231,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1513937251,
+            "author": 8343886,
+            "stamp": 1694732531,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1513937219,
+            "author": 8343886,
+            "stamp": 1694732319,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1513937213,
+            "author": 8343886,
+            "stamp": 1694732237,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1513932686,
+            "author": 8343886,
+            "stamp": 1694705541,
+            "flags": "A",
+            "commentary": "已新增标签：系统。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1513932680,
+            "author": 8343886,
+            "stamp": 1694705516,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1449978912,
+    "forum_thread": 17087958,
+    "tags": [
+        "功能"
+    ],
+    "title": "欢迎您加入 The Nationarea！",
+    "sitemap_update": 1781951671000,
+    "votings": [
+        [
+            9477146,
+            true
+        ],
+        [
+            8251012,
+            true
+        ],
+        [
+            9818466,
+            true
+        ],
+        [
+            9100566,
+            true
+        ],
+        [
+            9337882,
+            true
+        ],
+        [
+            9808207,
+            true
+        ],
+        [
+            9629982,
+            true
+        ]
+    ],
+    "is_locked": true
+}

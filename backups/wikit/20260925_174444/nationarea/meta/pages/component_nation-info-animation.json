@@ -1,0 +1,109 @@
+{
+    "name": "component:nation-info-animation",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 10,
+            "global_revision": 1530224698,
+            "author": 8343886,
+            "stamp": 1748048562,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"nation-info-animation\" 至 \"component:nation-info-animation\"."
+        },
+        {
+            "revision": 9,
+            "global_revision": 1530224689,
+            "author": 8343886,
+            "stamp": 1748048507,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"component:nation-info-animation\" 至 \"nation-info-animation\"."
+        },
+        {
+            "revision": 8,
+            "global_revision": 1530224685,
+            "author": 8343886,
+            "stamp": 1748048487,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"nation-info-animation\" 至 \"component:nation-info-animation\"."
+        },
+        {
+            "revision": 7,
+            "global_revision": 1530224683,
+            "author": 8343886,
+            "stamp": 1748048476,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1528259040,
+            "author": 8343886,
+            "stamp": 1741364892,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1518362913,
+            "author": 8343886,
+            "stamp": 1708393119,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"component:nation-info-animation\" 至 \"nation-info-animation\"."
+        },
+        {
+            "revision": 4,
+            "global_revision": 1518362780,
+            "author": 8343886,
+            "stamp": 1708392514,
+            "flags": "A",
+            "commentary": "移除标签：原创。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1518362777,
+            "author": 8343886,
+            "stamp": 1708392502,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1517043070,
+            "author": 8108397,
+            "stamp": 1703839647,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1516934379,
+            "author": 8108397,
+            "stamp": 1703248136,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 组件。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1516934376,
+            "author": 8108397,
+            "stamp": 1703248123,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1451950770,
+    "forum_thread": 16538760,
+    "tags": [
+        "组件"
+    ],
+    "title": "国家信息模块 动画附加",
+    "sitemap_update": 1748048562000,
+    "votings": [
+        [
+            8118764,
+            true
+        ]
+    ],
+    "is_locked": false
+}

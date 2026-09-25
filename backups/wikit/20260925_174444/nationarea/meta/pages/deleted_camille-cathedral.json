@@ -1,0 +1,142 @@
+{
+    "name": "deleted:camille-cathedral",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 10,
+            "global_revision": 1545884489,
+            "author": 8325214,
+            "stamp": 1786440076,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"camille-cathedral\" 至 \"deleted:camille-cathedral\"."
+        },
+        {
+            "revision": 9,
+            "global_revision": 1541089466,
+            "author": 8343886,
+            "stamp": 1766801532,
+            "flags": "A",
+            "commentary": "已新增标签：结构。 移除标签：建筑结构。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1530833149,
+            "author": 8343886,
+            "stamp": 1751713381,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1530832464,
+            "author": 8343886,
+            "stamp": 1751710215,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1530832376,
+            "author": 8343886,
+            "stamp": 1751709666,
+            "flags": "A",
+            "commentary": "已新增标签：宗教性。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1530832373,
+            "author": 8343886,
+            "stamp": 1751709653,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530832365,
+            "author": 8343886,
+            "stamp": 1751709624,
+            "flags": "F",
+            "commentary": "已上传文件 “Structure”。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530832362,
+            "author": 8343886,
+            "stamp": 1751709593,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530021604,
+            "author": 8343886,
+            "stamp": 1746801563,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"building001\" 至 \"camille-cathedral\"."
+        },
+        {
+            "revision": 1,
+            "global_revision": 1529924810,
+            "author": 8325214,
+            "stamp": 1746424706,
+            "flags": "A",
+            "commentary": "已新增标签：建筑结构。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1529924807,
+            "author": 8325214,
+            "stamp": 1746424680,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11414789,
+            "name": "Structure",
+            "url": "http://nationarea.wikidot.com/local--files/deleted:camille-cathedral/Structure",
+            "size": "1.07 MB (1127187 Bytes)",
+            "size_bytes": 1127187,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 1024x1024, components 3",
+            "author": 8343886,
+            "stamp": 1751709624,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1459617979,
+    "tags": [
+        "宗教性",
+        "结构"
+    ],
+    "title": "卡米拉尔大教堂",
+    "sitemap_update": 1786440076000,
+    "votings": [
+        [
+            8356393,
+            true
+        ],
+        [
+            9102405,
+            true
+        ],
+        [
+            8325214,
+            true
+        ],
+        [
+            8343886,
+            true
+        ],
+        [
+            8118764,
+            true
+        ],
+        [
+            9321893,
+            true
+        ]
+    ],
+    "is_locked": false
+}

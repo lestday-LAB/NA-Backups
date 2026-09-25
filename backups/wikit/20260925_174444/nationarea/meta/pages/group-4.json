@@ -1,0 +1,202 @@
+{
+    "name": "group-4",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 19,
+            "global_revision": 1541721263,
+            "author": 8736966,
+            "stamp": 1769948220,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1541229413,
+            "author": 8343886,
+            "stamp": 1767358513,
+            "flags": "S",
+            "commentary": "有关重新命名页面：“ngo-5” 改为 “international-communism-alliance” 的自动更新。"
+        },
+        {
+            "revision": 17,
+            "global_revision": 1540601376,
+            "author": 8736966,
+            "stamp": 1765627719,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1540116518,
+            "author": 8343886,
+            "stamp": 1764639776,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"ngo-4\" 至 \"group-4\"."
+        },
+        {
+            "revision": 15,
+            "global_revision": 1540116513,
+            "author": 8343886,
+            "stamp": 1764639750,
+            "flags": "A",
+            "commentary": "已新增标签：组织。 移除标签：非政府组织。"
+        },
+        {
+            "revision": 14,
+            "global_revision": 1540116509,
+            "author": 8343886,
+            "stamp": 1764639740,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1531160658,
+            "author": 8736966,
+            "stamp": 1753349978,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1531160583,
+            "author": 8736966,
+            "stamp": 1753349777,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1527698049,
+            "author": 8356393,
+            "stamp": 1739154852,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1527693212,
+            "author": 8356393,
+            "stamp": 1739127340,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1527176055,
+            "author": 8736966,
+            "stamp": 1736423227,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1527088105,
+            "author": 8736966,
+            "stamp": 1735998894,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1527088103,
+            "author": 8736966,
+            "stamp": 1735998863,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1527088074,
+            "author": 8736966,
+            "stamp": 1735998680,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1527088066,
+            "author": 8736966,
+            "stamp": 1735998655,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1527088059,
+            "author": 8736966,
+            "stamp": 1735998626,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1527088055,
+            "author": 8736966,
+            "stamp": 1735998564,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1527087669,
+            "author": 8736966,
+            "stamp": 1735996718,
+            "flags": "A",
+            "commentary": "已新增标签：非政府组织。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1527087667,
+            "author": 8736966,
+            "stamp": 1735996699,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1527087650,
+            "author": 8736966,
+            "stamp": 1735996564,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458177818,
+    "rating": 6,
+    "forum_thread": 17015608,
+    "tags": [
+        "组织"
+    ],
+    "title": "亨利-克莱尔金属/亨克军工",
+    "sitemap_update": 1769948220000,
+    "votings": [
+        [
+            8256969,
+            true
+        ],
+        [
+            8356393,
+            true
+        ],
+        [
+            8343886,
+            true
+        ],
+        [
+            8118764,
+            true
+        ],
+        [
+            8553227,
+            true
+        ],
+        [
+            8386863,
+            true
+        ]
+    ],
+    "is_locked": false
+}

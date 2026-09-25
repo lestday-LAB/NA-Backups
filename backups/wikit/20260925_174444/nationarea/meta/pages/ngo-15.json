@@ -1,0 +1,98 @@
+{
+    "name": "ngo-15",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1541787018,
+            "author": 9610670,
+            "stamp": 1770255779,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1540116551,
+            "author": 8343886,
+            "stamp": 1764640037,
+            "flags": "A",
+            "commentary": "已新增标签：2025袖珍国家活动。 移除标签：2025年袖珍国家活动。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1540116548,
+            "author": 8343886,
+            "stamp": 1764640029,
+            "flags": "A",
+            "commentary": "已新增标签：2025年袖珍国家活动。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1540116546,
+            "author": 8343886,
+            "stamp": 1764640012,
+            "flags": "A",
+            "commentary": "已新增标签：组织。 移除标签：2025袖珍国家活动, 非政府组织。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530172686,
+            "author": 9610670,
+            "stamp": 1747652995,
+            "flags": "A",
+            "commentary": "已新增标签：2025袖珍国家活动。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530172683,
+            "author": 9610670,
+            "stamp": 1747652968,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1529926138,
+            "author": 9610670,
+            "stamp": 1746431007,
+            "flags": "A",
+            "commentary": "已新增标签：非政府组织。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1529926129,
+            "author": 9610670,
+            "stamp": 1746430959,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1529926124,
+            "author": 9610670,
+            "stamp": 1746430939,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459618393,
+    "forum_thread": 17121014,
+    "tags": [
+        "2025袖珍国家活动",
+        "组织"
+    ],
+    "title": "自然之子",
+    "sitemap_update": 1770255779000,
+    "votings": [
+        [
+            8356393,
+            true
+        ],
+        [
+            8724677,
+            true
+        ]
+    ],
+    "is_locked": false
+}

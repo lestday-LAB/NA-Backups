@@ -1,0 +1,131 @@
+{
+    "name": "deleted:after-dead",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 9,
+            "global_revision": 1545884473,
+            "author": 8325214,
+            "stamp": 1786440016,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"after-dead\" 至 \"deleted:after-dead\"."
+        },
+        {
+            "revision": 8,
+            "global_revision": 1539187493,
+            "author": 7344601,
+            "stamp": 1762696882,
+            "flags": "A",
+            "commentary": "已新增标签：竞赛优胜作品。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1528925718,
+            "author": 8325214,
+            "stamp": 1743248472,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1528925704,
+            "author": 8325214,
+            "stamp": 1743248417,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1528901332,
+            "author": 8325214,
+            "stamp": 1743116442,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1528895277,
+            "author": 8325214,
+            "stamp": 1743080877,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1528895272,
+            "author": 8325214,
+            "stamp": 1743080849,
+            "flags": "A",
+            "commentary": "已新增标签：故事。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1528895241,
+            "author": 8325214,
+            "stamp": 1743080623,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1528895233,
+            "author": 8325214,
+            "stamp": 1743080576,
+            "flags": "A",
+            "commentary": "已新增标签：2025浮生众相活动, 幽默, 悲喜交加, 死末摇篮, 讽刺。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1528895180,
+            "author": 8325214,
+            "stamp": 1743080319,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459022971,
+    "rating": 7,
+    "tags": [
+        "2025浮生众相活动",
+        "幽默",
+        "悲喜交加",
+        "故事",
+        "死末摇篮",
+        "竞赛优胜作品",
+        "讽刺"
+    ],
+    "title": "死末后记事_潮后元年事记",
+    "sitemap_update": 1786440016000,
+    "votings": [
+        [
+            8356393,
+            true
+        ],
+        [
+            8108397,
+            true
+        ],
+        [
+            6251737,
+            true
+        ],
+        [
+            8325214,
+            true
+        ],
+        [
+            8118764,
+            true
+        ],
+        [
+            8373329,
+            true
+        ],
+        [
+            9321893,
+            true
+        ]
+    ],
+    "is_locked": false
+}

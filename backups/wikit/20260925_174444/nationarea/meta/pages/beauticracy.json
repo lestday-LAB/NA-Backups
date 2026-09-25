@@ -1,0 +1,121 @@
+{
+    "name": "beauticracy",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 10,
+            "global_revision": 1545785944,
+            "author": 8343886,
+            "stamp": 1786162003,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1543568605,
+            "author": 8343886,
+            "stamp": 1777188786,
+            "flags": "S",
+            "commentary": "有关重新命名页面：“04-nipkow” 改为 “vignette:04-nipkow” 的自动更新。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1543530847,
+            "author": 8343886,
+            "stamp": 1777026733,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1543438179,
+            "author": 8343886,
+            "stamp": 1776589756,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1543437003,
+            "author": 8343886,
+            "stamp": 1776586127,
+            "flags": "A",
+            "commentary": "已新增标签：中心页。 移除标签：总览。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1543414150,
+            "author": 8343886,
+            "stamp": 1776517272,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1543414049,
+            "author": 8343886,
+            "stamp": 1776517043,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1543413961,
+            "author": 8343886,
+            "stamp": 1776516828,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543413953,
+            "author": 8343886,
+            "stamp": 1776516797,
+            "flags": "A",
+            "commentary": "已新增标签：总览, 故事系列。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543413886,
+            "author": 8343886,
+            "stamp": 1776516664,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543413854,
+            "author": 8343886,
+            "stamp": 1776516577,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468515767,
+    "tags": [
+        "中心页",
+        "故事系列"
+    ],
+    "title": "美政 中心页",
+    "sitemap_update": 1786162003000,
+    "votings": [
+        [
+            7679098,
+            true
+        ],
+        [
+            8736966,
+            true
+        ],
+        [
+            8343886,
+            true
+        ],
+        [
+            9287872,
+            true
+        ]
+    ],
+    "is_locked": false
+}

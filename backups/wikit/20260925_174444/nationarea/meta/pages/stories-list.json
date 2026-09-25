@@ -1,0 +1,177 @@
+{
+    "name": "stories-list",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 17,
+            "global_revision": 1542967704,
+            "author": 8343886,
+            "stamp": 1774689551,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1542967685,
+            "author": 8343886,
+            "stamp": 1774689464,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1540912210,
+            "author": 8343886,
+            "stamp": 1766481588,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1540116556,
+            "author": 8343886,
+            "stamp": 1764640079,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1537131347,
+            "author": 8343886,
+            "stamp": 1761971088,
+            "flags": "A",
+            "commentary": "已新增标签：总览。 移除标签：系统。"
+        },
+        {
+            "revision": 12,
+            "global_revision": 1531464328,
+            "author": 8553227,
+            "stamp": 1754753444,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1531464323,
+            "author": 8553227,
+            "stamp": 1754753409,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1531464302,
+            "author": 8553227,
+            "stamp": 1754753299,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1530950670,
+            "author": 8343886,
+            "stamp": 1752297684,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1527646180,
+            "author": 8343886,
+            "stamp": 1738976956,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1527198154,
+            "author": 8343886,
+            "stamp": 1736565530,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1515757490,
+            "author": 8343886,
+            "stamp": 1699056566,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1515757432,
+            "author": 8343886,
+            "stamp": 1699056549,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1514382971,
+            "author": 8343886,
+            "stamp": 1696153609,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1512883366,
+            "author": 8343886,
+            "stamp": 1691656764,
+            "flags": "A",
+            "commentary": "已新增标签：系统。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1512883355,
+            "author": 8343886,
+            "stamp": 1691656702,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1512883294,
+            "author": 8343886,
+            "stamp": 1691656396,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1512883293,
+            "author": 8343886,
+            "stamp": 1691656387,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1449330999,
+    "forum_thread": 17044871,
+    "tags": [
+        "总览"
+    ],
+    "title": "故事档案馆",
+    "sitemap_update": 1774689551000,
+    "votings": [
+        [
+            8854856,
+            true
+        ],
+        [
+            6251737,
+            false
+        ],
+        [
+            9561685,
+            true
+        ],
+        [
+            8343886,
+            true
+        ]
+    ],
+    "is_locked": true
+}

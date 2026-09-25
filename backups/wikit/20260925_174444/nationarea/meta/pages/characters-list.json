@@ -1,0 +1,167 @@
+{
+    "name": "characters-list",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 18,
+            "global_revision": 1542966946,
+            "author": 8343886,
+            "stamp": 1774687596,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"great-people-list\" 至 \"characters-list\"."
+        },
+        {
+            "revision": 17,
+            "global_revision": 1541321933,
+            "author": 8343886,
+            "stamp": 1767924246,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1537131499,
+            "author": 8343886,
+            "stamp": 1761971741,
+            "flags": "A",
+            "commentary": "已新增标签：总览。 移除标签：系统。"
+        },
+        {
+            "revision": 15,
+            "global_revision": 1530934487,
+            "author": 8553227,
+            "stamp": 1752210508,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1530934414,
+            "author": 8553227,
+            "stamp": 1752210111,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1530934398,
+            "author": 8553227,
+            "stamp": 1752210025,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1530934308,
+            "author": 8553227,
+            "stamp": 1752209407,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1530934269,
+            "author": 8553227,
+            "stamp": 1752209207,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1527198167,
+            "author": 8343886,
+            "stamp": 1736565617,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1518764884,
+            "author": 8343886,
+            "stamp": 1709444017,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1515197277,
+            "author": 8343886,
+            "stamp": 1697848543,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1515186408,
+            "author": 8543531,
+            "stamp": 1697811066,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1515186404,
+            "author": 8543531,
+            "stamp": 1697811054,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1514383199,
+            "author": 8343886,
+            "stamp": 1696154324,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1514383190,
+            "author": 8343886,
+            "stamp": 1696154302,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1514383022,
+            "author": 8343886,
+            "stamp": 1696153780,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1513727979,
+            "author": 8343886,
+            "stamp": 1693921922,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1513059643,
+            "author": 8343886,
+            "stamp": 1692253835,
+            "flags": "A",
+            "commentary": "已新增标签：系统。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1513059642,
+            "author": 8343886,
+            "stamp": 1692253828,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1449419220,
+    "tags": [
+        "总览"
+    ],
+    "title": "相关人物档案馆",
+    "sitemap_update": 1774687596000,
+    "votings": [],
+    "is_locked": true
+}

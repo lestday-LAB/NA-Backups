@@ -1,0 +1,21 @@
+{
+    "title": "新人报到",
+    "id": 18077749,
+    "description": "新人报到",
+    "started": 1783219458,
+    "startedUser": 10234743,
+    "postsNum": 1,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 8377941,
+            "title": "新人报到",
+            "poster": 10234743,
+            "stamp": 1783219458,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

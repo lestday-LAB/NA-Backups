@@ -1,0 +1,75 @@
+{
+    "title": "违反社区交流方针的警告",
+    "id": 17706625,
+    "description": "用于记录成员因违反社区交流方针而被下达的警告。",
+    "last": 1775913366,
+    "lastUser": 8343886,
+    "started": 1775912092,
+    "startedUser": 8343886,
+    "postsNum": 3,
+    "sticky": true,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7769796,
+            "title": "违反社区交流方针的警告",
+            "poster": 8343886,
+            "stamp": 1775912092,
+            "lastEdit": 1775913260,
+            "lastEditBy": 8343886,
+            "revisions": [
+                {
+                    "title": "违反社区交流方针的警告",
+                    "author": 8343886,
+                    "id": 9335726,
+                    "stamp": 1775913260
+                },
+                {
+                    "title": "违反社区交流方针的警告",
+                    "author": 8343886,
+                    "id": 9335553,
+                    "stamp": 1775912422
+                },
+                {
+                    "title": "违反社区交流方针的警告",
+                    "author": 8343886,
+                    "id": 9335479,
+                    "stamp": 1775912092
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": 7770022,
+            "title": "Re: 违反社区交流方针的警告",
+            "poster": 8343886,
+            "stamp": 1775913224,
+            "lastEdit": 1775913381,
+            "lastEditBy": 8343886,
+            "revisions": [
+                {
+                    "title": "Re: 违反社区交流方针的警告",
+                    "author": 8343886,
+                    "id": 9335751,
+                    "stamp": 1775913381
+                },
+                {
+                    "title": "Re: 违反社区交流方针的警告",
+                    "author": 8343886,
+                    "id": 9335721,
+                    "stamp": 1775913224
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": 7770047,
+            "title": "Re: 违反社区交流方针的警告",
+            "poster": 8343886,
+            "stamp": 1775913366,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

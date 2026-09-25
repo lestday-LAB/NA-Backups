@@ -1,0 +1,188 @@
+{
+    "name": "nation-87",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 18,
+            "global_revision": 1541206323,
+            "author": 8343886,
+            "stamp": 1767239218,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1540768254,
+            "author": 7679098,
+            "stamp": 1766208038,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1539340226,
+            "author": 8343886,
+            "stamp": 1762953463,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1528613572,
+            "author": 7679098,
+            "stamp": 1742731529,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1528031815,
+            "author": 8343886,
+            "stamp": 1740186533,
+            "flags": "A",
+            "commentary": "已新增标签：西半球。"
+        },
+        {
+            "revision": 13,
+            "global_revision": 1527427155,
+            "author": 7679098,
+            "stamp": 1737813013,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1527427016,
+            "author": 7679098,
+            "stamp": 1737812305,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1527426889,
+            "author": 7679098,
+            "stamp": 1737811921,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1527426858,
+            "author": 7679098,
+            "stamp": 1737811812,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1527426841,
+            "author": 7679098,
+            "stamp": 1737811736,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1527426723,
+            "author": 7679098,
+            "stamp": 1737811243,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1527421022,
+            "author": 7679098,
+            "stamp": 1737784118,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1527420595,
+            "author": 7679098,
+            "stamp": 1737781493,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1527420558,
+            "author": 7679098,
+            "stamp": 1737781209,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1527420554,
+            "author": 7679098,
+            "stamp": 1737781181,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1527420459,
+            "author": 7679098,
+            "stamp": 1737780541,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1527420360,
+            "author": 7679098,
+            "stamp": 1737780196,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1527420344,
+            "author": 7679098,
+            "stamp": 1737780029,
+            "flags": "A",
+            "commentary": "已新增标签：国家, 奇异居民。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1527420329,
+            "author": 7679098,
+            "stamp": 1737779993,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458310283,
+    "rating": 4,
+    "forum_thread": 17025334,
+    "tags": [
+        "国家",
+        "奇异居民",
+        "西半球"
+    ],
+    "title": "多瑞欧",
+    "sitemap_update": 1767239218000,
+    "votings": [
+        [
+            8356393,
+            true
+        ],
+        [
+            8590217,
+            true
+        ],
+        [
+            8724677,
+            true
+        ],
+        [
+            8325214,
+            true
+        ]
+    ],
+    "is_locked": false
+}

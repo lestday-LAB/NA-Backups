@@ -1,0 +1,79 @@
+{
+    "name": "component:better-nation-info-light",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1539337495,
+            "author": 8343886,
+            "stamp": 1762946918,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1537131400,
+            "author": 8343886,
+            "stamp": 1761971289,
+            "flags": "A",
+            "commentary": "移除标签：系统。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1530305450,
+            "author": 8343886,
+            "stamp": 1748650327,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530305441,
+            "author": 8343886,
+            "stamp": 1748650206,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530305430,
+            "author": 8343886,
+            "stamp": 1748650145,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1528258823,
+            "author": 8343886,
+            "stamp": 1741364322,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1528258323,
+            "author": 8343886,
+            "stamp": 1741361806,
+            "flags": "A",
+            "commentary": "已新增标签：系统, 组件后端。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1528258322,
+            "author": 8343886,
+            "stamp": 1741361796,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458667565,
+    "tags": [
+        "组件后端"
+    ],
+    "title": "更好的浅色国家信息模块 - 后端",
+    "sitemap_update": 1762946918000,
+    "votings": [],
+    "is_locked": false
+}

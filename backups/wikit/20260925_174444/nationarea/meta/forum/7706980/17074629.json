@@ -1,0 +1,38 @@
+{
+    "title": "版式：蓝调",
+    "id": 17074629,
+    "description": "",
+    "last": 1742641136,
+    "lastUser": 8373329,
+    "started": 1742641056,
+    "startedUser": null,
+    "postsNum": 1,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 6888955,
+            "title": "已阅",
+            "poster": 8373329,
+            "stamp": 1742641136,
+            "lastEdit": 1742694648,
+            "lastEditBy": 8373329,
+            "revisions": [
+                {
+                    "title": "已阅",
+                    "author": 8373329,
+                    "id": 8344635,
+                    "stamp": 1742694648
+                },
+                {
+                    "title": "已阅",
+                    "author": 8373329,
+                    "id": 8344093,
+                    "stamp": 1742641136
+                }
+            ],
+            "children": []
+        }
+    ]
+}

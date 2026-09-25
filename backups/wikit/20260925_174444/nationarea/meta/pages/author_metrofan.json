@@ -1,0 +1,105 @@
+{
+    "name": "author:metrofan",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 9,
+            "global_revision": 1530656276,
+            "author": 8343886,
+            "stamp": 1750850576,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"metrofan\" 至 \"author:metrofan\"."
+        },
+        {
+            "revision": 8,
+            "global_revision": 1527197872,
+            "author": 8343886,
+            "stamp": 1736564211,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"author:metrofan\" 至 \"metrofan\"."
+        },
+        {
+            "revision": 7,
+            "global_revision": 1518213075,
+            "author": 6251737,
+            "stamp": 1707795517,
+            "flags": "A",
+            "commentary": "已新增标签：作者。 移除标签：作者页。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1517100321,
+            "author": 7900298,
+            "stamp": 1704120968,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1517100289,
+            "author": 7900298,
+            "stamp": 1704120803,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1516530114,
+            "author": 7900298,
+            "stamp": 1701872056,
+            "flags": "A",
+            "commentary": "已新增标签：作者页。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1516530106,
+            "author": 7900298,
+            "stamp": 1701872034,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1516529870,
+            "author": 7900298,
+            "stamp": 1701871326,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1516529238,
+            "author": 7900298,
+            "stamp": 1701869611,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1516529233,
+            "author": 7900298,
+            "stamp": 1701869586,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1451706846,
+    "rating": 2,
+    "tags": [
+        "作者"
+    ],
+    "title": "铁迷的作者页",
+    "sitemap_update": 1750850576000,
+    "votings": [
+        [
+            9808207,
+            true
+        ],
+        [
+            8118764,
+            true
+        ]
+    ],
+    "is_locked": false
+}

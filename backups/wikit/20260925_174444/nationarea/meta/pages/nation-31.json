@@ -1,0 +1,198 @@
+{
+    "name": "nation-31",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 16,
+            "global_revision": 1544752495,
+            "author": 9287872,
+            "stamp": 1781951014,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1541205917,
+            "author": 8343886,
+            "stamp": 1767236789,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1540172215,
+            "author": 8343886,
+            "stamp": 1764743519,
+            "flags": "A",
+            "commentary": "移除标签：边缘文档。"
+        },
+        {
+            "revision": 13,
+            "global_revision": 1539338276,
+            "author": 8343886,
+            "stamp": 1762948540,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1527617769,
+            "author": 8356393,
+            "stamp": 1738841474,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1527598162,
+            "author": 8256969,
+            "stamp": 1738732183,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1527598153,
+            "author": 8256969,
+            "stamp": 1738732113,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1525922048,
+            "author": 8343886,
+            "stamp": 1732268544,
+            "flags": "A",
+            "commentary": "已新增标签：东半球。 移除标签：沿海, 重写中。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1523071444,
+            "author": 6251737,
+            "stamp": 1721188705,
+            "flags": "A",
+            "commentary": "已新增标签：边缘文档。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1523050768,
+            "author": 8256969,
+            "stamp": 1721056433,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1522954968,
+            "author": 6251737,
+            "stamp": 1720533919,
+            "flags": "A",
+            "commentary": "已新增标签：重写中。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1519056252,
+            "author": 8256969,
+            "stamp": 1710660644,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1519056246,
+            "author": 8256969,
+            "stamp": 1710660609,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1519044761,
+            "author": 8256969,
+            "stamp": 1710600416,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1518754461,
+            "author": 8343886,
+            "stamp": 1709390051,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"checking:11451444\" 至 \"nation-31\"."
+        },
+        {
+            "revision": 1,
+            "global_revision": 1518752363,
+            "author": 8256969,
+            "stamp": 1709381582,
+            "flags": "A",
+            "commentary": "已新增标签：国家, 沿海。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1518752291,
+            "author": 8256969,
+            "stamp": 1709381548,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1452917016,
+    "forum_thread": 16742717,
+    "tags": [
+        "东半球",
+        "国家"
+    ],
+    "title": "布丝达奇",
+    "sitemap_update": 1781951014000,
+    "votings": [
+        [
+            8256969,
+            true
+        ],
+        [
+            8316541,
+            false
+        ],
+        [
+            8464470,
+            true
+        ],
+        [
+            8103900,
+            true
+        ],
+        [
+            8710540,
+            true
+        ],
+        [
+            8724677,
+            true
+        ],
+        [
+            8426633,
+            false
+        ],
+        [
+            6251737,
+            false
+        ],
+        [
+            8343886,
+            false
+        ],
+        [
+            8118764,
+            true
+        ],
+        [
+            9321893,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,78 @@
+{
+    "name": "staro-polka",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1521012451,
+            "author": 7679098,
+            "stamp": 1718845031,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1520035003,
+            "author": 7679098,
+            "stamp": 1714951241,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1520024440,
+            "author": 7679098,
+            "stamp": 1714910650,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1520024432,
+            "author": 7679098,
+            "stamp": 1714910625,
+            "flags": "A",
+            "commentary": "已新增标签：相关人物。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1520024408,
+            "author": 7679098,
+            "stamp": 1714910515,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1453543173,
+    "rating": 5,
+    "forum_thread": 16805482,
+    "tags": [
+        "相关人物"
+    ],
+    "title": "斯坦罗·珀尔卡",
+    "sitemap_update": 1718845031000,
+    "votings": [
+        [
+            8462980,
+            true
+        ],
+        [
+            8464470,
+            true
+        ],
+        [
+            8543531,
+            true
+        ],
+        [
+            8118764,
+            true
+        ],
+        [
+            8553227,
+            true
+        ]
+    ],
+    "is_locked": false
+}

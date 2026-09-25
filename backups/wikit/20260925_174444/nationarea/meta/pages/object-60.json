@@ -1,0 +1,62 @@
+{
+    "name": "object-60",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1518187273,
+            "author": 6251737,
+            "stamp": 1707697473,
+            "flags": "A",
+            "commentary": "已新增标签：物品。 移除标签：故事。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1518187232,
+            "author": 6251737,
+            "stamp": 1707697450,
+            "flags": "A",
+            "commentary": "已新增标签：故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1516853352,
+            "author": 8741380,
+            "stamp": 1703003084,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1451896137,
+    "rating": 5,
+    "forum_thread": 16535815,
+    "tags": [
+        "物品"
+    ],
+    "title": "【绝密】X-02方案_子卷宗",
+    "sitemap_update": 1707697473000,
+    "votings": [
+        [
+            8248071,
+            true
+        ],
+        [
+            8343886,
+            true
+        ],
+        [
+            8118764,
+            true
+        ],
+        [
+            8386863,
+            true
+        ],
+        [
+            8666147,
+            true
+        ]
+    ],
+    "is_locked": false
+}

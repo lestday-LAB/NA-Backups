@@ -1,0 +1,74 @@
+{
+    "name": "luminescence",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1528571320,
+            "author": 6251737,
+            "stamp": 1742629692,
+            "flags": "A",
+            "commentary": "已新增标签：艺术作品。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1528571280,
+            "author": 6251737,
+            "stamp": 1742629542,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1528571238,
+            "author": 6251737,
+            "stamp": 1742629324,
+            "flags": "F",
+            "commentary": "已上传文件 “Sc2.png”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1528563714,
+            "author": 9564312,
+            "stamp": 1742604384,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11349881,
+            "name": "Sc2.png",
+            "url": "http://nationarea.wikidot.com/local--files/luminescence/Sc2.png",
+            "size": "2.95 MB (3088976 Bytes)",
+            "size_bytes": 3088976,
+            "mime": "image/png",
+            "content": "PNG image data, 2480 x 1677, 8-bit/color RGBA, non-interlaced",
+            "author": 6251737,
+            "stamp": 1742629324,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1458751519,
+    "forum_thread": 17074633,
+    "tags": [
+        "艺术作品"
+    ],
+    "title": "luminescence(伪)",
+    "sitemap_update": 1742629692000,
+    "votings": [
+        [
+            8356393,
+            true
+        ],
+        [
+            6251737,
+            true
+        ],
+        [
+            8118764,
+            true
+        ]
+    ],
+    "is_locked": false
+}
