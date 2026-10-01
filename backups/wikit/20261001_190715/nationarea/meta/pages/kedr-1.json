@@ -1,0 +1,73 @@
+{
+    "name": "kedr-1",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1547214613,
+            "author": 9610670,
+            "stamp": 1790847769,
+            "flags": "F",
+            "commentary": "已上传文件 “素材.png”。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1547214295,
+            "author": 9610670,
+            "stamp": 1790846346,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1547214288,
+            "author": 9610670,
+            "stamp": 1790846311,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1547214204,
+            "author": 9610670,
+            "stamp": 1790846245,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1547214193,
+            "author": 9610670,
+            "stamp": 1790846174,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1547214122,
+            "author": 9610670,
+            "stamp": 1790845818,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11915879,
+            "name": "素材.png",
+            "url": "https://nationarea.wikidot.com/local--files/kedr-1/%E7%B4%A0%E6%9D%90.png",
+            "size": "412.27 kB (422166 Bytes)",
+            "size_bytes": 422166,
+            "mime": "image/png",
+            "content": "PNG image data, 941 x 941, 8-bit/color RGBA, non-interlaced",
+            "author": 9610670,
+            "stamp": 1790847769,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1469430164,
+    "title": "极北灰民族联合体",
+    "sitemap_update": 1790847769000,
+    "votings": [],
+    "is_locked": false
+}
