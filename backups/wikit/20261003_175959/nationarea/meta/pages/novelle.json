@@ -1,0 +1,57 @@
+{
+    "name": "novelle",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1542174267,
+            "author": 8426633,
+            "stamp": 1771592849,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542174257,
+            "author": 8426633,
+            "stamp": 1771592785,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542174254,
+            "author": 8426633,
+            "stamp": 1771592747,
+            "flags": "A",
+            "commentary": "已新增标签：2026新春活动, 相关人物。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542174250,
+            "author": 8426633,
+            "stamp": 1771592720,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468152738,
+    "tags": [
+        "2026新春活动",
+        "相关人物"
+    ],
+    "title": "诺薇尔",
+    "sitemap_update": 1771592849000,
+    "votings": [
+        [
+            8426633,
+            true
+        ],
+        [
+            8343886,
+            true
+        ]
+    ],
+    "is_locked": false
+}

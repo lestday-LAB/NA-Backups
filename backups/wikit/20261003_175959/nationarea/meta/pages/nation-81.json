@@ -1,0 +1,144 @@
+{
+    "name": "nation-81",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 13,
+            "global_revision": 1545531991,
+            "author": 8343886,
+            "stamp": 1785295424,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1541206283,
+            "author": 8343886,
+            "stamp": 1767239056,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1541206281,
+            "author": 8343886,
+            "stamp": 1767239035,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1540171991,
+            "author": 8343886,
+            "stamp": 1764743034,
+            "flags": "A",
+            "commentary": "已新增标签：西半球。 移除标签：东半球, 次要文档。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1539340205,
+            "author": 8343886,
+            "stamp": 1762953412,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1527628182,
+            "author": 8343886,
+            "stamp": 1738892817,
+            "flags": "S",
+            "commentary": "有关重新命名页面：“world-assembly” 改为 “world-alliance” 的自动更新。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1527618054,
+            "author": 8356393,
+            "stamp": 1738842924,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1527604822,
+            "author": 6251737,
+            "stamp": 1738767150,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1525922270,
+            "author": 8343886,
+            "stamp": 1732269591,
+            "flags": "A",
+            "commentary": "已新增标签：东半球。 移除标签：压迫性, 沿海, 自由资本主义。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1523251098,
+            "author": 8724677,
+            "stamp": 1722091846,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1523071659,
+            "author": 6251737,
+            "stamp": 1721189574,
+            "flags": "A",
+            "commentary": "已新增标签：次要文档。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1519990758,
+            "author": 8724677,
+            "stamp": 1714702465,
+            "flags": "A",
+            "commentary": "已新增标签：压迫性, 国家, 奇异居民, 沿海, 消极, 自由资本主义。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1519990630,
+            "author": 8724677,
+            "stamp": 1714701636,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1519990619,
+            "author": 8724677,
+            "stamp": 1714701557,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1453532114,
+    "rating": 3,
+    "tags": [
+        "国家",
+        "奇异居民",
+        "消极",
+        "西半球"
+    ],
+    "title": "伊尔吉玛",
+    "sitemap_update": 1785295424000,
+    "votings": [
+        [
+            8248071,
+            true
+        ],
+        [
+            8741380,
+            true
+        ],
+        [
+            9808207,
+            true
+        ]
+    ],
+    "is_locked": false
+}

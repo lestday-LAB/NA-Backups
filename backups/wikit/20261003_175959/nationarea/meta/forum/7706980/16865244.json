@@ -1,0 +1,38 @@
+{
+    "title": "斯菲迪委员长",
+    "id": 16865244,
+    "description": "",
+    "last": 1718673629,
+    "lastUser": 7679098,
+    "started": 1718673476,
+    "startedUser": null,
+    "postsNum": 1,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 6543994,
+            "title": "如题",
+            "poster": 7679098,
+            "stamp": 1718673629,
+            "lastEdit": 1719188682,
+            "lastEditBy": 7679098,
+            "revisions": [
+                {
+                    "title": "如题",
+                    "author": 7679098,
+                    "id": 7947997,
+                    "stamp": 1719188682
+                },
+                {
+                    "title": "如题",
+                    "author": 7679098,
+                    "id": 7941097,
+                    "stamp": 1718673629
+                }
+            ],
+            "children": []
+        }
+    ]
+}

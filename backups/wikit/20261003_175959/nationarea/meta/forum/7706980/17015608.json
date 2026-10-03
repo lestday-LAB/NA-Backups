@@ -1,0 +1,32 @@
+{
+    "title": "亨利-克莱尔金属/亨克军工",
+    "id": 17015608,
+    "description": "",
+    "last": 1736422579,
+    "lastUser": 8736966,
+    "started": 1735999260,
+    "startedUser": null,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 6766902,
+            "title": "",
+            "poster": 8488493,
+            "stamp": 1735999285,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 6770031,
+                    "title": "",
+                    "poster": 8736966,
+                    "stamp": 1736422579,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

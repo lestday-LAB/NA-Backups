@@ -1,0 +1,103 @@
+{
+    "name": "special:events",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 10,
+            "global_revision": 1547251974,
+            "author": 8316541,
+            "stamp": 1791006441,
+            "flags": "A",
+            "commentary": "已新增标签：功能。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1547211428,
+            "author": 8343886,
+            "stamp": 1790836958,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1547211412,
+            "author": 8343886,
+            "stamp": 1790836884,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1547211411,
+            "author": 8343886,
+            "stamp": 1790836865,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1547211400,
+            "author": 8343886,
+            "stamp": 1790836817,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1547209039,
+            "author": 8343886,
+            "stamp": 1790827064,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1547208975,
+            "author": 8343886,
+            "stamp": 1790826730,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1547208898,
+            "author": 8343886,
+            "stamp": 1790826411,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1547208876,
+            "author": 8343886,
+            "stamp": 1790826249,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1547208738,
+            "author": 8343886,
+            "stamp": 1790825677,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1547208736,
+            "author": 8343886,
+            "stamp": 1790825666,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469429123,
+    "votings": [],
+    "tags": [
+        "功能"
+    ],
+    "title": "主页：活动",
+    "sitemap_update": 1791006441000,
+    "is_locked": false
+}

@@ -1,0 +1,71 @@
+{
+    "name": "john",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1543540572,
+            "author": 8343886,
+            "stamp": 1777058720,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1543540487,
+            "author": 8343886,
+            "stamp": 1777058452,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1543533607,
+            "author": 8343886,
+            "stamp": 1777037254,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543533555,
+            "author": 8343886,
+            "stamp": 1777037052,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543533514,
+            "author": 8343886,
+            "stamp": 1777036933,
+            "flags": "A",
+            "commentary": "已新增标签：幽默, 故事, 美政。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543533506,
+            "author": 8343886,
+            "stamp": 1777036918,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468565424,
+    "rating": 1,
+    "tags": [
+        "幽默",
+        "故事",
+        "美政"
+    ],
+    "title": "约翰镇诉约翰·史密斯案（A293）审判记录",
+    "sitemap_update": 1777058720000,
+    "votings": [
+        [
+            8343886,
+            true
+        ]
+    ],
+    "is_locked": false
+}

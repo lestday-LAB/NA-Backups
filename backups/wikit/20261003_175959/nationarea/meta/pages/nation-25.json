@@ -1,0 +1,343 @@
+{
+    "name": "nation-25",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 35,
+            "global_revision": 1541205809,
+            "author": 8343886,
+            "stamp": 1767236080,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 34,
+            "global_revision": 1540171716,
+            "author": 8343886,
+            "stamp": 1764742427,
+            "flags": "A",
+            "commentary": "移除标签：一般文档。"
+        },
+        {
+            "revision": 33,
+            "global_revision": 1539338136,
+            "author": 8343886,
+            "stamp": 1762948330,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 32,
+            "global_revision": 1527628165,
+            "author": 8343886,
+            "stamp": 1738892813,
+            "flags": "S",
+            "commentary": "有关重新命名页面：“world-assembly” 改为 “world-alliance” 的自动更新。"
+        },
+        {
+            "revision": 31,
+            "global_revision": 1527617713,
+            "author": 8356393,
+            "stamp": 1738840994,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 30,
+            "global_revision": 1527604514,
+            "author": 6251737,
+            "stamp": 1738765601,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 29,
+            "global_revision": 1525922023,
+            "author": 8343886,
+            "stamp": 1732268364,
+            "flags": "A",
+            "commentary": "已新增标签：东半球。 移除标签：压迫性, 岛屿, 极权资本主义, 落后。"
+        },
+        {
+            "revision": 28,
+            "global_revision": 1523117655,
+            "author": 8710540,
+            "stamp": 1721391908,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 27,
+            "global_revision": 1523117647,
+            "author": 8710540,
+            "stamp": 1721391887,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 26,
+            "global_revision": 1523117639,
+            "author": 8710540,
+            "stamp": 1721391872,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 25,
+            "global_revision": 1523071428,
+            "author": 6251737,
+            "stamp": 1721188610,
+            "flags": "A",
+            "commentary": "已新增标签：一般文档。 移除标签：过渡设定。"
+        },
+        {
+            "revision": 24,
+            "global_revision": 1518745947,
+            "author": 8710540,
+            "stamp": 1709353345,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 23,
+            "global_revision": 1518745938,
+            "author": 8710540,
+            "stamp": 1709353263,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 22,
+            "global_revision": 1518745780,
+            "author": 8710540,
+            "stamp": 1709352724,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 21,
+            "global_revision": 1518110153,
+            "author": 6251737,
+            "stamp": 1707370703,
+            "flags": "A",
+            "commentary": "已新增标签：极权资本主义, 过渡设定。 移除标签：独裁化。"
+        },
+        {
+            "revision": 20,
+            "global_revision": 1517501031,
+            "author": 8710540,
+            "stamp": 1705639530,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 19,
+            "global_revision": 1517501007,
+            "author": 8710540,
+            "stamp": 1705639381,
+            "flags": "S",
+            "commentary": "<a href=\"https://www.imagehub.cc/image/1Q2bvk\"><img src=\"https://s1.imagehub.cc/images/2024/01/19/befe4c2baa9edd683a75c36da10cbabb.png\" alt=\"befe4c2baa9edd683a75c36da10cbabb.png\" border=\"0\" /></a>"
+        },
+        {
+            "revision": 18,
+            "global_revision": 1517500929,
+            "author": 8710540,
+            "stamp": 1705639014,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1517500915,
+            "author": 8710540,
+            "stamp": 1705638972,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1517500904,
+            "author": 8710540,
+            "stamp": 1705638928,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1517500898,
+            "author": 8710540,
+            "stamp": 1705638912,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1516986883,
+            "author": 8343886,
+            "stamp": 1703478261,
+            "flags": "S",
+            "commentary": "有关重新命名页面：“the-world-assembly” 改为 “world-assembly” 的自动更新。"
+        },
+        {
+            "revision": 13,
+            "global_revision": 1516423891,
+            "author": 8710540,
+            "stamp": 1701497955,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1516419639,
+            "author": 8710540,
+            "stamp": 1701485121,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1516407450,
+            "author": 8710540,
+            "stamp": 1701445127,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1516361030,
+            "author": 8710540,
+            "stamp": 1701268894,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1516293771,
+            "author": 8710540,
+            "stamp": 1701096136,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1516293595,
+            "author": 8710540,
+            "stamp": 1701095692,
+            "flags": "A",
+            "commentary": "已新增标签：国家, 岛屿, 独裁化。 移除标签：农业国, 君主专制, 岛国。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1516293564,
+            "author": 8710540,
+            "stamp": 1701095593,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1516293547,
+            "author": 8710540,
+            "stamp": 1701095550,
+            "flags": "A",
+            "commentary": "已新增标签：压迫性。 移除标签：宗教。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1516270579,
+            "author": 8710540,
+            "stamp": 1701003228,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1516270572,
+            "author": 8710540,
+            "stamp": 1701003196,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1516269531,
+            "author": 8710540,
+            "stamp": 1700999711,
+            "flags": "A",
+            "commentary": "已新增标签：农业国, 君主专制, 宗教, 岛国, 落后。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1516269448,
+            "author": 8710540,
+            "stamp": 1700999479,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1516268134,
+            "author": 8710540,
+            "stamp": 1700994531,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1516268094,
+            "author": 8710540,
+            "stamp": 1700994366,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1451545952,
+    "rating": 7,
+    "forum_thread": 16475281,
+    "tags": [
+        "东半球",
+        "国家"
+    ],
+    "title": "云台",
+    "sitemap_update": 1767236080000,
+    "votings": [
+        [
+            8710540,
+            true
+        ],
+        [
+            8979477,
+            true
+        ],
+        [
+            8931843,
+            true
+        ],
+        [
+            7900298,
+            true
+        ],
+        [
+            6251737,
+            false
+        ],
+        [
+            8343886,
+            true
+        ],
+        [
+            8543531,
+            true
+        ],
+        [
+            8118764,
+            true
+        ],
+        [
+            8386863,
+            true
+        ]
+    ],
+    "is_locked": false
+}

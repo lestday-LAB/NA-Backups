@@ -1,0 +1,47 @@
+{
+    "name": "nations",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1547251966,
+            "author": 8316541,
+            "stamp": 1791006420,
+            "flags": "A",
+            "commentary": "已新增标签：总览。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1547210984,
+            "author": 8343886,
+            "stamp": 1790834672,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1547210976,
+            "author": 8343886,
+            "stamp": 1790834623,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1547210960,
+            "author": 8343886,
+            "stamp": 1790834516,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469429720,
+    "votings": [],
+    "tags": [
+        "总览"
+    ],
+    "title": "国家和地区",
+    "sitemap_update": 1791006420000,
+    "is_locked": false
+}

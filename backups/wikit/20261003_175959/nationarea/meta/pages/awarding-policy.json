@@ -1,0 +1,100 @@
+{
+    "name": "awarding-policy",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 9,
+            "global_revision": 1545348370,
+            "author": 9287872,
+            "stamp": 1784551258,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1543878043,
+            "author": 8343886,
+            "stamp": 1778662968,
+            "flags": "S",
+            "commentary": "修改关于评选的相关规定。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1543878038,
+            "author": 8343886,
+            "stamp": 1778662926,
+            "flags": "S",
+            "commentary": "取消了诺伊坦奖。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1543102045,
+            "author": 8343886,
+            "stamp": 1775273643,
+            "flags": "S",
+            "commentary": "添加分割线"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1541562362,
+            "author": 8343886,
+            "stamp": 1769236537,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1540302685,
+            "author": 8343886,
+            "stamp": 1765025429,
+            "flags": "A",
+            "commentary": "移除标签：待批准。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1540167394,
+            "author": 8343886,
+            "stamp": 1764733039,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1540167360,
+            "author": 8343886,
+            "stamp": 1764732956,
+            "flags": "A",
+            "commentary": "已新增标签：待批准。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540024273,
+            "author": 8343886,
+            "stamp": 1764391465,
+            "flags": "A",
+            "commentary": "已新增标签：公共政策。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540024265,
+            "author": 8343886,
+            "stamp": 1764391455,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467168844,
+    "tags": [
+        "公共政策"
+    ],
+    "title": "精选和奖项政策",
+    "sitemap_update": 1784551258000,
+    "votings": [
+        [
+            8118764,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,37 @@
+{
+    "name": "christmas-of-snowfield",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1540896521,
+            "author": 7931329,
+            "stamp": 1766415139,
+            "flags": "A",
+            "commentary": "已新增标签：2025圣诞颂活动, 诗歌。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540896469,
+            "author": 7931329,
+            "stamp": 1766415038,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467742875,
+    "tags": [
+        "2025圣诞颂活动",
+        "诗歌"
+    ],
+    "title": "圣夜与雪原",
+    "sitemap_update": 1766415139000,
+    "votings": [
+        [
+            8553227,
+            true
+        ]
+    ],
+    "is_locked": false
+}

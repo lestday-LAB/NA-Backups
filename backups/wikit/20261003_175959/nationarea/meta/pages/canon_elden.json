@@ -1,0 +1,116 @@
+{
+    "name": "canon:elden",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 10,
+            "global_revision": 1546210793,
+            "author": 8316541,
+            "stamp": 1787462713,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1546210789,
+            "author": 8316541,
+            "stamp": 1787462699,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1546119930,
+            "author": 8426633,
+            "stamp": 1787142579,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1546119921,
+            "author": 8426633,
+            "stamp": 1787142556,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1546118452,
+            "author": 8426633,
+            "stamp": 1787138149,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"elden\" 至 \"canon:elden\"."
+        },
+        {
+            "revision": 5,
+            "global_revision": 1546118295,
+            "author": 8426633,
+            "stamp": 1787137627,
+            "flags": "A",
+            "commentary": "已新增标签：设定中心。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1546118233,
+            "author": 8426633,
+            "stamp": 1787137341,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1546118228,
+            "author": 8426633,
+            "stamp": 1787137312,
+            "flags": "F",
+            "commentary": "已上传文件 “the map of new world”。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1546118201,
+            "author": 8426633,
+            "stamp": 1787137226,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1546118134,
+            "author": 8426633,
+            "stamp": 1787137017,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1546118011,
+            "author": 8426633,
+            "stamp": 1787136924,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11887588,
+            "name": "the map of new world",
+            "url": "http://nationarea.wikidot.com/local--files/canon:elden/the%20map%20of%20new%20world",
+            "size": "569.08 kB (582739 Bytes)",
+            "size_bytes": 582739,
+            "mime": "image/png",
+            "content": "PNG image data, 6000 x 3272, 8-bit/color RGBA, non-interlaced",
+            "author": 8426633,
+            "stamp": 1787137313,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1469194593,
+    "votings": [],
+    "tags": [
+        "设定中心"
+    ],
+    "title": "艾尔登 中心页",
+    "sitemap_update": 1787462713000,
+    "is_locked": false
+}

@@ -1,0 +1,31 @@
+{
+    "name": "administrative-principles",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1547208010,
+            "author": 8343886,
+            "stamp": 1790822470,
+            "flags": "A",
+            "commentary": "已新增标签：公共政策。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1547208008,
+            "author": 8343886,
+            "stamp": 1790822461,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469429058,
+    "tags": [
+        "公共政策"
+    ],
+    "title": "行政工作原则",
+    "sitemap_update": 1790822470000,
+    "votings": [],
+    "is_locked": false
+}

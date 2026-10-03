@@ -1,0 +1,444 @@
+{
+    "name": "old:resolutions",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 52,
+            "global_revision": 1541212463,
+            "author": 8343886,
+            "stamp": 1767271796,
+            "flags": "A",
+            "commentary": "已新增标签：归档页。 移除标签：世界联盟。"
+        },
+        {
+            "revision": 51,
+            "global_revision": 1541212459,
+            "author": 8343886,
+            "stamp": 1767271781,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"wa:resolutions\" 至 \"old:resolutions\"."
+        },
+        {
+            "revision": 50,
+            "global_revision": 1540180126,
+            "author": 8343886,
+            "stamp": 1764760353,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 49,
+            "global_revision": 1537131218,
+            "author": 8343886,
+            "stamp": 1761970511,
+            "flags": "A",
+            "commentary": "已新增标签：世界联盟。 移除标签：系统。"
+        },
+        {
+            "revision": 48,
+            "global_revision": 1529403936,
+            "author": 8343886,
+            "stamp": 1745024842,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 47,
+            "global_revision": 1529403181,
+            "author": 8343886,
+            "stamp": 1745021469,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 46,
+            "global_revision": 1529200962,
+            "author": 8343886,
+            "stamp": 1744428129,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 45,
+            "global_revision": 1529199121,
+            "author": 8343886,
+            "stamp": 1744419170,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 44,
+            "global_revision": 1528936778,
+            "author": 8343886,
+            "stamp": 1743307784,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 43,
+            "global_revision": 1528936641,
+            "author": 8343886,
+            "stamp": 1743307119,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 42,
+            "global_revision": 1528936578,
+            "author": 8343886,
+            "stamp": 1743306656,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 41,
+            "global_revision": 1528936484,
+            "author": 8343886,
+            "stamp": 1743306498,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 40,
+            "global_revision": 1528935455,
+            "author": 8343886,
+            "stamp": 1743301203,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 39,
+            "global_revision": 1528928528,
+            "author": 8343886,
+            "stamp": 1743260743,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 38,
+            "global_revision": 1528574495,
+            "author": 8343886,
+            "stamp": 1742648089,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 37,
+            "global_revision": 1528573949,
+            "author": 8343886,
+            "stamp": 1742645513,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 36,
+            "global_revision": 1527386102,
+            "author": 8343886,
+            "stamp": 1737599287,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 35,
+            "global_revision": 1527385486,
+            "author": 8343886,
+            "stamp": 1737595232,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 34,
+            "global_revision": 1527385469,
+            "author": 8343886,
+            "stamp": 1737594993,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 33,
+            "global_revision": 1527385324,
+            "author": 8343886,
+            "stamp": 1737593124,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 32,
+            "global_revision": 1527199725,
+            "author": 8343886,
+            "stamp": 1736574216,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 31,
+            "global_revision": 1527199378,
+            "author": 8343886,
+            "stamp": 1736572765,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 30,
+            "global_revision": 1527198968,
+            "author": 8343886,
+            "stamp": 1736570552,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 29,
+            "global_revision": 1517162130,
+            "author": 8343886,
+            "stamp": 1704459350,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"the-record-of-wa\" 至 \"wa:resolutions\"."
+        },
+        {
+            "revision": 28,
+            "global_revision": 1516433146,
+            "author": 8343886,
+            "stamp": 1701522841,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 27,
+            "global_revision": 1516433073,
+            "author": 8343886,
+            "stamp": 1701522641,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 26,
+            "global_revision": 1515947889,
+            "author": 8343886,
+            "stamp": 1699783411,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 25,
+            "global_revision": 1515773311,
+            "author": 8343886,
+            "stamp": 1699085011,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 24,
+            "global_revision": 1515773290,
+            "author": 8343886,
+            "stamp": 1699084957,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 23,
+            "global_revision": 1515773262,
+            "author": 8343886,
+            "stamp": 1699084937,
+            "flags": "S",
+            "commentary": "有关重新命名页面：“the-world-council-record” 改为 “the-record-of-wa” 的自动更新。"
+        },
+        {
+            "revision": 22,
+            "global_revision": 1515773253,
+            "author": 8343886,
+            "stamp": 1699084936,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"the-world-council-record\" 至 \"the-record-of-wa\"."
+        },
+        {
+            "revision": 21,
+            "global_revision": 1515224787,
+            "author": 8343886,
+            "stamp": 1697942366,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 20,
+            "global_revision": 1514886269,
+            "author": 8343886,
+            "stamp": 1697194529,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 19,
+            "global_revision": 1514447477,
+            "author": 8343886,
+            "stamp": 1696319090,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1514447322,
+            "author": 8343886,
+            "stamp": 1696318530,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1514378126,
+            "author": 6348600,
+            "stamp": 1696135886,
+            "flags": "S",
+            "commentary": "有关重新命名页面：“nation-0-1” 改为 “the-hive” 的自动更新。"
+        },
+        {
+            "revision": 16,
+            "global_revision": 1514237358,
+            "author": 8343886,
+            "stamp": 1695648575,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1514160719,
+            "author": 8343886,
+            "stamp": 1695452602,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"special:the-world-council-record\" 至 \"the-world-council-record\"."
+        },
+        {
+            "revision": 14,
+            "global_revision": 1513916114,
+            "author": 8343886,
+            "stamp": 1694614145,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"the-world-council-record\" 至 \"special:the-world-council-record\"."
+        },
+        {
+            "revision": 13,
+            "global_revision": 1513661121,
+            "author": 8343886,
+            "stamp": 1693638352,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"world-council-record\" 至 \"the-world-council-record\"."
+        },
+        {
+            "revision": 12,
+            "global_revision": 1513661015,
+            "author": 8343886,
+            "stamp": 1693637944,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1513661000,
+            "author": 8343886,
+            "stamp": 1693637883,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1513660983,
+            "author": 8343886,
+            "stamp": 1693637829,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1513390592,
+            "author": 8343886,
+            "stamp": 1693284446,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1513390524,
+            "author": 8343886,
+            "stamp": 1693284110,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1513389194,
+            "author": 8343886,
+            "stamp": 1693277374,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1513389108,
+            "author": 8343886,
+            "stamp": 1693277068,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1513389077,
+            "author": 8343886,
+            "stamp": 1693276983,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1513389067,
+            "author": 8343886,
+            "stamp": 1693276949,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1513310541,
+            "author": 6348600,
+            "stamp": 1693014044,
+            "flags": "S",
+            "commentary": "有关重新命名页面：“nation-15” 改为 “nation-0-1” 的自动更新。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1513297569,
+            "author": 8343886,
+            "stamp": 1692958224,
+            "flags": "M",
+            "commentary": "父页面设置为: \"world-council\"."
+        },
+        {
+            "revision": 1,
+            "global_revision": 1513297563,
+            "author": 8343886,
+            "stamp": 1692958199,
+            "flags": "A",
+            "commentary": "已新增标签：系统。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1513297560,
+            "author": 8343886,
+            "stamp": 1692958186,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1449557288,
+    "tags": [
+        "归档页"
+    ],
+    "title": "世界联盟的决议",
+    "sitemap_update": 1767271796000,
+    "votings": [
+        [
+            8939848,
+            true
+        ]
+    ],
+    "is_locked": true
+}

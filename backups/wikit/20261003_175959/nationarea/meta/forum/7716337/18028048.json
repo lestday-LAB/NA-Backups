@@ -1,0 +1,47 @@
+{
+    "title": "关于议员被选举资格的建议",
+    "id": 18028048,
+    "description": "出于存在纯读者(即仅评分和评论，而不参与写作的网站成员)群体的考量，建议去除页面总分要求",
+    "last": 1782030022,
+    "lastUser": 8343886,
+    "started": 1781361050,
+    "startedUser": 8152715,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 8286637,
+            "title": "关于议员被选举资格的建议",
+            "poster": 8152715,
+            "stamp": 1781361050,
+            "lastEdit": 1781361118,
+            "lastEditBy": 8152715,
+            "revisions": [
+                {
+                    "title": "关于议员被选举资格的建议",
+                    "author": 8152715,
+                    "id": 9872573,
+                    "stamp": 1781361118
+                },
+                {
+                    "title": "关于议员被选举资格的建议",
+                    "author": 8152715,
+                    "id": 9872571,
+                    "stamp": 1781361050
+                }
+            ],
+            "children": [
+                {
+                    "id": 8310933,
+                    "title": "Re: 关于议员被选举资格的建议",
+                    "poster": 8343886,
+                    "stamp": 1782030022,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}
