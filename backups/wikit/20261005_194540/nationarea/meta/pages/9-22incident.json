@@ -1,0 +1,33 @@
+{
+    "name": "9-22incident",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1547254611,
+            "author": 9913959,
+            "stamp": 1791016763,
+            "flags": "A",
+            "commentary": "已新增标签：事件, 坎日瑞, 艾尔登。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1547254607,
+            "author": 9913959,
+            "stamp": 1791016737,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469439199,
+    "tags": [
+        "事件",
+        "坎日瑞",
+        "艾尔登"
+    ],
+    "title": "9.22政变",
+    "sitemap_update": 1791016763000,
+    "votings": [],
+    "is_locked": false
+}
