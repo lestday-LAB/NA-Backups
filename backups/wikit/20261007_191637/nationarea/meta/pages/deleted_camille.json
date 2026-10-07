@@ -1,0 +1,97 @@
+{
+    "name": "deleted:camille",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1545884494,
+            "author": 8325214,
+            "stamp": 1786440098,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"camille\" 至 \"deleted:camille\"."
+        },
+        {
+            "revision": 5,
+            "global_revision": 1528477550,
+            "author": 8325214,
+            "stamp": 1742129949,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1528477484,
+            "author": 6251737,
+            "stamp": 1742129727,
+            "flags": "A",
+            "commentary": "已新增标签：奇异居民。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1528475065,
+            "author": 8325214,
+            "stamp": 1742118610,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1528469086,
+            "author": 8325214,
+            "stamp": 1742096739,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1528468914,
+            "author": 8325214,
+            "stamp": 1742095963,
+            "flags": "A",
+            "commentary": "已新增标签：种族。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1528468908,
+            "author": 8325214,
+            "stamp": 1742095939,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458723035,
+    "tags": [
+        "奇异居民",
+        "种族"
+    ],
+    "title": "獣耳の群れ",
+    "sitemap_update": 1786440098000,
+    "votings": [
+        [
+            8256969,
+            true
+        ],
+        [
+            8356393,
+            true
+        ],
+        [
+            6251737,
+            true
+        ],
+        [
+            8325214,
+            true
+        ],
+        [
+            9309125,
+            true
+        ],
+        [
+            8373329,
+            true
+        ]
+    ],
+    "is_locked": false
+}

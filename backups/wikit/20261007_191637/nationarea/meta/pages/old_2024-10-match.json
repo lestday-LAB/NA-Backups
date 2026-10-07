@@ -1,0 +1,194 @@
+{
+    "name": "old:2024-10-match",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 16,
+            "global_revision": 1537130979,
+            "author": 8343886,
+            "stamp": 1761969479,
+            "flags": "A",
+            "commentary": "移除标签：系统。"
+        },
+        {
+            "revision": 15,
+            "global_revision": 1529575740,
+            "author": 8343886,
+            "stamp": 1745672955,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"2024-10-match\" 至 \"old:2024-10-match\"."
+        },
+        {
+            "revision": 14,
+            "global_revision": 1527426032,
+            "author": 8343886,
+            "stamp": 1737808929,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1527365529,
+            "author": 8343886,
+            "stamp": 1737471964,
+            "flags": "A",
+            "commentary": "已新增标签：活动。"
+        },
+        {
+            "revision": 12,
+            "global_revision": 1526983186,
+            "author": 6251737,
+            "stamp": 1735383123,
+            "flags": "A",
+            "commentary": "已新增标签：归档页。 移除标签：旧页面。"
+        },
+        {
+            "revision": 11,
+            "global_revision": 1526735265,
+            "author": 6251737,
+            "stamp": 1734267386,
+            "flags": "A",
+            "commentary": "已新增标签：旧页面。 移除标签：议论。"
+        },
+        {
+            "revision": 10,
+            "global_revision": 1526657036,
+            "author": 6251737,
+            "stamp": 1733818297,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1525352070,
+            "author": 6251737,
+            "stamp": 1729409385,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1525352055,
+            "author": 6251737,
+            "stamp": 1729409272,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1524930528,
+            "author": 6251737,
+            "stamp": 1727707711,
+            "flags": "A",
+            "commentary": "已新增标签：2024音乐竞赛, 系统, 议论。 移除标签：未完成。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1524930525,
+            "author": 6251737,
+            "stamp": 1727707691,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1524930479,
+            "author": 6251737,
+            "stamp": 1727707542,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1524930445,
+            "author": 6251737,
+            "stamp": 1727707429,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1524930403,
+            "author": 6251737,
+            "stamp": 1727707388,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1524930287,
+            "author": 6251737,
+            "stamp": 1727706910,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1524929695,
+            "author": 6251737,
+            "stamp": 1727705348,
+            "flags": "A",
+            "commentary": "已新增标签：未完成。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1524929687,
+            "author": 6251737,
+            "stamp": 1727705313,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1456954437,
+    "tags": [
+        "2024音乐竞赛",
+        "归档页",
+        "活动"
+    ],
+    "title": "2024 音乐竞赛",
+    "sitemap_update": 1761969479000,
+    "votings": [
+        [
+            8548483,
+            false
+        ],
+        [
+            8316541,
+            false
+        ],
+        [
+            8374306,
+            false
+        ],
+        [
+            8356393,
+            false
+        ],
+        [
+            9102405,
+            false
+        ],
+        [
+            8426633,
+            false
+        ],
+        [
+            6251737,
+            false
+        ],
+        [
+            8736966,
+            false
+        ],
+        [
+            8343886,
+            false
+        ],
+        [
+            8386863,
+            false
+        ]
+    ],
+    "is_locked": false
+}

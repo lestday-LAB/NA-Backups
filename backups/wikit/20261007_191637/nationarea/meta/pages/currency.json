@@ -1,0 +1,100 @@
+{
+    "name": "currency",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1528257510,
+            "author": 8343886,
+            "stamp": 1741358417,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1528257502,
+            "author": 8343886,
+            "stamp": 1741358379,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1528257487,
+            "author": 8343886,
+            "stamp": 1741358332,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1528257467,
+            "author": 8343886,
+            "stamp": 1741358217,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1528257461,
+            "author": 8343886,
+            "stamp": 1741358174,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1528257457,
+            "author": 8343886,
+            "stamp": 1741358160,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1528257456,
+            "author": 8343886,
+            "stamp": 1741358144,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1528041824,
+            "author": 8343886,
+            "stamp": 1740229259,
+            "flags": "A",
+            "commentary": "已新增标签：艺术作品。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1528041820,
+            "author": 8343886,
+            "stamp": 1740229245,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458585942,
+    "tags": [
+        "艺术作品"
+    ],
+    "title": "全球货币展览馆",
+    "sitemap_update": 1741358417000,
+    "votings": [
+        [
+            8548483,
+            true
+        ],
+        [
+            8356393,
+            true
+        ],
+        [
+            8325214,
+            true
+        ]
+    ],
+    "is_locked": false
+}

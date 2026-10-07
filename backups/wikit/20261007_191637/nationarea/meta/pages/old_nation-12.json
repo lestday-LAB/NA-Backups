@@ -1,0 +1,445 @@
+{
+    "name": "old:nation-12",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 50,
+            "global_revision": 1527403779,
+            "author": 8343886,
+            "stamp": 1737710447,
+            "flags": "A",
+            "commentary": "已新增标签：归档页。 移除标签：东半球, 国家, 次要文档, 浪漫, 重写中。"
+        },
+        {
+            "revision": 49,
+            "global_revision": 1527403739,
+            "author": 8343886,
+            "stamp": 1737710438,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 48,
+            "global_revision": 1527403733,
+            "author": 8343886,
+            "stamp": 1737710421,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"nation-12\" 至 \"old:nation-12\"."
+        },
+        {
+            "revision": 47,
+            "global_revision": 1527403729,
+            "author": 8343886,
+            "stamp": 1737710406,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"old:nation-12\" 至 \"nation-12\"."
+        },
+        {
+            "revision": 46,
+            "global_revision": 1527403726,
+            "author": 8343886,
+            "stamp": 1737710392,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"nation-12\" 至 \"old:nation-12\"."
+        },
+        {
+            "revision": 45,
+            "global_revision": 1527371505,
+            "author": 8343886,
+            "stamp": 1737510197,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 44,
+            "global_revision": 1525846247,
+            "author": 8343886,
+            "stamp": 1731771348,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 43,
+            "global_revision": 1525846027,
+            "author": 8343886,
+            "stamp": 1731770309,
+            "flags": "A",
+            "commentary": "已新增标签：东半球, 次要文档, 浪漫。 移除标签：无政府, 未完成, 自由资本主义, 边缘文档。"
+        },
+        {
+            "revision": 42,
+            "global_revision": 1523071360,
+            "author": 6251737,
+            "stamp": 1721188336,
+            "flags": "A",
+            "commentary": "已新增标签：边缘文档。 移除标签：边缘设定。"
+        },
+        {
+            "revision": 41,
+            "global_revision": 1523014793,
+            "author": 8343886,
+            "stamp": 1720834047,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 40,
+            "global_revision": 1523014790,
+            "author": 8343886,
+            "stamp": 1720834012,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 39,
+            "global_revision": 1523014779,
+            "author": 8343886,
+            "stamp": 1720833958,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 38,
+            "global_revision": 1523014760,
+            "author": 8343886,
+            "stamp": 1720833838,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 37,
+            "global_revision": 1523014755,
+            "author": 8343886,
+            "stamp": 1720833809,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 36,
+            "global_revision": 1523014688,
+            "author": 8343886,
+            "stamp": 1720833619,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 35,
+            "global_revision": 1523014605,
+            "author": 8343886,
+            "stamp": 1720833113,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 34,
+            "global_revision": 1518848298,
+            "author": 8343886,
+            "stamp": 1709908243,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 33,
+            "global_revision": 1518847913,
+            "author": 8343886,
+            "stamp": 1709905963,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 32,
+            "global_revision": 1518846173,
+            "author": 8343886,
+            "stamp": 1709896769,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 31,
+            "global_revision": 1518846163,
+            "author": 8343886,
+            "stamp": 1709896694,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 30,
+            "global_revision": 1518846159,
+            "author": 8343886,
+            "stamp": 1709896660,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 29,
+            "global_revision": 1518846148,
+            "author": 8343886,
+            "stamp": 1709896572,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 28,
+            "global_revision": 1518846116,
+            "author": 8343886,
+            "stamp": 1709896501,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 27,
+            "global_revision": 1518846050,
+            "author": 8343886,
+            "stamp": 1709896248,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 26,
+            "global_revision": 1518845986,
+            "author": 8343886,
+            "stamp": 1709895903,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 25,
+            "global_revision": 1518754796,
+            "author": 8343886,
+            "stamp": 1709391411,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 24,
+            "global_revision": 1518611259,
+            "author": 8343886,
+            "stamp": 1708959133,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 23,
+            "global_revision": 1518362496,
+            "author": 8343886,
+            "stamp": 1708391033,
+            "flags": "A",
+            "commentary": "已新增标签：未完成, 重写中。"
+        },
+        {
+            "revision": 22,
+            "global_revision": 1518110046,
+            "author": 6251737,
+            "stamp": 1707370358,
+            "flags": "A",
+            "commentary": "已新增标签：自由资本主义, 边缘设定。 移除标签：右翼。"
+        },
+        {
+            "revision": 21,
+            "global_revision": 1516949236,
+            "author": 8343886,
+            "stamp": 1703309236,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 20,
+            "global_revision": 1514188142,
+            "author": 8343886,
+            "stamp": 1695526938,
+            "flags": "A",
+            "commentary": "已新增标签：右翼, 国家, 无政府。"
+        },
+        {
+            "revision": 19,
+            "global_revision": 1514187990,
+            "author": 8343886,
+            "stamp": 1695526401,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1514154394,
+            "author": 8343886,
+            "stamp": 1695446642,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1513183285,
+            "author": 8749929,
+            "stamp": 1692705157,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1513183281,
+            "author": 8749929,
+            "stamp": 1692705126,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1513119543,
+            "author": 8636742,
+            "stamp": 1692531226,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1513119536,
+            "author": 8636742,
+            "stamp": 1692531164,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"001-area-1-nation-1\" 至 \"nation-12\"."
+        },
+        {
+            "revision": 13,
+            "global_revision": 1513114657,
+            "author": 8343886,
+            "stamp": 1692506422,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1513114078,
+            "author": 8636742,
+            "stamp": 1692502723,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1513103893,
+            "author": 8636742,
+            "stamp": 1692448927,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1513103888,
+            "author": 8636742,
+            "stamp": 1692448911,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1513103880,
+            "author": 8636742,
+            "stamp": 1692448888,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1513103790,
+            "author": 8636742,
+            "stamp": 1692448513,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"nation-0\" 至 \"001-area-1-nation-1\"."
+        },
+        {
+            "revision": 7,
+            "global_revision": 1513103775,
+            "author": 8636742,
+            "stamp": 1692448427,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1513103755,
+            "author": 8636742,
+            "stamp": 1692448351,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1513103745,
+            "author": 8636742,
+            "stamp": 1692448316,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1513103633,
+            "author": 8636742,
+            "stamp": 1692447678,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1513103605,
+            "author": 8636742,
+            "stamp": 1692447558,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1513103598,
+            "author": 8636742,
+            "stamp": 1692447523,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1513103545,
+            "author": 8636742,
+            "stamp": 1692447230,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1513103527,
+            "author": 8636742,
+            "stamp": 1692447129,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1449435217,
+    "rating": 3,
+    "tags": [
+        "归档页"
+    ],
+    "title": "Nation 12（旧）",
+    "sitemap_update": 1737710447000,
+    "votings": [
+        [
+            8248071,
+            true
+        ],
+        [
+            8636742,
+            true
+        ],
+        [
+            6251737,
+            false
+        ],
+        [
+            8543531,
+            true
+        ],
+        [
+            8749929,
+            true
+        ]
+    ],
+    "is_locked": false
+}

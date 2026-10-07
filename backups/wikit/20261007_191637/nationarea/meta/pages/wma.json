@@ -1,0 +1,56 @@
+{
+    "name": "wma",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1546205590,
+            "author": 9913959,
+            "stamp": 1787441228,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1546205561,
+            "author": 9913959,
+            "stamp": 1787441088,
+            "flags": "A",
+            "commentary": "已新增标签：小作品。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1546180322,
+            "author": 9913959,
+            "stamp": 1787342648,
+            "flags": "A",
+            "commentary": "已新增标签：军事, 坎日瑞, 法案, 艾尔登。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1546180304,
+            "author": 9913959,
+            "stamp": 1787342568,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469212084,
+    "tags": [
+        "军事",
+        "坎日瑞",
+        "小作品",
+        "法案",
+        "艾尔登"
+    ],
+    "title": "战时总动员法",
+    "sitemap_update": 1787441228000,
+    "votings": [
+        [
+            9899603,
+            true
+        ]
+    ],
+    "is_locked": false
+}

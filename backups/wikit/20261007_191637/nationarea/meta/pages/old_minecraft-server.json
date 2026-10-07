@@ -1,0 +1,370 @@
+{
+    "name": "old:minecraft-server",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 35,
+            "global_revision": 1537131141,
+            "author": 8343886,
+            "stamp": 1761970098,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"minecraft-server\" 至 \"old:minecraft-server\"."
+        },
+        {
+            "revision": 34,
+            "global_revision": 1537131138,
+            "author": 8343886,
+            "stamp": 1761970086,
+            "flags": "A",
+            "commentary": "已新增标签：归档页。 移除标签：系统。"
+        },
+        {
+            "revision": 33,
+            "global_revision": 1519049221,
+            "author": 8543531,
+            "stamp": 1710620569,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 32,
+            "global_revision": 1519049210,
+            "author": 8543531,
+            "stamp": 1710620420,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 31,
+            "global_revision": 1518971041,
+            "author": 8543531,
+            "stamp": 1710240222,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 30,
+            "global_revision": 1518960203,
+            "author": 8543531,
+            "stamp": 1710174909,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 29,
+            "global_revision": 1518960086,
+            "author": 8543531,
+            "stamp": 1710174451,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 28,
+            "global_revision": 1518960076,
+            "author": 8543531,
+            "stamp": 1710174413,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 27,
+            "global_revision": 1518959956,
+            "author": 8543531,
+            "stamp": 1710173991,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 26,
+            "global_revision": 1518959947,
+            "author": 8543531,
+            "stamp": 1710173942,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 25,
+            "global_revision": 1518959924,
+            "author": 8543531,
+            "stamp": 1710173800,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 24,
+            "global_revision": 1518959916,
+            "author": 8543531,
+            "stamp": 1710173748,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 23,
+            "global_revision": 1518249352,
+            "author": 8543531,
+            "stamp": 1707933199,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 22,
+            "global_revision": 1518249338,
+            "author": 8543531,
+            "stamp": 1707933102,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 21,
+            "global_revision": 1518249334,
+            "author": 8543531,
+            "stamp": 1707933077,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 20,
+            "global_revision": 1518249330,
+            "author": 8543531,
+            "stamp": 1707933057,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 19,
+            "global_revision": 1518206234,
+            "author": 8543531,
+            "stamp": 1707764520,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1518103254,
+            "author": 8543531,
+            "stamp": 1707333492,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1518102235,
+            "author": 8543531,
+            "stamp": 1707329103,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1518020135,
+            "author": 8543531,
+            "stamp": 1707071379,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1517959796,
+            "author": 8543531,
+            "stamp": 1706811264,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1517959781,
+            "author": 8543531,
+            "stamp": 1706811190,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1517958840,
+            "author": 8543531,
+            "stamp": 1706809623,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1517958712,
+            "author": 8543531,
+            "stamp": 1706809431,
+            "flags": "F",
+            "commentary": "已上传文件 “list.png”。"
+        },
+        {
+            "revision": 11,
+            "global_revision": 1517958076,
+            "author": 8543531,
+            "stamp": 1706806329,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1517941312,
+            "author": 8543531,
+            "stamp": 1706729277,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1517939468,
+            "author": 8543531,
+            "stamp": 1706720767,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1517922073,
+            "author": 8543531,
+            "stamp": 1706636168,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1517903815,
+            "author": 8543531,
+            "stamp": 1706614201,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1517902869,
+            "author": 8543531,
+            "stamp": 1706610411,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1517902851,
+            "author": 8543531,
+            "stamp": 1706610311,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1517890404,
+            "author": 8543531,
+            "stamp": 1706552887,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1517890315,
+            "author": 8543531,
+            "stamp": 1706552364,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1517797706,
+            "author": 8543531,
+            "stamp": 1706544070,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1517792363,
+            "author": 8543531,
+            "stamp": 1706522441,
+            "flags": "A",
+            "commentary": "已新增标签：系统。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1517792313,
+            "author": 8543531,
+            "stamp": 1706522078,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 10965142,
+            "name": "list.png",
+            "url": "http://nationarea.wikidot.com/local--files/old:minecraft-server/list.png",
+            "size": "27 kB (27645 Bytes)",
+            "size_bytes": 27645,
+            "mime": "image/png",
+            "content": "PNG image data, 1439 x 503, 8-bit/color RGB, non-interlaced",
+            "author": 8543531,
+            "stamp": 1706809431,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1452386481,
+    "rating": 11,
+    "tags": [
+        "归档页"
+    ],
+    "title": "The Nationarea for Minecraft Server 中心页",
+    "sitemap_update": 1761970098000,
+    "votings": [
+        [
+            8462980,
+            true
+        ],
+        [
+            8464470,
+            false
+        ],
+        [
+            8335831,
+            true
+        ],
+        [
+            8854856,
+            true
+        ],
+        [
+            8356393,
+            true
+        ],
+        [
+            8108397,
+            true
+        ],
+        [
+            7622619,
+            true
+        ],
+        [
+            7900298,
+            true
+        ],
+        [
+            8885035,
+            true
+        ],
+        [
+            8543531,
+            true
+        ],
+        [
+            8345010,
+            true
+        ],
+        [
+            8118764,
+            true
+        ],
+        [
+            8939848,
+            true
+        ]
+    ],
+    "is_locked": true
+}

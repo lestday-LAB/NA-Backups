@@ -1,0 +1,47 @@
+{
+    "name": "the-principle",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1547208032,
+            "author": 8343886,
+            "stamp": 1790822563,
+            "flags": "S",
+            "commentary": "基本完成初版。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1547208022,
+            "author": 8343886,
+            "stamp": 1790822517,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1547207846,
+            "author": 8343886,
+            "stamp": 1790821767,
+            "flags": "A",
+            "commentary": "已新增标签：公共政策。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1547207841,
+            "author": 8343886,
+            "stamp": 1790821748,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469429034,
+    "tags": [
+        "公共政策"
+    ],
+    "title": "原则",
+    "sitemap_update": 1790822563000,
+    "votings": [],
+    "is_locked": false
+}

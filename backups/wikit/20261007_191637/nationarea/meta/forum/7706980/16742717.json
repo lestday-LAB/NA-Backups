@@ -1,0 +1,46 @@
+{
+    "title": "布丝达奇",
+    "id": 16742717,
+    "description": "",
+    "last": 1709967493,
+    "lastUser": 8464470,
+    "started": 1709424135,
+    "startedUser": null,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 6445396,
+            "title": "已编辑",
+            "poster": 8316541,
+            "stamp": 1709424188,
+            "lastEdit": 1757348863,
+            "lastEditBy": 8316541,
+            "revisions": [
+                {
+                    "title": "已编辑",
+                    "author": 8316541,
+                    "id": 8690277,
+                    "stamp": 1757348863
+                },
+                {
+                    "title": "dv.",
+                    "author": 8316541,
+                    "id": 7820242,
+                    "stamp": 1709424188
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": 6452320,
+            "title": "",
+            "poster": 8464470,
+            "stamp": 1709967493,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

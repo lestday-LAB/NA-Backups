@@ -1,0 +1,53 @@
+{
+    "name": "component:page-censorship",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1544752342,
+            "author": 9287872,
+            "stamp": 1781950491,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1544751920,
+            "author": 9287872,
+            "stamp": 1781949174,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1544751004,
+            "author": 9287872,
+            "stamp": 1781946566,
+            "flags": "A",
+            "commentary": "已新增标签：功能, 组件。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544750998,
+            "author": 9287872,
+            "stamp": 1781946551,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468875238,
+    "tags": [
+        "功能",
+        "组件"
+    ],
+    "title": "組件：頁面審查",
+    "sitemap_update": 1781950491000,
+    "votings": [
+        [
+            8152715,
+            true
+        ]
+    ],
+    "is_locked": false
+}

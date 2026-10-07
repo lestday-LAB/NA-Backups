@@ -1,0 +1,48 @@
+{
+    "name": "deleted:yinlistory-tebianone",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1545884781,
+            "author": 8325214,
+            "stamp": 1786440825,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"yinlistory-tebianone\" 至 \"deleted:yinlistory-tebianone\"."
+        },
+        {
+            "revision": 1,
+            "global_revision": 1526000150,
+            "author": 8325214,
+            "stamp": 1732693440,
+            "flags": "A",
+            "commentary": "已新增标签：故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1526000149,
+            "author": 8325214,
+            "stamp": 1732693419,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1457443886,
+    "tags": [
+        "故事"
+    ],
+    "title": "因理科学家会梦到世界全貌吗_特编一",
+    "sitemap_update": 1786440825000,
+    "votings": [
+        [
+            6251737,
+            true
+        ],
+        [
+            8325214,
+            true
+        ]
+    ],
+    "is_locked": false
+}
