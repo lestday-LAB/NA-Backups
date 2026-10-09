@@ -1,0 +1,100 @@
+{
+    "name": "miscellaneous",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 9,
+            "global_revision": 1547210801,
+            "author": 8343886,
+            "stamp": 1790834044,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1547210743,
+            "author": 8343886,
+            "stamp": 1790833811,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1547207223,
+            "author": 8343886,
+            "stamp": 1790818732,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1547207212,
+            "author": 8343886,
+            "stamp": 1790818674,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"minor-list-center\" 至 \"miscellaneous\"."
+        },
+        {
+            "revision": 5,
+            "global_revision": 1546211072,
+            "author": 8316541,
+            "stamp": 1787463908,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1546026997,
+            "author": 8316541,
+            "stamp": 1786858165,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1546026588,
+            "author": 8316541,
+            "stamp": 1786856661,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1546026581,
+            "author": 8316541,
+            "stamp": 1786856635,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1546005920,
+            "author": 8316541,
+            "stamp": 1786793976,
+            "flags": "A",
+            "commentary": "已新增标签：总览。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1546005669,
+            "author": 8316541,
+            "stamp": 1786793230,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469174665,
+    "tags": [
+        "总览"
+    ],
+    "title": "杂项和小作品中心",
+    "sitemap_update": 1790834044000,
+    "votings": [
+        [
+            10404301,
+            true
+        ]
+    ],
+    "is_locked": false
+}
