@@ -1,0 +1,74 @@
+{
+    "name": "deleted:the-circle",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1545884598,
+            "author": 8325214,
+            "stamp": 1786440426,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"the-circle\" 至 \"deleted:the-circle\"."
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530809149,
+            "author": 8325214,
+            "stamp": 1751581396,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530808675,
+            "author": 8325214,
+            "stamp": 1751578110,
+            "flags": "A",
+            "commentary": "已新增标签：故事。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530808670,
+            "author": 8325214,
+            "stamp": 1751578088,
+            "flags": "A",
+            "commentary": "已新增标签：2025十站联竞。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530808668,
+            "author": 8325214,
+            "stamp": 1751578076,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459873813,
+    "rating": 4,
+    "tags": [
+        "2025十站联竞",
+        "故事"
+    ],
+    "title": "卡米拉尔的星期日",
+    "sitemap_update": 1786440426000,
+    "votings": [
+        [
+            8426633,
+            true
+        ],
+        [
+            6251737,
+            true
+        ],
+        [
+            8898249,
+            true
+        ],
+        [
+            8553227,
+            true
+        ]
+    ],
+    "is_locked": false
+}

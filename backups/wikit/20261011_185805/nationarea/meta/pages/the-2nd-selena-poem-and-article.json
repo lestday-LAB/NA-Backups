@@ -1,0 +1,87 @@
+{
+    "name": "the-2nd-selena-poem-and-article",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1530658400,
+            "author": 8426633,
+            "stamp": 1750857863,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1527832256,
+            "author": 8426633,
+            "stamp": 1739695295,
+            "flags": "A",
+            "commentary": "已新增标签：crossover。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1527827468,
+            "author": 8426633,
+            "stamp": 1739678263,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1527758717,
+            "author": 6251737,
+            "stamp": 1739371242,
+            "flags": "A",
+            "commentary": "移除标签：议论。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1527748996,
+            "author": 8426633,
+            "stamp": 1739333095,
+            "flags": "A",
+            "commentary": "已新增标签：讽刺。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1527748979,
+            "author": 8426633,
+            "stamp": 1739332900,
+            "flags": "A",
+            "commentary": "已新增标签：故事, 议论。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1527748974,
+            "author": 8426633,
+            "stamp": 1739332860,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458420004,
+    "forum_thread": 17035270,
+    "tags": [
+        "crossover",
+        "故事",
+        "讽刺"
+    ],
+    "title": "赛琳娜诗文（其之二）",
+    "sitemap_update": 1750857863000,
+    "votings": [
+        [
+            8426633,
+            true
+        ],
+        [
+            6251737,
+            true
+        ],
+        [
+            8325214,
+            true
+        ]
+    ],
+    "is_locked": false
+}

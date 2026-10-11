@@ -1,0 +1,31 @@
+{
+    "name": "the-code-of-law",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1547215235,
+            "author": 8343886,
+            "stamp": 1790850793,
+            "flags": "A",
+            "commentary": "已新增标签：公共政策。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1547215233,
+            "author": 8343886,
+            "stamp": 1790850785,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469430445,
+    "tags": [
+        "公共政策"
+    ],
+    "title": "The Nationarea 社区法典",
+    "sitemap_update": 1790850793000,
+    "votings": [],
+    "is_locked": false
+}

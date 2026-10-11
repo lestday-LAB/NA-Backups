@@ -1,0 +1,121 @@
+{
+    "name": "better-nation-info",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 10,
+            "global_revision": 1542385876,
+            "author": 8343886,
+            "stamp": 1772463294,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1540602208,
+            "author": 8343886,
+            "stamp": 1765631320,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1528267849,
+            "author": 8343886,
+            "stamp": 1741410712,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1528261695,
+            "author": 8343886,
+            "stamp": 1741379467,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1528258837,
+            "author": 8343886,
+            "stamp": 1741364388,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1528258834,
+            "author": 8343886,
+            "stamp": 1741364373,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1528258803,
+            "author": 8343886,
+            "stamp": 1741364274,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1528258745,
+            "author": 8343886,
+            "stamp": 1741364116,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1528258709,
+            "author": 8343886,
+            "stamp": 1741363997,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1528258496,
+            "author": 8343886,
+            "stamp": 1741362673,
+            "flags": "A",
+            "commentary": "已新增标签：组件。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1528258494,
+            "author": 8343886,
+            "stamp": 1741362665,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458667579,
+    "forum_thread": 17059904,
+    "tags": [
+        "组件"
+    ],
+    "title": "更好的国家信息模块",
+    "sitemap_update": 1772463294000,
+    "votings": [
+        [
+            8356393,
+            true
+        ],
+        [
+            6251737,
+            false
+        ],
+        [
+            8343886,
+            true
+        ],
+        [
+            8375717,
+            true
+        ]
+    ],
+    "is_locked": false
+}

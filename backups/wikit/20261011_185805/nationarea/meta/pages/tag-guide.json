@@ -1,0 +1,71 @@
+{
+    "name": "tag-guide",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1546027187,
+            "author": 8316541,
+            "stamp": 1786858723,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1546027128,
+            "author": 8316541,
+            "stamp": 1786858578,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1546026848,
+            "author": 8316541,
+            "stamp": 1786857598,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1546005569,
+            "author": 8316541,
+            "stamp": 1786792695,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1546005542,
+            "author": 8316541,
+            "stamp": 1786792576,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1546005535,
+            "author": 8316541,
+            "stamp": 1786792498,
+            "flags": "A",
+            "commentary": "已新增标签：指导。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1546005486,
+            "author": 8316541,
+            "stamp": 1786792420,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469174615,
+    "tags": [
+        "指导"
+    ],
+    "title": "标签指导",
+    "sitemap_update": 1786858723000,
+    "votings": [],
+    "is_locked": false
+}

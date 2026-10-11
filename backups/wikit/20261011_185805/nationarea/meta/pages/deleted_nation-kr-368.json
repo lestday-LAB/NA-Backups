@@ -1,0 +1,71 @@
+{
+    "name": "deleted:nation-kr-368",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1545884689,
+            "author": 8325214,
+            "stamp": 1786440584,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"nation-kr-368\" 至 \"deleted:nation-kr-368\"."
+        },
+        {
+            "revision": 3,
+            "global_revision": 1540289411,
+            "author": 8325214,
+            "stamp": 1764981278,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1540289287,
+            "author": 8325214,
+            "stamp": 1764981103,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540289221,
+            "author": 8325214,
+            "stamp": 1764981001,
+            "flags": "A",
+            "commentary": "已新增标签：伊德尔, 国家, 微小的。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540289185,
+            "author": 8325214,
+            "stamp": 1764980940,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467344384,
+    "rating": 3,
+    "tags": [
+        "伊德尔",
+        "国家",
+        "微小的"
+    ],
+    "title": "北境极点岛",
+    "sitemap_update": 1786440584000,
+    "votings": [
+        [
+            9477146,
+            true
+        ],
+        [
+            8325214,
+            true
+        ],
+        [
+            8343886,
+            true
+        ]
+    ],
+    "is_locked": false
+}

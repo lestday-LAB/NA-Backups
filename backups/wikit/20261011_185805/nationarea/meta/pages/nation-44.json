@@ -1,0 +1,260 @@
+{
+    "name": "nation-44",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 25,
+            "global_revision": 1541206065,
+            "author": 8343886,
+            "stamp": 1767237725,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 24,
+            "global_revision": 1541206059,
+            "author": 8343886,
+            "stamp": 1767237703,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 23,
+            "global_revision": 1540171912,
+            "author": 8343886,
+            "stamp": 1764742839,
+            "flags": "A",
+            "commentary": "移除标签：一般文档。"
+        },
+        {
+            "revision": 22,
+            "global_revision": 1539338745,
+            "author": 8343886,
+            "stamp": 1762949761,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 21,
+            "global_revision": 1528036218,
+            "author": 8343886,
+            "stamp": 1740205252,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 20,
+            "global_revision": 1527617887,
+            "author": 8356393,
+            "stamp": 1738842036,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 19,
+            "global_revision": 1527604700,
+            "author": 6251737,
+            "stamp": 1738766458,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1525939443,
+            "author": 6251737,
+            "stamp": 1732350309,
+            "flags": "A",
+            "commentary": "已新增标签：物理异常。"
+        },
+        {
+            "revision": 17,
+            "global_revision": 1525922114,
+            "author": 8343886,
+            "stamp": 1732268800,
+            "flags": "A",
+            "commentary": "已新增标签：东半球。 移除标签：内陆, 奇异居民, 民主资本主义, 物理异常, 环境保护。"
+        },
+        {
+            "revision": 16,
+            "global_revision": 1523071501,
+            "author": 6251737,
+            "stamp": 1721188960,
+            "flags": "A",
+            "commentary": "已新增标签：一般文档。 移除标签：过渡设定。"
+        },
+        {
+            "revision": 15,
+            "global_revision": 1518110219,
+            "author": 6251737,
+            "stamp": 1707371026,
+            "flags": "A",
+            "commentary": "已新增标签：民主资本主义, 过渡设定。 移除标签：右翼, 民主化。"
+        },
+        {
+            "revision": 14,
+            "global_revision": 1514399837,
+            "author": 8564954,
+            "stamp": 1696218026,
+            "flags": "S",
+            "commentary": "错字"
+        },
+        {
+            "revision": 13,
+            "global_revision": 1514266643,
+            "author": 8343886,
+            "stamp": 1695741779,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1514157209,
+            "author": 8343886,
+            "stamp": 1695449479,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1513687708,
+            "author": 8343886,
+            "stamp": 1693736430,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1513376213,
+            "author": 8564954,
+            "stamp": 1693213465,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1513375958,
+            "author": 8564954,
+            "stamp": 1693212601,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1513375934,
+            "author": 8564954,
+            "stamp": 1693212476,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1513375851,
+            "author": 8564954,
+            "stamp": 1693212192,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1513139134,
+            "author": 8636742,
+            "stamp": 1692616066,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1513114802,
+            "author": 8564954,
+            "stamp": 1692507409,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1513114668,
+            "author": 8564954,
+            "stamp": 1692506502,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1513105283,
+            "author": 8636742,
+            "stamp": 1692455051,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1513104297,
+            "author": 8636742,
+            "stamp": 1692450856,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1513104150,
+            "author": 8564954,
+            "stamp": 1692450353,
+            "flags": "A",
+            "commentary": "已新增标签：内陆, 右翼, 国家, 奇异居民, 民主化, 物理异常, 环境保护。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1513103901,
+            "author": 8564954,
+            "stamp": 1692448957,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1449435315,
+    "rating": 8,
+    "forum_thread": 16335406,
+    "tags": [
+        "东半球",
+        "国家",
+        "物理异常"
+    ],
+    "title": "茹西娜",
+    "sitemap_update": 1767237725000,
+    "votings": [
+        [
+            8376506,
+            true
+        ],
+        [
+            8248071,
+            true
+        ],
+        [
+            8636742,
+            true
+        ],
+        [
+            8724677,
+            true
+        ],
+        [
+            6251737,
+            true
+        ],
+        [
+            8343886,
+            true
+        ],
+        [
+            8749929,
+            true
+        ],
+        [
+            8118764,
+            true
+        ]
+    ],
+    "is_locked": false
+}
