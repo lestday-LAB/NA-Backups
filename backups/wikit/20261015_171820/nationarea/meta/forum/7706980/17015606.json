@@ -1,0 +1,32 @@
+{
+    "title": "伊尔塞圣韦迪那多教堂",
+    "id": 17015606,
+    "description": "",
+    "last": 1735999068,
+    "lastUser": 8374306,
+    "started": 1735998890,
+    "startedUser": null,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 6766896,
+            "title": "写国家文章吧",
+            "poster": 8256969,
+            "stamp": 1735998922,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 6766899,
+                    "title": "Re: 写国家文章吧",
+                    "poster": 8374306,
+                    "stamp": 1735999068,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

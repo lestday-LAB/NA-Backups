@@ -1,0 +1,176 @@
+{
+    "name": "nation-51",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 15,
+            "global_revision": 1544752571,
+            "author": 9287872,
+            "stamp": 1781951269,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1541206107,
+            "author": 8343886,
+            "stamp": 1767237928,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1540171994,
+            "author": 8343886,
+            "stamp": 1764743045,
+            "flags": "A",
+            "commentary": "移除标签：次要文档。"
+        },
+        {
+            "revision": 12,
+            "global_revision": 1539338859,
+            "author": 8343886,
+            "stamp": 1762950013,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1527604730,
+            "author": 6251737,
+            "stamp": 1738766706,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1525939413,
+            "author": 6251737,
+            "stamp": 1732350126,
+            "flags": "A",
+            "commentary": "已新增标签：物理异常。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1525922149,
+            "author": 8343886,
+            "stamp": 1732268991,
+            "flags": "A",
+            "commentary": "已新增标签：东半球。 移除标签：中派改良主义, 环境保护。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1523071508,
+            "author": 6251737,
+            "stamp": 1721189034,
+            "flags": "A",
+            "commentary": "已新增标签：次要文档。 移除标签：次要设定。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1523062869,
+            "author": 6251737,
+            "stamp": 1721132563,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1518110252,
+            "author": 6251737,
+            "stamp": 1707371184,
+            "flags": "A",
+            "commentary": "已新增标签：中派改良主义, 次要设定。 移除标签：政治中立派, 经济中间派。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1514158038,
+            "author": 8343886,
+            "stamp": 1695450231,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1513687712,
+            "author": 8343886,
+            "stamp": 1693736472,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1513662248,
+            "author": 8343886,
+            "stamp": 1693641743,
+            "flags": "A",
+            "commentary": "已新增标签：政治中立派。 移除标签：政治中立化。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1513378177,
+            "author": 7679098,
+            "stamp": 1693221487,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1513378036,
+            "author": 7679098,
+            "stamp": 1693220910,
+            "flags": "A",
+            "commentary": "已新增标签：国家, 奇异居民, 政治中立化, 环境保护, 经济中间派。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1513378017,
+            "author": 7679098,
+            "stamp": 1693220810,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1449602317,
+    "forum_thread": 16306769,
+    "tags": [
+        "东半球",
+        "国家",
+        "奇异居民",
+        "物理异常"
+    ],
+    "title": "史莱姆",
+    "sitemap_update": 1781951269000,
+    "votings": [
+        [
+            8462980,
+            true
+        ],
+        [
+            8248071,
+            true
+        ],
+        [
+            6264210,
+            true
+        ],
+        [
+            6251737,
+            true
+        ],
+        [
+            8343886,
+            true
+        ],
+        [
+            8543531,
+            false
+        ],
+        [
+            8564954,
+            true
+        ]
+    ],
+    "is_locked": false
+}

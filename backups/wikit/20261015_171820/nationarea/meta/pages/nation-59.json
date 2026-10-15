@@ -1,0 +1,156 @@
+{
+    "name": "nation-59",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 11,
+            "global_revision": 1541206156,
+            "author": 8343886,
+            "stamp": 1767238233,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1541206151,
+            "author": 8343886,
+            "stamp": 1767238213,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1540171751,
+            "author": 8343886,
+            "stamp": 1764742499,
+            "flags": "A",
+            "commentary": "移除标签：一般文档。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1539339042,
+            "author": 8343886,
+            "stamp": 1762950452,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1527617906,
+            "author": 8356393,
+            "stamp": 1738842189,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1527604896,
+            "author": 6251737,
+            "stamp": 1738767504,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1525922162,
+            "author": 8343886,
+            "stamp": 1732269059,
+            "flags": "A",
+            "commentary": "已新增标签：一般文档, 西半球。 移除标签：无政府, 次要文档, 沿海, 自由共产主义。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1523071510,
+            "author": 6251737,
+            "stamp": 1721189048,
+            "flags": "A",
+            "commentary": "已新增标签：次要文档。 移除标签：次要设定。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1518110267,
+            "author": 6251737,
+            "stamp": 1707371267,
+            "flags": "A",
+            "commentary": "已新增标签：次要设定, 自由共产主义。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1516645617,
+            "author": 7679098,
+            "stamp": 1702377355,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1516634748,
+            "author": 7679098,
+            "stamp": 1702344606,
+            "flags": "A",
+            "commentary": "已新增标签：国家, 无政府, 沿海, 积极。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1516634737,
+            "author": 7679098,
+            "stamp": 1702344535,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1451757132,
+    "rating": 6,
+    "forum_thread": 16516562,
+    "tags": [
+        "国家",
+        "积极",
+        "西半球"
+    ],
+    "title": "卡斯坦",
+    "sitemap_update": 1767238233000,
+    "votings": [
+        [
+            8710540,
+            true
+        ],
+        [
+            8931843,
+            true
+        ],
+        [
+            7900298,
+            true
+        ],
+        [
+            8457826,
+            true
+        ],
+        [
+            6251737,
+            false
+        ],
+        [
+            8343886,
+            true
+        ],
+        [
+            8543531,
+            false
+        ],
+        [
+            8118764,
+            true
+        ],
+        [
+            8553227,
+            true
+        ],
+        [
+            8979576,
+            true
+        ]
+    ],
+    "is_locked": false
+}

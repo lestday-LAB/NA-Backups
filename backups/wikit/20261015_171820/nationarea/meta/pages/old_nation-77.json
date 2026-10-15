@@ -1,0 +1,865 @@
+{
+    "name": "old:nation-77",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 85,
+            "global_revision": 1539339617,
+            "author": 8343886,
+            "stamp": 1762951847,
+            "flags": "A",
+            "commentary": "已新增标签：归档页。 移除标签：东半球, 国家, 奇异居民, 悲喜交加, 核心文档, 格式错乱, 浪漫, 物理异常, 精选, 调查中, 隐秘。"
+        },
+        {
+            "revision": 84,
+            "global_revision": 1539339610,
+            "author": 8343886,
+            "stamp": 1762951820,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 83,
+            "global_revision": 1530656116,
+            "author": 8343886,
+            "stamp": 1750850159,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"hidden:nation-77\" 至 \"old:nation-77\"."
+        },
+        {
+            "revision": 82,
+            "global_revision": 1530656078,
+            "author": 8343886,
+            "stamp": 1750850147,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"old:nation-77\" 至 \"hidden:nation-77\"."
+        },
+        {
+            "revision": 81,
+            "global_revision": 1530656077,
+            "author": 8343886,
+            "stamp": 1750850134,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"hidden:nation-77\" 至 \"old:nation-77\"."
+        },
+        {
+            "revision": 80,
+            "global_revision": 1528500881,
+            "author": 6251737,
+            "stamp": 1742222389,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"nation-77\" 至 \"hidden:nation-77\"."
+        },
+        {
+            "revision": 79,
+            "global_revision": 1528500862,
+            "author": 6251737,
+            "stamp": 1742222352,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 78,
+            "global_revision": 1528413961,
+            "author": 6251737,
+            "stamp": 1741873091,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 77,
+            "global_revision": 1526210240,
+            "author": 6251737,
+            "stamp": 1733396420,
+            "flags": "A",
+            "commentary": "已新增标签：悲喜交加。"
+        },
+        {
+            "revision": 76,
+            "global_revision": 1525949146,
+            "author": 6251737,
+            "stamp": 1732409097,
+            "flags": "A",
+            "commentary": "已新增标签：精选。"
+        },
+        {
+            "revision": 75,
+            "global_revision": 1525939285,
+            "author": 6251737,
+            "stamp": 1732349513,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 74,
+            "global_revision": 1525939278,
+            "author": 6251737,
+            "stamp": 1732349471,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 73,
+            "global_revision": 1525934990,
+            "author": 6251737,
+            "stamp": 1732335484,
+            "flags": "A",
+            "commentary": "已新增标签：物理异常。"
+        },
+        {
+            "revision": 72,
+            "global_revision": 1525922245,
+            "author": 8343886,
+            "stamp": 1732269463,
+            "flags": "A",
+            "commentary": "已新增标签：东半球, 核心文档。 移除标签：一般文档, 人权保护, 大萧条, 悲喜交加, 极权共产主义, 沿海, 物理异常, 精选, 讽刺, 资源控制。"
+        },
+        {
+            "revision": 71,
+            "global_revision": 1525881660,
+            "author": 6251737,
+            "stamp": 1731998393,
+            "flags": "A",
+            "commentary": "已新增标签：浪漫。"
+        },
+        {
+            "revision": 70,
+            "global_revision": 1523189611,
+            "author": 6251737,
+            "stamp": 1721786113,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 69,
+            "global_revision": 1523189542,
+            "author": 6251737,
+            "stamp": 1721786082,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 68,
+            "global_revision": 1523189534,
+            "author": 6251737,
+            "stamp": 1721786040,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 67,
+            "global_revision": 1523071614,
+            "author": 6251737,
+            "stamp": 1721189401,
+            "flags": "A",
+            "commentary": "已新增标签：一般文档。 移除标签：过渡设定。"
+        },
+        {
+            "revision": 66,
+            "global_revision": 1523056792,
+            "author": 6251737,
+            "stamp": 1721099579,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 65,
+            "global_revision": 1522951097,
+            "author": 6251737,
+            "stamp": 1720514218,
+            "flags": "F",
+            "commentary": "已上传文件 “n773.png”。"
+        },
+        {
+            "revision": 64,
+            "global_revision": 1522951094,
+            "author": 6251737,
+            "stamp": 1720514200,
+            "flags": "F",
+            "commentary": "已删除文件 “n773.png”。"
+        },
+        {
+            "revision": 63,
+            "global_revision": 1518530861,
+            "author": 6251737,
+            "stamp": 1708774623,
+            "flags": "A",
+            "commentary": "移除标签：猫猫。"
+        },
+        {
+            "revision": 62,
+            "global_revision": 1518522538,
+            "author": 6251737,
+            "stamp": 1708736395,
+            "flags": "A",
+            "commentary": "已新增标签：猫猫。"
+        },
+        {
+            "revision": 61,
+            "global_revision": 1518311731,
+            "author": 8343886,
+            "stamp": 1708172336,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 60,
+            "global_revision": 1518311612,
+            "author": 8343886,
+            "stamp": 1708171750,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 59,
+            "global_revision": 1518222371,
+            "author": 6251737,
+            "stamp": 1707831358,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 58,
+            "global_revision": 1518222362,
+            "author": 6251737,
+            "stamp": 1707831318,
+            "flags": "F",
+            "commentary": "已上传文件 “n773.png”。"
+        },
+        {
+            "revision": 57,
+            "global_revision": 1518222358,
+            "author": 6251737,
+            "stamp": 1707831291,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 56,
+            "global_revision": 1518110313,
+            "author": 6251737,
+            "stamp": 1707371614,
+            "flags": "A",
+            "commentary": "移除标签：极左翼, 独裁化。"
+        },
+        {
+            "revision": 55,
+            "global_revision": 1518095737,
+            "author": 6251737,
+            "stamp": 1707305209,
+            "flags": "A",
+            "commentary": "已新增标签：极权共产主义。"
+        },
+        {
+            "revision": 54,
+            "global_revision": 1518088922,
+            "author": 6251737,
+            "stamp": 1707273797,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 53,
+            "global_revision": 1518088917,
+            "author": 6251737,
+            "stamp": 1707273759,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 52,
+            "global_revision": 1517083402,
+            "author": 6251737,
+            "stamp": 1704027354,
+            "flags": "A",
+            "commentary": "已新增标签：极左翼。"
+        },
+        {
+            "revision": 51,
+            "global_revision": 1516701213,
+            "author": 6251737,
+            "stamp": 1702550880,
+            "flags": "A",
+            "commentary": "已新增标签：大萧条, 格式错乱, 过渡设定。"
+        },
+        {
+            "revision": 50,
+            "global_revision": 1516575734,
+            "author": 8343886,
+            "stamp": 1702119178,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 49,
+            "global_revision": 1516575716,
+            "author": 8343886,
+            "stamp": 1702119039,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 48,
+            "global_revision": 1516575704,
+            "author": 8343886,
+            "stamp": 1702118977,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 47,
+            "global_revision": 1516575691,
+            "author": 8343886,
+            "stamp": 1702118879,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 46,
+            "global_revision": 1516575659,
+            "author": 8343886,
+            "stamp": 1702118591,
+            "flags": "A",
+            "commentary": "移除标签：极左翼。"
+        },
+        {
+            "revision": 45,
+            "global_revision": 1516575654,
+            "author": 8343886,
+            "stamp": 1702118569,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 44,
+            "global_revision": 1516426663,
+            "author": 6251737,
+            "stamp": 1701505714,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 43,
+            "global_revision": 1515923401,
+            "author": 6251737,
+            "stamp": 1699684524,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 42,
+            "global_revision": 1515918805,
+            "author": 6251737,
+            "stamp": 1699663760,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 41,
+            "global_revision": 1515910563,
+            "author": 6251737,
+            "stamp": 1699618454,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 40,
+            "global_revision": 1515910397,
+            "author": 6251737,
+            "stamp": 1699617821,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 39,
+            "global_revision": 1515910379,
+            "author": 6251737,
+            "stamp": 1699617713,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 38,
+            "global_revision": 1515910278,
+            "author": 6251737,
+            "stamp": 1699617394,
+            "flags": "S",
+            "commentary": "我恨代码"
+        },
+        {
+            "revision": 37,
+            "global_revision": 1515910273,
+            "author": 6251737,
+            "stamp": 1699617355,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 36,
+            "global_revision": 1515910263,
+            "author": 6251737,
+            "stamp": 1699617290,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 35,
+            "global_revision": 1515784950,
+            "author": 8324175,
+            "stamp": 1699114142,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 33"
+        },
+        {
+            "revision": 34,
+            "global_revision": 1515784251,
+            "author": 8841413,
+            "stamp": 1699111984,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 33,
+            "global_revision": 1515209078,
+            "author": 6251737,
+            "stamp": 1697888503,
+            "flags": "A",
+            "commentary": "已新增标签：精选。 移除标签：精品。"
+        },
+        {
+            "revision": 32,
+            "global_revision": 1515207325,
+            "author": 8343886,
+            "stamp": 1697883933,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 31,
+            "global_revision": 1515207310,
+            "author": 8343886,
+            "stamp": 1697883889,
+            "flags": "A",
+            "commentary": "已新增标签：精品。"
+        },
+        {
+            "revision": 30,
+            "global_revision": 1515205600,
+            "author": 6251737,
+            "stamp": 1697878168,
+            "flags": "F",
+            "commentary": "附件 “sunrise-1014712_1280.jpg” 已重新命名为 “n772.jpg”。"
+        },
+        {
+            "revision": 29,
+            "global_revision": 1514386180,
+            "author": 6251737,
+            "stamp": 1696164916,
+            "flags": "S",
+            "commentary": "换奖章"
+        },
+        {
+            "revision": 28,
+            "global_revision": 1514340861,
+            "author": 8343886,
+            "stamp": 1695992406,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 27,
+            "global_revision": 1514334656,
+            "author": 8343886,
+            "stamp": 1695970805,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 26,
+            "global_revision": 1514334652,
+            "author": 8343886,
+            "stamp": 1695970789,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 25,
+            "global_revision": 1514331715,
+            "author": 6251737,
+            "stamp": 1695959929,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 20"
+        },
+        {
+            "revision": 24,
+            "global_revision": 1514331711,
+            "author": 6251737,
+            "stamp": 1695959907,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 23,
+            "global_revision": 1514331706,
+            "author": 6251737,
+            "stamp": 1695959878,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 21"
+        },
+        {
+            "revision": 22,
+            "global_revision": 1514331703,
+            "author": 6251737,
+            "stamp": 1695959845,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 21,
+            "global_revision": 1514331668,
+            "author": 6251737,
+            "stamp": 1695959809,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 20,
+            "global_revision": 1514331550,
+            "author": 8343886,
+            "stamp": 1695959384,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 19,
+            "global_revision": 1514317751,
+            "author": 6251737,
+            "stamp": 1695910933,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1514317024,
+            "author": 6251737,
+            "stamp": 1695908765,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1514316997,
+            "author": 6251737,
+            "stamp": 1695908707,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1514316943,
+            "author": 6251737,
+            "stamp": 1695908585,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1514266762,
+            "author": 8343886,
+            "stamp": 1695742034,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1514192353,
+            "author": 8343886,
+            "stamp": 1695540895,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1514192350,
+            "author": 8343886,
+            "stamp": 1695540856,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1514012305,
+            "author": 6251737,
+            "stamp": 1695013808,
+            "flags": "A",
+            "commentary": "移除标签：施工中。"
+        },
+        {
+            "revision": 11,
+            "global_revision": 1513998167,
+            "author": 6251737,
+            "stamp": 1694960094,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1513998153,
+            "author": 8343886,
+            "stamp": 1694960048,
+            "flags": "F",
+            "commentary": "已上传文件 “sunrise-1014712_1280.jpg”。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1513998144,
+            "author": 8343886,
+            "stamp": 1694960025,
+            "flags": "F",
+            "commentary": "已上传文件 “n771.jpg”。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1513998080,
+            "author": 6251737,
+            "stamp": 1694959828,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1513997954,
+            "author": 6251737,
+            "stamp": 1694959495,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1513986122,
+            "author": 8343886,
+            "stamp": 1694920612,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"uncooled:nation-77\" 至 \"nation-77\"."
+        },
+        {
+            "revision": 5,
+            "global_revision": 1513945219,
+            "author": 8343886,
+            "stamp": 1694777209,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"nation-77\" 至 \"uncooled:nation-77\"."
+        },
+        {
+            "revision": 4,
+            "global_revision": 1513945154,
+            "author": 8343886,
+            "stamp": 1694776893,
+            "flags": "A",
+            "commentary": "已新增标签：施工中。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1513945041,
+            "author": 8343886,
+            "stamp": 1694776615,
+            "flags": "A",
+            "commentary": "移除标签：神风。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1513944693,
+            "author": 6251737,
+            "stamp": 1694774235,
+            "flags": "A",
+            "commentary": "已新增标签：神风, 讽刺。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1513944509,
+            "author": 6251737,
+            "stamp": 1694773404,
+            "flags": "A",
+            "commentary": "已新增标签：人权保护, 国家, 奇异居民, 悲喜交加, 极左翼, 沿海, 物理异常, 独裁化, 调查中, 资源控制, 隐秘。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1513944455,
+            "author": 6251737,
+            "stamp": 1694773274,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 10559728,
+            "name": "n771.jpg",
+            "url": "http://nationarea.wikidot.com/local--files/old:nation-77/n771.jpg",
+            "size": "122.49 kB (125425 Bytes)",
+            "size_bytes": 125425,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 1280x770, components 3",
+            "author": 8343886,
+            "stamp": 1694960025,
+            "internal_version": 1
+        },
+        {
+            "file_id": 10559732,
+            "name": "n772.jpg",
+            "url": "http://nationarea.wikidot.com/local--files/old:nation-77/n772.jpg",
+            "size": "132.18 kB (135352 Bytes)",
+            "size_bytes": 135352,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 1280x845, components 3",
+            "author": 8343886,
+            "stamp": 1694960048,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11128297,
+            "name": "n773.png",
+            "url": "http://nationarea.wikidot.com/local--files/old:nation-77/n773.png",
+            "size": "52.01 kB (53258 Bytes)",
+            "size_bytes": 53258,
+            "mime": "image/png",
+            "content": "PNG image data, 892 x 531, 8-bit/color RGBA, non-interlaced",
+            "author": 6251737,
+            "stamp": 1720514218,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1449984134,
+    "tags": [
+        "归档页"
+    ],
+    "title": "猫猫抵抗阵线",
+    "sitemap_update": 1762951847000,
+    "votings": [
+        [
+            8462980,
+            true
+        ],
+        [
+            8376506,
+            true
+        ],
+        [
+            8747311,
+            false
+        ],
+        [
+            6265874,
+            true
+        ],
+        [
+            8316541,
+            true
+        ],
+        [
+            8741380,
+            true
+        ],
+        [
+            8854856,
+            true
+        ],
+        [
+            8356393,
+            true
+        ],
+        [
+            5429924,
+            true
+        ],
+        [
+            8710540,
+            true
+        ],
+        [
+            8931843,
+            true
+        ],
+        [
+            7921106,
+            true
+        ],
+        [
+            9201465,
+            true
+        ],
+        [
+            9015246,
+            true
+        ],
+        [
+            8457826,
+            true
+        ],
+        [
+            8885035,
+            true
+        ],
+        [
+            8724677,
+            true
+        ],
+        [
+            8426633,
+            true
+        ],
+        [
+            6251737,
+            false
+        ],
+        [
+            8325214,
+            true
+        ],
+        [
+            8343886,
+            true
+        ],
+        [
+            8452950,
+            true
+        ],
+        [
+            8445047,
+            true
+        ],
+        [
+            8878416,
+            true
+        ],
+        [
+            8543531,
+            false
+        ],
+        [
+            8719834,
+            true
+        ],
+        [
+            8749929,
+            true
+        ],
+        [
+            8386863,
+            true
+        ],
+        [
+            8666147,
+            true
+        ],
+        [
+            8695935,
+            true
+        ],
+        [
+            9321893,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,72 @@
+{
+    "title": "脚注折叠模块",
+    "id": 16448169,
+    "description": "",
+    "last": 1700044192,
+    "lastUser": 8108397,
+    "started": 1699509364,
+    "startedUser": null,
+    "postsNum": 5,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 6242982,
+            "title": "",
+            "poster": 8457826,
+            "stamp": 1699509377,
+            "lastEdit": 1699667956,
+            "lastEditBy": 8457826,
+            "revisions": [
+                {
+                    "title": "",
+                    "author": 8457826,
+                    "id": 7591656,
+                    "stamp": 1699667956
+                },
+                {
+                    "title": "",
+                    "author": 8457826,
+                    "id": 7589929,
+                    "stamp": 1699509377
+                }
+            ],
+            "children": [
+                {
+                    "id": 6243474,
+                    "title": "",
+                    "poster": 8343886,
+                    "stamp": 1699575371,
+                    "revisions": [],
+                    "children": [
+                        {
+                            "id": 6243823,
+                            "title": "",
+                            "poster": 6251737,
+                            "stamp": 1699617197,
+                            "revisions": [],
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": 6246208,
+                    "title": "",
+                    "poster": 8343886,
+                    "stamp": 1699881153,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": 6247643,
+            "title": "",
+            "poster": 8108397,
+            "stamp": 1700044192,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

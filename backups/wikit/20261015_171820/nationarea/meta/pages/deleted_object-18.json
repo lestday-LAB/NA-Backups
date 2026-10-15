@@ -1,0 +1,61 @@
+{
+    "name": "deleted:object-18",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1545884799,
+            "author": 8325214,
+            "stamp": 1786440874,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"object-18\" 至 \"deleted:object-18\"."
+        },
+        {
+            "revision": 2,
+            "global_revision": 1526053385,
+            "author": 8325214,
+            "stamp": 1733044028,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1526053381,
+            "author": 8325214,
+            "stamp": 1733043961,
+            "flags": "A",
+            "commentary": "已新增标签：物品。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1526053379,
+            "author": 8325214,
+            "stamp": 1733043933,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1457459308,
+    "rating": 1,
+    "tags": [
+        "物品"
+    ],
+    "title": "Object 18_分解弹",
+    "sitemap_update": 1786440874000,
+    "votings": [
+        [
+            8462980,
+            false
+        ],
+        [
+            6251737,
+            true
+        ],
+        [
+            8325214,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,210 @@
+{
+    "name": "canon:kedr",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 18,
+            "global_revision": 1545307439,
+            "author": 9610670,
+            "stamp": 1784383917,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1545307430,
+            "author": 9610670,
+            "stamp": 1784383885,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1545169510,
+            "author": 9610670,
+            "stamp": 1783831949,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1542967825,
+            "author": 9610670,
+            "stamp": 1774690257,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1542967320,
+            "author": 8343886,
+            "stamp": 1774688201,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"kedr\" 至 \"canon:kedr\"."
+        },
+        {
+            "revision": 13,
+            "global_revision": 1540058671,
+            "author": 8343886,
+            "stamp": 1764465127,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1539815013,
+            "author": 8343886,
+            "stamp": 1763823462,
+            "flags": "A",
+            "commentary": "移除标签：星球。"
+        },
+        {
+            "revision": 11,
+            "global_revision": 1539762790,
+            "author": 9610670,
+            "stamp": 1763640807,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1539538887,
+            "author": 9610670,
+            "stamp": 1763275369,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1538436592,
+            "author": 9610670,
+            "stamp": 1762321648,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1538040579,
+            "author": 9610670,
+            "stamp": 1762180072,
+            "flags": "A",
+            "commentary": "已新增标签：伊德尔, 星球, 设定中心。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1538033232,
+            "author": 9610670,
+            "stamp": 1762178869,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1538032810,
+            "author": 9610670,
+            "stamp": 1762178799,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1538031886,
+            "author": 9610670,
+            "stamp": 1762178648,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1538031795,
+            "author": 9610670,
+            "stamp": 1762178628,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1538031399,
+            "author": 9610670,
+            "stamp": 1762178563,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1538027547,
+            "author": 9610670,
+            "stamp": 1762177917,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1538026828,
+            "author": 9610670,
+            "stamp": 1762177813,
+            "flags": "F",
+            "commentary": "已上传文件 “114514”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1538025560,
+            "author": 9610670,
+            "stamp": 1762177587,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11633601,
+            "name": "114514",
+            "url": "http://nationarea.wikidot.com/local--files/canon:kedr/114514",
+            "size": "799.95 kB (819148 Bytes)",
+            "size_bytes": 819148,
+            "mime": "image/png",
+            "content": "PNG image data, 2048 x 1180, 8-bit/color RGBA, non-interlaced",
+            "author": 9610670,
+            "stamp": 1762177813,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1465446850,
+    "tags": [
+        "伊德尔",
+        "设定中心"
+    ],
+    "title": "伊德尔 中心页",
+    "sitemap_update": 1784383917000,
+    "votings": [
+        [
+            8316541,
+            true
+        ],
+        [
+            8426633,
+            true
+        ],
+        [
+            6251737,
+            false
+        ],
+        [
+            8325214,
+            true
+        ],
+        [
+            9898928,
+            false
+        ],
+        [
+            9610670,
+            true
+        ],
+        [
+            8553227,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,47 @@
+{
+    "name": "democracy",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1547208019,
+            "author": 8343886,
+            "stamp": 1790822506,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1547207925,
+            "author": 8343886,
+            "stamp": 1790822129,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1547207922,
+            "author": 8343886,
+            "stamp": 1790822110,
+            "flags": "A",
+            "commentary": "已新增标签：公共政策。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1547207920,
+            "author": 8343886,
+            "stamp": 1790822101,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469429045,
+    "tags": [
+        "公共政策"
+    ],
+    "title": "社区的民主政策",
+    "sitemap_update": 1790822506000,
+    "votings": [],
+    "is_locked": false
+}
