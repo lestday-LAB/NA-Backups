@@ -1,0 +1,31 @@
+{
+    "name": "violation-review-policy",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1547500242,
+            "author": 8343886,
+            "stamp": 1792153764,
+            "flags": "A",
+            "commentary": "已新增标签：公共政策。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1547500234,
+            "author": 8343886,
+            "stamp": 1792153746,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469506421,
+    "tags": [
+        "公共政策"
+    ],
+    "title": "违规审查政策",
+    "sitemap_update": 1792153764000,
+    "votings": [],
+    "is_locked": false
+}
