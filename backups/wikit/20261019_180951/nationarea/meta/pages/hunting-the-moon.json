@@ -1,0 +1,62 @@
+{
+    "name": "hunting-the-moon",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1545258642,
+            "author": 8724677,
+            "stamp": 1784183348,
+            "flags": "A",
+            "commentary": "移除标签：2026奔赴月球活动。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1545258527,
+            "author": 8724677,
+            "stamp": 1784182677,
+            "flags": "A",
+            "commentary": "已新增标签：2026奔赴月球活动, 故事, 星际, 积极。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1545258490,
+            "author": 8724677,
+            "stamp": 1784182432,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545258486,
+            "author": 8724677,
+            "stamp": 1784182409,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468988750,
+    "tags": [
+        "故事",
+        "星际",
+        "积极"
+    ],
+    "title": "猎月一号",
+    "sitemap_update": 1784183348000,
+    "votings": [
+        [
+            9899603,
+            true
+        ],
+        [
+            8343886,
+            true
+        ],
+        [
+            9287872,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,85 @@
+{
+    "name": "old:exile",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1547500657,
+            "author": 8343886,
+            "stamp": 1792155333,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1547500652,
+            "author": 8343886,
+            "stamp": 1792155312,
+            "flags": "A",
+            "commentary": "已新增标签：归档页。 移除标签：故事, 消极, 跫然荒凉。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1547500648,
+            "author": 8343886,
+            "stamp": 1792155299,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"exile\" 至 \"old:exile\"."
+        },
+        {
+            "revision": 2,
+            "global_revision": 1527364714,
+            "author": 8343886,
+            "stamp": 1737468464,
+            "flags": "A",
+            "commentary": "移除标签：远航与探索。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1519457978,
+            "author": 6348600,
+            "stamp": 1712390577,
+            "flags": "A",
+            "commentary": "已新增标签：故事, 消极, 跫然荒凉, 远航与探索。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1519457956,
+            "author": 6348600,
+            "stamp": 1712390450,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1453261605,
+    "rating": 5,
+    "tags": [
+        "归档页"
+    ],
+    "title": "流亡者（无归属）",
+    "sitemap_update": 1792155333000,
+    "votings": [
+        [
+            8464470,
+            true
+        ],
+        [
+            8710540,
+            true
+        ],
+        [
+            8979477,
+            true
+        ],
+        [
+            8343886,
+            true
+        ],
+        [
+            8118764,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,39 @@
+{
+    "name": "component:achievement-bk",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1529156976,
+            "author": 9102405,
+            "stamp": 1744200874,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1529156846,
+            "author": 9102405,
+            "stamp": 1744200677,
+            "flags": "A",
+            "commentary": "已新增标签：组件后端。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1529156845,
+            "author": 9102405,
+            "stamp": 1744200669,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459138845,
+    "tags": [
+        "组件后端"
+    ],
+    "title": "成就组件后端",
+    "sitemap_update": 1744200874000,
+    "votings": [],
+    "is_locked": false
+}
