@@ -1,0 +1,39 @@
+{
+    "title": "2024 音乐竞赛",
+    "id": 16955118,
+    "description": "",
+    "last": 1735999485,
+    "lastUser": 8374306,
+    "started": 1727711914,
+    "startedUser": null,
+    "postsNum": 3,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 6672986,
+            "title": "我资助这一个竞赛",
+            "poster": 8248071,
+            "stamp": 1727754726,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 6676032,
+            "title": "不是职员帖-不删除宣告:-2了",
+            "poster": 8316541,
+            "stamp": 1728055129,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 6766904,
+            "title": "",
+            "poster": 8374306,
+            "stamp": 1735999485,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

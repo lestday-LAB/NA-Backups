@@ -1,0 +1,453 @@
+{
+    "name": "old:nation-11",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 44,
+            "global_revision": 1528936194,
+            "author": 8343886,
+            "stamp": 1743305068,
+            "flags": "S",
+            "commentary": "有关重新命名页面：“old:nation-10” 改为 “nation-10” 的自动更新。"
+        },
+        {
+            "revision": 43,
+            "global_revision": 1528936173,
+            "author": 8343886,
+            "stamp": 1743305015,
+            "flags": "S",
+            "commentary": "有关重新命名页面：“nation-10” 改为 “old:nation-10” 的自动更新。"
+        },
+        {
+            "revision": 42,
+            "global_revision": 1528147776,
+            "author": 8343886,
+            "stamp": 1740834958,
+            "flags": "S",
+            "commentary": "有关重新命名页面：“nation-21” 改为 “nation-184” 的自动更新。"
+        },
+        {
+            "revision": 41,
+            "global_revision": 1526982962,
+            "author": 8343886,
+            "stamp": 1735382194,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 40,
+            "global_revision": 1526035586,
+            "author": 8343886,
+            "stamp": 1732937839,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"nation-11\" 至 \"old:nation-11\"."
+        },
+        {
+            "revision": 39,
+            "global_revision": 1526035585,
+            "author": 8343886,
+            "stamp": 1732937806,
+            "flags": "A",
+            "commentary": "已新增标签：归档页。 移除标签：东半球, 国家, 次要文档。"
+        },
+        {
+            "revision": 38,
+            "global_revision": 1525845996,
+            "author": 8343886,
+            "stamp": 1731770183,
+            "flags": "A",
+            "commentary": "已新增标签：东半球。 移除标签：民主社会主义。"
+        },
+        {
+            "revision": 37,
+            "global_revision": 1525845992,
+            "author": 8343886,
+            "stamp": 1731770165,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 36,
+            "global_revision": 1525542628,
+            "author": 8343886,
+            "stamp": 1730474634,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 35,
+            "global_revision": 1525542612,
+            "author": 8343886,
+            "stamp": 1730474548,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 34,
+            "global_revision": 1524679893,
+            "author": 6251737,
+            "stamp": 1726654315,
+            "flags": "A",
+            "commentary": "已新增标签：次要文档。 移除标签：边缘文档。"
+        },
+        {
+            "revision": 33,
+            "global_revision": 1523071358,
+            "author": 6251737,
+            "stamp": 1721188318,
+            "flags": "A",
+            "commentary": "已新增标签：边缘文档。 移除标签：边缘设定。"
+        },
+        {
+            "revision": 32,
+            "global_revision": 1518592802,
+            "author": 8343886,
+            "stamp": 1708865493,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 31,
+            "global_revision": 1518592791,
+            "author": 8343886,
+            "stamp": 1708865454,
+            "flags": "A",
+            "commentary": "移除标签：未完成, 重写中。"
+        },
+        {
+            "revision": 30,
+            "global_revision": 1518592784,
+            "author": 8343886,
+            "stamp": 1708865421,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 29,
+            "global_revision": 1518592570,
+            "author": 8343886,
+            "stamp": 1708864234,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 28,
+            "global_revision": 1518592467,
+            "author": 8343886,
+            "stamp": 1708863765,
+            "flags": "F",
+            "commentary": "已上传文件 “City”。"
+        },
+        {
+            "revision": 27,
+            "global_revision": 1518592461,
+            "author": 8343886,
+            "stamp": 1708863739,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 26,
+            "global_revision": 1518592430,
+            "author": 8343886,
+            "stamp": 1708863585,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 25,
+            "global_revision": 1518592411,
+            "author": 8343886,
+            "stamp": 1708863426,
+            "flags": "F",
+            "commentary": "已上传文件 “Canal”。"
+        },
+        {
+            "revision": 24,
+            "global_revision": 1518592407,
+            "author": 8343886,
+            "stamp": 1708863373,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 23,
+            "global_revision": 1518516031,
+            "author": 8343886,
+            "stamp": 1708702997,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 22,
+            "global_revision": 1518515910,
+            "author": 8343886,
+            "stamp": 1708702417,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 21,
+            "global_revision": 1518515899,
+            "author": 8343886,
+            "stamp": 1708702363,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 20,
+            "global_revision": 1518515891,
+            "author": 8343886,
+            "stamp": 1708702316,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 19,
+            "global_revision": 1518515861,
+            "author": 8343886,
+            "stamp": 1708702101,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1518515852,
+            "author": 8343886,
+            "stamp": 1708702056,
+            "flags": "F",
+            "commentary": "已上传文件 “congress”。"
+        },
+        {
+            "revision": 17,
+            "global_revision": 1518515778,
+            "author": 8343886,
+            "stamp": 1708701820,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1518515486,
+            "author": 8343886,
+            "stamp": 1708700439,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1518363337,
+            "author": 8343886,
+            "stamp": 1708395423,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1518362669,
+            "author": 8343886,
+            "stamp": 1708391893,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1518362495,
+            "author": 8343886,
+            "stamp": 1708391018,
+            "flags": "A",
+            "commentary": "已新增标签：未完成, 重写中。"
+        },
+        {
+            "revision": 12,
+            "global_revision": 1518277293,
+            "author": 8343886,
+            "stamp": 1708048492,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1518110031,
+            "author": 6251737,
+            "stamp": 1707370319,
+            "flags": "A",
+            "commentary": "已新增标签：民主社会主义, 边缘设定。 移除标签：左翼, 民主化。"
+        },
+        {
+            "revision": 10,
+            "global_revision": 1516949235,
+            "author": 8343886,
+            "stamp": 1703309224,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1514971792,
+            "author": 8343886,
+            "stamp": 1697335611,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1514266532,
+            "author": 8343886,
+            "stamp": 1695741593,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1514266530,
+            "author": 8343886,
+            "stamp": 1695741579,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1514266529,
+            "author": 8343886,
+            "stamp": 1695741566,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1514187978,
+            "author": 8343886,
+            "stamp": 1695526341,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1514154002,
+            "author": 8343886,
+            "stamp": 1695446419,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1513687629,
+            "author": 8343886,
+            "stamp": 1693735976,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1513065726,
+            "author": 8343886,
+            "stamp": 1692273499,
+            "flags": "A",
+            "commentary": "已新增标签：国家, 左翼, 民主化。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1513059908,
+            "author": 8742190,
+            "stamp": 1692254754,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1513059902,
+            "author": 8742190,
+            "stamp": 1692254732,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 10983514,
+            "name": "Canal",
+            "url": "http://nationarea.wikidot.com/local--files/old:nation-11/Canal",
+            "size": "315.79 kB (323372 Bytes)",
+            "size_bytes": 323372,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 1280x960, components 3",
+            "author": 8343886,
+            "stamp": 1708863426,
+            "internal_version": 1
+        },
+        {
+            "file_id": 10983517,
+            "name": "City",
+            "url": "http://nationarea.wikidot.com/local--files/old:nation-11/City",
+            "size": "523.85 kB (536420 Bytes)",
+            "size_bytes": 536420,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 1280x854, components 3",
+            "author": 8343886,
+            "stamp": 1708863765,
+            "internal_version": 1
+        },
+        {
+            "file_id": 10982281,
+            "name": "congress",
+            "url": "http://nationarea.wikidot.com/local--files/old:nation-11/congress",
+            "size": "28.81 kB (29498 Bytes)",
+            "size_bytes": 29498,
+            "mime": "image/svg+xml; charset=us-ascii",
+            "content": "SVG Scalable Vector Graphics image",
+            "author": 8343886,
+            "stamp": 1708702056,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1449419342,
+    "tags": [
+        "归档页"
+    ],
+    "title": "Nation 11（旧）",
+    "sitemap_update": 1743305068000,
+    "votings": [
+        [
+            8741503,
+            true
+        ],
+        [
+            8376506,
+            true
+        ],
+        [
+            8248071,
+            true
+        ],
+        [
+            8343663,
+            true
+        ],
+        [
+            8426633,
+            false
+        ],
+        [
+            6251737,
+            false
+        ],
+        [
+            8343886,
+            true
+        ],
+        [
+            8543531,
+            false
+        ],
+        [
+            8564954,
+            true
+        ],
+        [
+            8386863,
+            false
+        ]
+    ],
+    "is_locked": false
+}

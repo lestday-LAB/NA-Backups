@@ -1,0 +1,144 @@
+{
+    "name": "old:arsoned",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 11,
+            "global_revision": 1527427972,
+            "author": 8343886,
+            "stamp": 1737815781,
+            "flags": "A",
+            "commentary": "已新增标签：归档页。 移除标签：种族。"
+        },
+        {
+            "revision": 10,
+            "global_revision": 1527427966,
+            "author": 8343886,
+            "stamp": 1737815765,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1527427959,
+            "author": 8343886,
+            "stamp": 1737815745,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"arsoned\" 至 \"old:arsoned\"."
+        },
+        {
+            "revision": 8,
+            "global_revision": 1518875795,
+            "author": 9016636,
+            "stamp": 1710049634,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1518875789,
+            "author": 9016636,
+            "stamp": 1710049597,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1518875612,
+            "author": 9016636,
+            "stamp": 1710048766,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1518867873,
+            "author": 9016636,
+            "stamp": 1710001238,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1518866972,
+            "author": 9016636,
+            "stamp": 1709996321,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1518846932,
+            "author": 9016636,
+            "stamp": 1709901553,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1518834535,
+            "author": 8343886,
+            "stamp": 1709825201,
+            "flags": "A",
+            "commentary": "已新增标签：种族。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1518834531,
+            "author": 8343886,
+            "stamp": 1709825188,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"checking:arsoned\" 至 \"arsoned\"."
+        },
+        {
+            "revision": 0,
+            "global_revision": 1518831451,
+            "author": 9016636,
+            "stamp": 1709812341,
+            "flags": "N",
+            "commentary": "帮我把它归入种族档案馆。"
+        }
+    ],
+    "files": [],
+    "page_id": 1452943217,
+    "tags": [
+        "归档页"
+    ],
+    "title": "阿尔斯人（旧）",
+    "sitemap_update": 1737815781000,
+    "votings": [
+        [
+            8443876,
+            false
+        ],
+        [
+            8248071,
+            true
+        ],
+        [
+            8256969,
+            true
+        ],
+        [
+            8316541,
+            false
+        ],
+        [
+            8464470,
+            false
+        ],
+        [
+            8345010,
+            true
+        ],
+        [
+            8118764,
+            true
+        ],
+        [
+            8553227,
+            true
+        ]
+    ],
+    "is_locked": false
+}

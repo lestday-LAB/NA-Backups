@@ -1,0 +1,200 @@
+{
+    "name": "old:encounter-competition-2025",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 12,
+            "global_revision": 1541197761,
+            "author": 8343886,
+            "stamp": 1767189128,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"encounter-competition-2025\" 至 \"old:encounter-competition-2025\"."
+        },
+        {
+            "revision": 11,
+            "global_revision": 1541197757,
+            "author": 8343886,
+            "stamp": 1767189118,
+            "flags": "A",
+            "commentary": "已新增标签：归档页。"
+        },
+        {
+            "revision": 10,
+            "global_revision": 1532966770,
+            "author": 8553227,
+            "stamp": 1760232491,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1532599797,
+            "author": 8553227,
+            "stamp": 1759399289,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1532599754,
+            "author": 8553227,
+            "stamp": 1759399154,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1532599727,
+            "author": 8553227,
+            "stamp": 1759399086,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1532599714,
+            "author": 8553227,
+            "stamp": 1759399032,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1532599704,
+            "author": 8553227,
+            "stamp": 1759398996,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532599580,
+            "author": 8553227,
+            "stamp": 1759398716,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532599524,
+            "author": 8553227,
+            "stamp": 1759398461,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532599509,
+            "author": 8553227,
+            "stamp": 1759398405,
+            "flags": "F",
+            "commentary": "已上传文件 “Encounter competition 2025”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532599498,
+            "author": 8553227,
+            "stamp": 1759398353,
+            "flags": "A",
+            "commentary": "已新增标签：2025相遇活动, 活动。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532599489,
+            "author": 8553227,
+            "stamp": 1759398309,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11477869,
+            "name": "Encounter competition 2025",
+            "url": "http://nationarea.wikidot.com/local--files/old:encounter-competition-2025/Encounter%20competition%202025",
+            "size": "464.17 kB (475305 Bytes)",
+            "size_bytes": 475305,
+            "mime": "image/png",
+            "content": "PNG image data, 960 x 331, 8-bit/color RGBA, non-interlaced",
+            "author": 8553227,
+            "stamp": 1759398405,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1460477815,
+    "rating": 14,
+    "tags": [
+        "2025相遇活动",
+        "归档页",
+        "活动"
+    ],
+    "title": "2025 相遇活动",
+    "sitemap_update": 1767189128000,
+    "votings": [
+        [
+            8462980,
+            true
+        ],
+        [
+            8316541,
+            true
+        ],
+        [
+            9509079,
+            true
+        ],
+        [
+            8356393,
+            true
+        ],
+        [
+            6251737,
+            false
+        ],
+        [
+            8325214,
+            true
+        ],
+        [
+            9808207,
+            true
+        ],
+        [
+            9882061,
+            true
+        ],
+        [
+            8563031,
+            true
+        ],
+        [
+            8343886,
+            true
+        ],
+        [
+            9898928,
+            true
+        ],
+        [
+            7344601,
+            true
+        ],
+        [
+            8375717,
+            true
+        ],
+        [
+            8553227,
+            true
+        ],
+        [
+            8979576,
+            true
+        ],
+        [
+            9287872,
+            true
+        ]
+    ],
+    "is_locked": false
+}

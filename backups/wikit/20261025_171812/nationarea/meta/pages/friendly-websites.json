@@ -1,0 +1,84 @@
+{
+    "name": "friendly-websites",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1546004977,
+            "author": 8316541,
+            "stamp": 1786790688,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 5"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1546004968,
+            "author": 8316541,
+            "stamp": 1786790671,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1544824617,
+            "author": 8553227,
+            "stamp": 1782276511,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1539336740,
+            "author": 8343886,
+            "stamp": 1762945012,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1539152201,
+            "author": 8343886,
+            "stamp": 1762620419,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1539148110,
+            "author": 8343886,
+            "stamp": 1762606907,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1539147726,
+            "author": 8343886,
+            "stamp": 1762605847,
+            "flags": "A",
+            "commentary": "已新增标签：总览。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539147672,
+            "author": 8343886,
+            "stamp": 1762605683,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1466495898,
+    "votings": [
+        [
+            6251737,
+            true
+        ]
+    ],
+    "tags": [
+        "总览"
+    ],
+    "title": "友情链接",
+    "sitemap_update": 1786790688000,
+    "is_locked": false
+}

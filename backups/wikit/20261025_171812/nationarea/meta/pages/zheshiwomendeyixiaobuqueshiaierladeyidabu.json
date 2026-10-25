@@ -1,0 +1,47 @@
+{
+    "name": "zheshiwomendeyixiaobuqueshiaierladeyidabu",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1545762177,
+            "author": 7679098,
+            "stamp": 1786090790,
+            "flags": "A",
+            "commentary": "已新增标签：2026奔赴月球活动。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1545690344,
+            "author": 7679098,
+            "stamp": 1785837061,
+            "flags": "A",
+            "commentary": "已新增标签：幽默, 故事, 浪漫。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545690308,
+            "author": 7679098,
+            "stamp": 1785836954,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469096078,
+    "tags": [
+        "2026奔赴月球活动",
+        "幽默",
+        "故事",
+        "浪漫"
+    ],
+    "title": "这是我们的一小步，却是埃珥拉的一大步",
+    "sitemap_update": 1786090790000,
+    "votings": [
+        [
+            8343886,
+            true
+        ]
+    ],
+    "is_locked": false
+}

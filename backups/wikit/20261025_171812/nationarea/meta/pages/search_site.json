@@ -1,0 +1,73 @@
+{
+    "name": "search:site",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1537131454,
+            "author": 8343886,
+            "stamp": 1761971555,
+            "flags": "A",
+            "commentary": "已新增标签：功能。 移除标签：系统。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1537131451,
+            "author": 8343886,
+            "stamp": 1761971542,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530613891,
+            "author": 8325214,
+            "stamp": 1750584369,
+            "flags": "A",
+            "commentary": "已新增标签：系统。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1527386654,
+            "author": 8343886,
+            "stamp": 1737602628,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1527386653,
+            "author": 8343886,
+            "stamp": 1737602606,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1527386639,
+            "author": 8343886,
+            "stamp": 1737602529,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458296449,
+    "forum_thread": 17024611,
+    "tags": [
+        "功能"
+    ],
+    "title": "本站搜索",
+    "sitemap_update": 1761971555000,
+    "votings": [
+        [
+            9477146,
+            true
+        ],
+        [
+            8343886,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,789 @@
+{
+    "name": "old:things-that-you-need-to-know",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 66,
+            "global_revision": 1540208607,
+            "author": 8343886,
+            "stamp": 1764815199,
+            "flags": "A",
+            "commentary": "已新增标签：归档页。 移除标签：指导, 设定中心。"
+        },
+        {
+            "revision": 65,
+            "global_revision": 1540208604,
+            "author": 8343886,
+            "stamp": 1764815193,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 64,
+            "global_revision": 1540208591,
+            "author": 8343886,
+            "stamp": 1764815161,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"things-that-you-need-to-know\" 至 \"old:things-that-you-need-to-know\"."
+        },
+        {
+            "revision": 63,
+            "global_revision": 1540058583,
+            "author": 8343886,
+            "stamp": 1764464927,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 62,
+            "global_revision": 1540058570,
+            "author": 8343886,
+            "stamp": 1764464905,
+            "flags": "F",
+            "commentary": "已上传文件 “20251130”。"
+        },
+        {
+            "revision": 61,
+            "global_revision": 1539829844,
+            "author": 8343886,
+            "stamp": 1763858530,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 60,
+            "global_revision": 1539829836,
+            "author": 8343886,
+            "stamp": 1763858504,
+            "flags": "F",
+            "commentary": "已上传文件 “20251121”。"
+        },
+        {
+            "revision": 59,
+            "global_revision": 1539813168,
+            "author": 8343886,
+            "stamp": 1763819678,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 58,
+            "global_revision": 1539794658,
+            "author": 8343886,
+            "stamp": 1763776479,
+            "flags": "F",
+            "commentary": "已上传文件 “20251120”。"
+        },
+        {
+            "revision": 57,
+            "global_revision": 1539794646,
+            "author": 8343886,
+            "stamp": 1763776433,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 56,
+            "global_revision": 1537131259,
+            "author": 8343886,
+            "stamp": 1761970702,
+            "flags": "A",
+            "commentary": "移除标签：系统。"
+        },
+        {
+            "revision": 55,
+            "global_revision": 1531507265,
+            "author": 8343886,
+            "stamp": 1754985287,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 54,
+            "global_revision": 1531493485,
+            "author": 8553227,
+            "stamp": 1754913538,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 53,
+            "global_revision": 1531493359,
+            "author": 8553227,
+            "stamp": 1754913033,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 52,
+            "global_revision": 1531469450,
+            "author": 8343886,
+            "stamp": 1754790554,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 51,
+            "global_revision": 1531469446,
+            "author": 8343886,
+            "stamp": 1754790520,
+            "flags": "F",
+            "commentary": "已上传文件 “20250810”。"
+        },
+        {
+            "revision": 50,
+            "global_revision": 1531469433,
+            "author": 8343886,
+            "stamp": 1754790439,
+            "flags": "F",
+            "commentary": "已上传文件 “20250810”。"
+        },
+        {
+            "revision": 49,
+            "global_revision": 1531464388,
+            "author": 8553227,
+            "stamp": 1754753623,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 48,
+            "global_revision": 1531122383,
+            "author": 8343886,
+            "stamp": 1753156132,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 47,
+            "global_revision": 1531122378,
+            "author": 8343886,
+            "stamp": 1753156113,
+            "flags": "F",
+            "commentary": "已上传文件 “20250721”。"
+        },
+        {
+            "revision": 46,
+            "global_revision": 1530642889,
+            "author": 8343886,
+            "stamp": 1750773863,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 45,
+            "global_revision": 1530589113,
+            "author": 8343886,
+            "stamp": 1750432845,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 44,
+            "global_revision": 1530314563,
+            "author": 8343886,
+            "stamp": 1748698629,
+            "flags": "F",
+            "commentary": "已上传文件 “20250531”。"
+        },
+        {
+            "revision": 43,
+            "global_revision": 1530314503,
+            "author": 8343886,
+            "stamp": 1748698330,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 42,
+            "global_revision": 1530314502,
+            "author": 8343886,
+            "stamp": 1748698317,
+            "flags": "F",
+            "commentary": "已上传文件 “20250531”。"
+        },
+        {
+            "revision": 41,
+            "global_revision": 1530314015,
+            "author": 8343886,
+            "stamp": 1748695954,
+            "flags": "F",
+            "commentary": "已上传文件 “where”。"
+        },
+        {
+            "revision": 40,
+            "global_revision": 1530054936,
+            "author": 8343886,
+            "stamp": 1746934610,
+            "flags": "F",
+            "commentary": "已上传文件 “20250510”。"
+        },
+        {
+            "revision": 39,
+            "global_revision": 1530029702,
+            "author": 8343886,
+            "stamp": 1746852519,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 38,
+            "global_revision": 1530028502,
+            "author": 8343886,
+            "stamp": 1746845860,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 37,
+            "global_revision": 1530028494,
+            "author": 8343886,
+            "stamp": 1746845792,
+            "flags": "F",
+            "commentary": "已上传文件 “20250510”。"
+        },
+        {
+            "revision": 36,
+            "global_revision": 1529577012,
+            "author": 8343886,
+            "stamp": 1745678165,
+            "flags": "F",
+            "commentary": "已上传文件 “where”。"
+        },
+        {
+            "revision": 35,
+            "global_revision": 1529576913,
+            "author": 8343886,
+            "stamp": 1745677681,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 34,
+            "global_revision": 1529576911,
+            "author": 8343886,
+            "stamp": 1745677660,
+            "flags": "F",
+            "commentary": "已上传文件 “20250426”。"
+        },
+        {
+            "revision": 33,
+            "global_revision": 1529198729,
+            "author": 8343886,
+            "stamp": 1744416164,
+            "flags": "F",
+            "commentary": "已上传文件 “All Blank.png”。"
+        },
+        {
+            "revision": 32,
+            "global_revision": 1529192299,
+            "author": 8343886,
+            "stamp": 1744384213,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 31,
+            "global_revision": 1529192282,
+            "author": 8343886,
+            "stamp": 1744384135,
+            "flags": "F",
+            "commentary": "已上传文件 “20250411”。"
+        },
+        {
+            "revision": 30,
+            "global_revision": 1529051317,
+            "author": 8343886,
+            "stamp": 1743770630,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 29,
+            "global_revision": 1528936078,
+            "author": 8343886,
+            "stamp": 1743304480,
+            "flags": "F",
+            "commentary": "已上传文件 “All Blank”。"
+        },
+        {
+            "revision": 28,
+            "global_revision": 1528928665,
+            "author": 8343886,
+            "stamp": 1743261243,
+            "flags": "F",
+            "commentary": "已上传文件 “20250329”。"
+        },
+        {
+            "revision": 27,
+            "global_revision": 1528928647,
+            "author": 8343886,
+            "stamp": 1743261202,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 26,
+            "global_revision": 1528556066,
+            "author": 8343886,
+            "stamp": 1742566904,
+            "flags": "F",
+            "commentary": "已上传文件 “20250321”。"
+        },
+        {
+            "revision": 25,
+            "global_revision": 1528555340,
+            "author": 8343886,
+            "stamp": 1742564459,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 24,
+            "global_revision": 1528555333,
+            "author": 8343886,
+            "stamp": 1742564441,
+            "flags": "F",
+            "commentary": "已上传文件 “20250321”。"
+        },
+        {
+            "revision": 23,
+            "global_revision": 1528090445,
+            "author": 8356393,
+            "stamp": 1740494222,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 22,
+            "global_revision": 1527809117,
+            "author": 8343886,
+            "stamp": 1739603075,
+            "flags": "F",
+            "commentary": "已上传文件 “20250215”。"
+        },
+        {
+            "revision": 21,
+            "global_revision": 1527809057,
+            "author": 8343886,
+            "stamp": 1739602732,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 20,
+            "global_revision": 1527809051,
+            "author": 8343886,
+            "stamp": 1739602710,
+            "flags": "F",
+            "commentary": "已上传文件 “20250215”。"
+        },
+        {
+            "revision": 19,
+            "global_revision": 1527617468,
+            "author": 8356393,
+            "stamp": 1738839426,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1527569683,
+            "author": 8343886,
+            "stamp": 1738577260,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1527404762,
+            "author": 8343886,
+            "stamp": 1737712664,
+            "flags": "F",
+            "commentary": "已上传文件 “20250121”。"
+        },
+        {
+            "revision": 16,
+            "global_revision": 1527372633,
+            "author": 8343886,
+            "stamp": 1737517280,
+            "flags": "F",
+            "commentary": "已上传文件 “20250121”。"
+        },
+        {
+            "revision": 15,
+            "global_revision": 1527364720,
+            "author": 8343886,
+            "stamp": 1737468499,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1527364618,
+            "author": 8343886,
+            "stamp": 1737467983,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1527364608,
+            "author": 8343886,
+            "stamp": 1737467951,
+            "flags": "F",
+            "commentary": "已上传文件 “20250121”。"
+        },
+        {
+            "revision": 12,
+            "global_revision": 1527314473,
+            "author": 8343886,
+            "stamp": 1737299732,
+            "flags": "A",
+            "commentary": "已新增标签：指导。 移除标签：议论。"
+        },
+        {
+            "revision": 11,
+            "global_revision": 1527206712,
+            "author": 8343886,
+            "stamp": 1736608233,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1527206675,
+            "author": 8343886,
+            "stamp": 1736608063,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1527206505,
+            "author": 8343886,
+            "stamp": 1736607343,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1527156982,
+            "author": 6251737,
+            "stamp": 1736299882,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1527039436,
+            "author": 8343886,
+            "stamp": 1735710771,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1527039392,
+            "author": 8343886,
+            "stamp": 1735710363,
+            "flags": "A",
+            "commentary": "已新增标签：系统, 设定中心。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1526570778,
+            "author": 8343886,
+            "stamp": 1733492277,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1526043315,
+            "author": 8343886,
+            "stamp": 1732977998,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1526043281,
+            "author": 8343886,
+            "stamp": 1732977900,
+            "flags": "F",
+            "commentary": "已上传文件 “20241130”。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1526042009,
+            "author": 8343886,
+            "stamp": 1732971864,
+            "flags": "A",
+            "commentary": "已新增标签：议论。 移除标签：系统。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1526041846,
+            "author": 8343886,
+            "stamp": 1732970962,
+            "flags": "A",
+            "commentary": "已新增标签：系统。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1526041840,
+            "author": 8343886,
+            "stamp": 1732970937,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11237273,
+            "name": "20241130",
+            "url": "http://nationarea.wikidot.com/local--files/old:things-that-you-need-to-know/20241130",
+            "size": "87.44 kB (89534 Bytes)",
+            "size_bytes": 89534,
+            "mime": "image/png",
+            "content": "PNG image data, 1809 x 1648, 8-bit/color RGB, non-interlaced",
+            "author": 8343886,
+            "stamp": 1732977900,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11310638,
+            "name": "20250121",
+            "url": "http://nationarea.wikidot.com/local--files/old:things-that-you-need-to-know/20250121",
+            "size": "423.34 kB (433497 Bytes)",
+            "size_bytes": 433497,
+            "mime": "image/png",
+            "content": "PNG image data, 3340 x 1648, 8-bit/color RGBA, non-interlaced",
+            "author": 8343886,
+            "stamp": 1737712664,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11326328,
+            "name": "20250215",
+            "url": "http://nationarea.wikidot.com/local--files/old:things-that-you-need-to-know/20250215",
+            "size": "281.29 kB (288045 Bytes)",
+            "size_bytes": 288045,
+            "mime": "image/png",
+            "content": "PNG image data, 1280 x 632, 8-bit/color RGBA, non-interlaced",
+            "author": 8343886,
+            "stamp": 1739603075,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11349046,
+            "name": "20250321",
+            "url": "http://nationarea.wikidot.com/local--files/old:things-that-you-need-to-know/20250321",
+            "size": "467.59 kB (478811 Bytes)",
+            "size_bytes": 478811,
+            "mime": "image/png",
+            "content": "PNG image data, 3409 x 1737, 8-bit/color RGBA, non-interlaced",
+            "author": 8343886,
+            "stamp": 1742566905,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11356775,
+            "name": "20250329",
+            "url": "http://nationarea.wikidot.com/local--files/old:things-that-you-need-to-know/20250329",
+            "size": "483.69 kB (495303 Bytes)",
+            "size_bytes": 495303,
+            "mime": "image/png",
+            "content": "PNG image data, 3409 x 1737, 8-bit/color RGBA, non-interlaced",
+            "author": 8343886,
+            "stamp": 1743261243,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11365571,
+            "name": "20250411",
+            "url": "http://nationarea.wikidot.com/local--files/old:things-that-you-need-to-know/20250411",
+            "size": "486.84 kB (498528 Bytes)",
+            "size_bytes": 498528,
+            "mime": "image/png",
+            "content": "PNG image data, 3409 x 1737, 8-bit/color RGBA, non-interlaced",
+            "author": 8343886,
+            "stamp": 1744384135,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11375425,
+            "name": "20250426",
+            "url": "http://nationarea.wikidot.com/local--files/old:things-that-you-need-to-know/20250426",
+            "size": "483.83 kB (495437 Bytes)",
+            "size_bytes": 495437,
+            "mime": "image/png",
+            "content": "PNG image data, 3409 x 1737, 8-bit/color RGBA, non-interlaced",
+            "author": 8343886,
+            "stamp": 1745677660,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11384536,
+            "name": "20250510",
+            "url": "http://nationarea.wikidot.com/local--files/old:things-that-you-need-to-know/20250510",
+            "size": "455.08 kB (466001 Bytes)",
+            "size_bytes": 466001,
+            "mime": "image/png",
+            "content": "PNG image data, 3409 x 1737, 8-bit/color RGBA, non-interlaced",
+            "author": 8343886,
+            "stamp": 1746934611,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11394002,
+            "name": "20250531",
+            "url": "http://nationarea.wikidot.com/local--files/old:things-that-you-need-to-know/20250531",
+            "size": "485.36 kB (497013 Bytes)",
+            "size_bytes": 497013,
+            "mime": "image/png",
+            "content": "PNG image data, 3409 x 1737, 8-bit/color RGBA, non-interlaced",
+            "author": 8343886,
+            "stamp": 1748698629,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11424319,
+            "name": "20250721",
+            "url": "http://nationarea.wikidot.com/local--files/old:things-that-you-need-to-know/20250721",
+            "size": "415.97 kB (425953 Bytes)",
+            "size_bytes": 425953,
+            "mime": "image/png",
+            "content": "PNG image data, 3500 x 1736, 8-bit/color RGBA, non-interlaced",
+            "author": 8343886,
+            "stamp": 1753156113,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11435819,
+            "name": "20250810",
+            "url": "http://nationarea.wikidot.com/local--files/old:things-that-you-need-to-know/20250810",
+            "size": "414.41 kB (424358 Bytes)",
+            "size_bytes": 424358,
+            "mime": "image/png",
+            "content": "PNG image data, 3500 x 1736, 8-bit/color RGBA, non-interlaced",
+            "author": 8343886,
+            "stamp": 1754790521,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11687431,
+            "name": "20251120",
+            "url": "http://nationarea.wikidot.com/local--files/old:things-that-you-need-to-know/20251120",
+            "size": "615.45 kB (630224 Bytes)",
+            "size_bytes": 630224,
+            "mime": "image/png",
+            "content": "PNG image data, 3520 x 1646, 8-bit/color RGBA, non-interlaced",
+            "author": 8343886,
+            "stamp": 1763776479,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11688004,
+            "name": "20251121",
+            "url": "http://nationarea.wikidot.com/local--files/old:things-that-you-need-to-know/20251121",
+            "size": "621.94 kB (636869 Bytes)",
+            "size_bytes": 636869,
+            "mime": "image/png",
+            "content": "PNG image data, 3520 x 1646, 8-bit/color RGBA, non-interlaced",
+            "author": 8343886,
+            "stamp": 1763858504,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11692798,
+            "name": "20251130",
+            "url": "http://nationarea.wikidot.com/local--files/old:things-that-you-need-to-know/20251130",
+            "size": "624.7 kB (639688 Bytes)",
+            "size_bytes": 639688,
+            "mime": "image/png",
+            "content": "PNG image data, 3520 x 1646, 8-bit/color RGBA, non-interlaced",
+            "author": 8343886,
+            "stamp": 1764464905,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11357155,
+            "name": "All Blank",
+            "url": "http://nationarea.wikidot.com/local--files/old:things-that-you-need-to-know/All%20Blank",
+            "size": "127.21 kB (130267 Bytes)",
+            "size_bytes": 130267,
+            "mime": "image/png",
+            "content": "PNG image data, 3409 x 1737, 8-bit/color RGBA, non-interlaced",
+            "author": 8343886,
+            "stamp": 1743304480,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11365827,
+            "name": "All Blank.png",
+            "url": "http://nationarea.wikidot.com/local--files/old:things-that-you-need-to-know/All%20Blank.png",
+            "size": "127.79 kB (130855 Bytes)",
+            "size_bytes": 130855,
+            "mime": "image/png",
+            "content": "PNG image data, 3409 x 1737, 8-bit/color RGBA, non-interlaced",
+            "author": 8343886,
+            "stamp": 1744416164,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11393978,
+            "name": "where",
+            "url": "http://nationarea.wikidot.com/local--files/old:things-that-you-need-to-know/where",
+            "size": "485.61 kB (497263 Bytes)",
+            "size_bytes": 497263,
+            "mime": "image/png",
+            "content": "PNG image data, 3409 x 1737, 8-bit/color RGBA, non-interlaced",
+            "author": 8343886,
+            "stamp": 1748695955,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1457456398,
+    "tags": [
+        "归档页"
+    ],
+    "title": "常见问题解答（旧）",
+    "sitemap_update": 1764815199000,
+    "votings": [
+        [
+            8548483,
+            true
+        ],
+        [
+            7679098,
+            true
+        ],
+        [
+            8356393,
+            true
+        ],
+        [
+            8488493,
+            true
+        ],
+        [
+            6251737,
+            true
+        ],
+        [
+            8898249,
+            true
+        ],
+        [
+            8375717,
+            true
+        ],
+        [
+            9321893,
+            true
+        ]
+    ],
+    "is_locked": false
+}

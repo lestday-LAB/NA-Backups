@@ -1,0 +1,32 @@
+{
+    "title": "草稿",
+    "id": 16702173,
+    "description": "",
+    "last": 1755449138,
+    "lastUser": 8375717,
+    "started": 1706745189,
+    "startedUser": 8118764,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 6416488,
+            "title": "草稿",
+            "poster": 8118764,
+            "stamp": 1706745189,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7130178,
+                    "title": "Re: 草稿",
+                    "poster": 8375717,
+                    "stamp": 1755449138,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}
