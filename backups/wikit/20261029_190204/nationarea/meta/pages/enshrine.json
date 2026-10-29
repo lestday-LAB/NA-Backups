@@ -1,0 +1,65 @@
+{
+    "name": "enshrine",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1542032942,
+            "author": 9011406,
+            "stamp": 1770906792,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541940176,
+            "author": 9011406,
+            "stamp": 1770792878,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541940154,
+            "author": 9011406,
+            "stamp": 1770792814,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541940037,
+            "author": 9011406,
+            "stamp": 1770792506,
+            "flags": "A",
+            "commentary": "已新增标签：故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541940030,
+            "author": 9011406,
+            "stamp": 1770792489,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468116922,
+    "forum_thread": 17587565,
+    "tags": [
+        "故事"
+    ],
+    "title": "铭记",
+    "sitemap_update": 1770906792000,
+    "votings": [
+        [
+            8343886,
+            true
+        ],
+        [
+            8553227,
+            true
+        ]
+    ],
+    "is_locked": false
+}

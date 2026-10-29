@@ -1,0 +1,153 @@
+{
+    "name": "start",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 14,
+            "global_revision": 1537131241,
+            "author": 8343886,
+            "stamp": 1761970619,
+            "flags": "A",
+            "commentary": "已新增标签：功能。 移除标签：系统。"
+        },
+        {
+            "revision": 13,
+            "global_revision": 1516400713,
+            "author": 8343886,
+            "stamp": 1701422380,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1516400701,
+            "author": 8343886,
+            "stamp": 1701422303,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1516400696,
+            "author": 8343886,
+            "stamp": 1701422278,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1514160969,
+            "author": 8343886,
+            "stamp": 1695453097,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1514160959,
+            "author": 8343886,
+            "stamp": 1695453049,
+            "flags": "A",
+            "commentary": "已新增标签：系统。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1514160953,
+            "author": 8343886,
+            "stamp": 1695453009,
+            "flags": "F",
+            "commentary": "已上传文件 “logo.bmp”。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1514160781,
+            "author": 8343886,
+            "stamp": 1695452770,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"main\" 至 \"start\"."
+        },
+        {
+            "revision": 6,
+            "global_revision": 1514160734,
+            "author": 8343886,
+            "stamp": 1695452677,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1514160712,
+            "author": 8343886,
+            "stamp": 1695452569,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1514160570,
+            "author": 8343886,
+            "stamp": 1695452533,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1514160458,
+            "author": 8343886,
+            "stamp": 1695452468,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1514160229,
+            "author": 8343886,
+            "stamp": 1695452319,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1514160225,
+            "author": 8343886,
+            "stamp": 1695452287,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1514160119,
+            "author": 8343886,
+            "stamp": 1695452241,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 10585466,
+            "name": "logo.bmp",
+            "url": "http://nationarea.wikidot.com/local--files/start/logo.bmp",
+            "size": "95.58 kB (97870 Bytes)",
+            "size_bytes": 97870,
+            "mime": "image/png",
+            "content": "PNG image data, 251 x 251, 8-bit/color RGBA, non-interlaced",
+            "author": 8343886,
+            "stamp": 1695453009,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1450116658,
+    "tags": [
+        "功能"
+    ],
+    "title": "主页链接（旧）",
+    "sitemap_update": 1761970619000,
+    "votings": [
+        [
+            8634911,
+            false
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,168 @@
+{
+    "name": "old:the-voyage-and-exploration",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 16,
+            "global_revision": 1528147785,
+            "author": 8343886,
+            "stamp": 1740834961,
+            "flags": "S",
+            "commentary": "有关重新命名页面：“nation-21” 改为 “nation-184” 的自动更新。"
+        },
+        {
+            "revision": 15,
+            "global_revision": 1527364675,
+            "author": 8343886,
+            "stamp": 1737468423,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1527364673,
+            "author": 8343886,
+            "stamp": 1737468398,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"canon:the-voyage-and-exploration\" 至 \"old:the-voyage-and-exploration\"."
+        },
+        {
+            "revision": 13,
+            "global_revision": 1527364672,
+            "author": 8343886,
+            "stamp": 1737468385,
+            "flags": "A",
+            "commentary": "已新增标签：归档页。 移除标签：设定中心, 远航与探索。"
+        },
+        {
+            "revision": 12,
+            "global_revision": 1527364671,
+            "author": 8343886,
+            "stamp": 1737468373,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1527364665,
+            "author": 8343886,
+            "stamp": 1737468316,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1518798290,
+            "author": 9016636,
+            "stamp": 1709633313,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1518798286,
+            "author": 9016636,
+            "stamp": 1709633286,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1518798279,
+            "author": 9016636,
+            "stamp": 1709633241,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1518754895,
+            "author": 8343886,
+            "stamp": 1709391698,
+            "flags": "A",
+            "commentary": "已新增标签：远航与探索。 移除标签：远航与探索海洋。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1518626749,
+            "author": 8343886,
+            "stamp": 1709048107,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"checking:yhyts-hy\" 至 \"canon:the-voyage-and-exploration\"."
+        },
+        {
+            "revision": 5,
+            "global_revision": 1518625483,
+            "author": 8710540,
+            "stamp": 1709041990,
+            "flags": "A",
+            "commentary": "已新增标签：设定中心, 远航与探索海洋。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1518625379,
+            "author": 8710540,
+            "stamp": 1709041426,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1518625338,
+            "author": 8710540,
+            "stamp": 1709041064,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1518625282,
+            "author": 8710540,
+            "stamp": 1709040935,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1518625266,
+            "author": 8710540,
+            "stamp": 1709040861,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1518625259,
+            "author": 8710540,
+            "stamp": 1709040843,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1452832759,
+    "tags": [
+        "归档页"
+    ],
+    "title": "远航与探索（旧）",
+    "sitemap_update": 1740834961000,
+    "votings": [
+        [
+            8464470,
+            true
+        ],
+        [
+            8356393,
+            true
+        ],
+        [
+            8710540,
+            true
+        ],
+        [
+            8118764,
+            true
+        ]
+    ],
+    "is_locked": false
+}

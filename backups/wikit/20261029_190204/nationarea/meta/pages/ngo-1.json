@@ -1,0 +1,105 @@
+{
+    "name": "ngo-1",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1540116537,
+            "author": 8343886,
+            "stamp": 1764639929,
+            "flags": "A",
+            "commentary": "已新增标签：组织。 移除标签：非政府组织。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1515306193,
+            "author": 8343886,
+            "stamp": 1698155278,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1515306153,
+            "author": 8343886,
+            "stamp": 1698155174,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"organization-1\" 至 \"ngo-1\"."
+        },
+        {
+            "revision": 5,
+            "global_revision": 1513557162,
+            "author": 8564954,
+            "stamp": 1693541753,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1513182857,
+            "author": 8343886,
+            "stamp": 1692704236,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1513120959,
+            "author": 8376506,
+            "stamp": 1692537643,
+            "flags": "A",
+            "commentary": "已新增标签：非政府组织。 移除标签：地区。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1513120898,
+            "author": 8376506,
+            "stamp": 1692537300,
+            "flags": "A",
+            "commentary": "已新增标签：地区。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1513118054,
+            "author": 8564954,
+            "stamp": 1692523231,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1513118021,
+            "author": 8564954,
+            "stamp": 1692523028,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1449439160,
+    "rating": 4,
+    "tags": [
+        "组织"
+    ],
+    "title": "天堂之人",
+    "sitemap_update": 1764639929000,
+    "votings": [
+        [
+            8747311,
+            true
+        ],
+        [
+            8248071,
+            true
+        ],
+        [
+            8343886,
+            true
+        ],
+        [
+            8118764,
+            true
+        ]
+    ],
+    "is_locked": false
+}

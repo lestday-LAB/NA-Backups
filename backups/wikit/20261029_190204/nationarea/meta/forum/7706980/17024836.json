@@ -1,0 +1,31 @@
+{
+    "title": "温丝堡",
+    "id": 17024836,
+    "description": "",
+    "last": 1737706953,
+    "lastUser": 8374306,
+    "started": 1737685585,
+    "startedUser": null,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 6787227,
+            "title": "3.1/6.0 主要是指出问题，群里对于这篇文有些严厉",
+            "poster": 6251737,
+            "stamp": 1737687203,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 6787433,
+            "title": "",
+            "poster": 8374306,
+            "stamp": 1737706953,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

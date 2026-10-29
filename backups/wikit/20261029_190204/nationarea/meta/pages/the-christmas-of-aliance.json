@@ -1,0 +1,55 @@
+{
+    "name": "the-christmas-of-aliance",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1540890956,
+            "author": 7679098,
+            "stamp": 1766392402,
+            "flags": "A",
+            "commentary": "已新增标签：2025圣诞颂活动, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540890927,
+            "author": 7679098,
+            "stamp": 1766392360,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467740184,
+    "rating": 5,
+    "forum_thread": 17496534,
+    "tags": [
+        "2025圣诞颂活动",
+        "故事"
+    ],
+    "title": "临时统治联盟的圣诞节",
+    "sitemap_update": 1766392402000,
+    "votings": [
+        [
+            8325214,
+            true
+        ],
+        [
+            8343886,
+            true
+        ],
+        [
+            8375717,
+            true
+        ],
+        [
+            8553227,
+            true
+        ],
+        [
+            9287872,
+            true
+        ]
+    ],
+    "is_locked": false
+}
