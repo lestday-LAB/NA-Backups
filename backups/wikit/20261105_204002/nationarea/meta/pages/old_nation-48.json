@@ -1,0 +1,245 @@
+{
+    "name": "old:nation-48",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 23,
+            "global_revision": 1527628172,
+            "author": 8343886,
+            "stamp": 1738892815,
+            "flags": "S",
+            "commentary": "有关重新命名页面：“world-assembly” 改为 “world-alliance” 的自动更新。"
+        },
+        {
+            "revision": 22,
+            "global_revision": 1526983202,
+            "author": 6251737,
+            "stamp": 1735383190,
+            "flags": "A",
+            "commentary": "已新增标签：归档页。 移除标签：旧页面。"
+        },
+        {
+            "revision": 21,
+            "global_revision": 1523142842,
+            "author": 6251737,
+            "stamp": 1721528628,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 20,
+            "global_revision": 1523142835,
+            "author": 6251737,
+            "stamp": 1721528614,
+            "flags": "A",
+            "commentary": "已新增标签：旧页面。 移除标签：人权保护, 国家, 奇异居民, 待调查, 民主改良主义, 沿海, 物理异常, 积极, 重要文档。"
+        },
+        {
+            "revision": 19,
+            "global_revision": 1523142728,
+            "author": 6251737,
+            "stamp": 1721527962,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"nation-48\" 至 \"old:nation-48\"."
+        },
+        {
+            "revision": 18,
+            "global_revision": 1523071504,
+            "author": 6251737,
+            "stamp": 1721188986,
+            "flags": "A",
+            "commentary": "已新增标签：重要文档。 移除标签：主体设定。"
+        },
+        {
+            "revision": 17,
+            "global_revision": 1523062855,
+            "author": 6251737,
+            "stamp": 1721132493,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1521012080,
+            "author": 6251737,
+            "stamp": 1718842884,
+            "flags": "A",
+            "commentary": "移除标签：重写中。"
+        },
+        {
+            "revision": 15,
+            "global_revision": 1520967690,
+            "author": 6251737,
+            "stamp": 1718634229,
+            "flags": "A",
+            "commentary": "已新增标签：物理异常。"
+        },
+        {
+            "revision": 14,
+            "global_revision": 1519542784,
+            "author": 8118764,
+            "stamp": 1712728900,
+            "flags": "A",
+            "commentary": "已新增标签：重写中。"
+        },
+        {
+            "revision": 13,
+            "global_revision": 1518514729,
+            "author": 8343886,
+            "stamp": 1708697562,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1518514722,
+            "author": 8343886,
+            "stamp": 1708697535,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1518110235,
+            "author": 6251737,
+            "stamp": 1707371111,
+            "flags": "A",
+            "commentary": "已新增标签：主体设定。 移除标签：主体s。"
+        },
+        {
+            "revision": 10,
+            "global_revision": 1518110232,
+            "author": 6251737,
+            "stamp": 1707371094,
+            "flags": "A",
+            "commentary": "已新增标签：主体s, 民主改良主义。 移除标签：民主化, 经济中间派。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1517428975,
+            "author": 8118764,
+            "stamp": 1705294182,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1516986884,
+            "author": 8343886,
+            "stamp": 1703478261,
+            "flags": "S",
+            "commentary": "有关重新命名页面：“the-world-assembly” 改为 “world-assembly” 的自动更新。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1516777627,
+            "author": 8118764,
+            "stamp": 1702780140,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1516777554,
+            "author": 8118764,
+            "stamp": 1702780081,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1516777537,
+            "author": 8118764,
+            "stamp": 1702779993,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1516422279,
+            "author": 8118764,
+            "stamp": 1701492901,
+            "flags": "A",
+            "commentary": "已新增标签：人权保护, 国家, 奇异居民, 待调查, 民主化, 沿海, 积极, 经济中间派。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1516422261,
+            "author": 8118764,
+            "stamp": 1701492817,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1516422198,
+            "author": 8118764,
+            "stamp": 1701492682,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1516422144,
+            "author": 8118764,
+            "stamp": 1701492416,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1516422103,
+            "author": 8118764,
+            "stamp": 1701492362,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1451644166,
+    "rating": 7,
+    "tags": [
+        "归档页"
+    ],
+    "title": "Nation 48（旧）",
+    "sitemap_update": 1738892815000,
+    "votings": [
+        [
+            8248071,
+            true
+        ],
+        [
+            8324175,
+            true
+        ],
+        [
+            8741380,
+            true
+        ],
+        [
+            8710540,
+            true
+        ],
+        [
+            8724677,
+            true
+        ],
+        [
+            8343886,
+            true
+        ],
+        [
+            8543531,
+            true
+        ],
+        [
+            8118764,
+            true
+        ],
+        [
+            8386863,
+            false
+        ]
+    ],
+    "is_locked": false
+}

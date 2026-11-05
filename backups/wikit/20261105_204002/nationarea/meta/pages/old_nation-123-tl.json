@@ -1,0 +1,321 @@
+{
+    "name": "old:nation-123-tl",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 30,
+            "global_revision": 1531262729,
+            "author": 8343886,
+            "stamp": 1753788168,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 29,
+            "global_revision": 1531262716,
+            "author": 8343886,
+            "stamp": 1753788122,
+            "flags": "A",
+            "commentary": "已新增标签：归档页。 移除标签：东半球, 国家, 幽默, 积极。"
+        },
+        {
+            "revision": 28,
+            "global_revision": 1531213951,
+            "author": 8553227,
+            "stamp": 1753607815,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"nation-123-tl\" 至 \"old:nation-123-tl\"."
+        },
+        {
+            "revision": 27,
+            "global_revision": 1529874432,
+            "author": 8343886,
+            "stamp": 1746245380,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 26,
+            "global_revision": 1529874428,
+            "author": 8343886,
+            "stamp": 1746245361,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 25,
+            "global_revision": 1529384524,
+            "author": 8316541,
+            "stamp": 1744909071,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 24,
+            "global_revision": 1528147778,
+            "author": 8343886,
+            "stamp": 1740834959,
+            "flags": "S",
+            "commentary": "有关重新命名页面：“nation-21” 改为 “nation-184” 的自动更新。"
+        },
+        {
+            "revision": 23,
+            "global_revision": 1525922352,
+            "author": 8343886,
+            "stamp": 1732269906,
+            "flags": "A",
+            "commentary": "已新增标签：东半球。 移除标签：民主资本主义。"
+        },
+        {
+            "revision": 22,
+            "global_revision": 1525359379,
+            "author": 8316541,
+            "stamp": 1729438847,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 21,
+            "global_revision": 1524633036,
+            "author": 8316541,
+            "stamp": 1726456002,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 20,
+            "global_revision": 1523991147,
+            "author": 8316541,
+            "stamp": 1724130982,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 19,
+            "global_revision": 1523991116,
+            "author": 8316541,
+            "stamp": 1724130704,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1523991113,
+            "author": 8316541,
+            "stamp": 1724130676,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1523768137,
+            "author": 8316541,
+            "stamp": 1723700301,
+            "flags": "A",
+            "commentary": "已新增标签：民主资本主义。 移除标签：自由资本主义。"
+        },
+        {
+            "revision": 16,
+            "global_revision": 1519314125,
+            "author": 8316541,
+            "stamp": 1711980470,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1519166601,
+            "author": 8316541,
+            "stamp": 1711148724,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1519032563,
+            "author": 8343886,
+            "stamp": 1710571488,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1518659542,
+            "author": 8316541,
+            "stamp": 1709219648,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1518476935,
+            "author": 8316541,
+            "stamp": 1708574455,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 10"
+        },
+        {
+            "revision": 11,
+            "global_revision": 1518476931,
+            "author": 8316541,
+            "stamp": 1708574442,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1518287775,
+            "author": 8316541,
+            "stamp": 1708084791,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1518234139,
+            "author": 8316541,
+            "stamp": 1707879277,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1518231505,
+            "author": 8316541,
+            "stamp": 1707868398,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1518218118,
+            "author": 8316541,
+            "stamp": 1707814780,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1518218109,
+            "author": 8316541,
+            "stamp": 1707814729,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1518109982,
+            "author": 8316541,
+            "stamp": 1707370065,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1518087232,
+            "author": 8316541,
+            "stamp": 1707263330,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1518087231,
+            "author": 8316541,
+            "stamp": 1707263311,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1518028272,
+            "author": 8543531,
+            "stamp": 1707116377,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"checking:nation-123-tl\" 至 \"nation-123-tl\"."
+        },
+        {
+            "revision": 1,
+            "global_revision": 1518025238,
+            "author": 8316541,
+            "stamp": 1707103365,
+            "flags": "A",
+            "commentary": "已新增标签：国家, 幽默, 积极, 自由资本主义。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1518025202,
+            "author": 8316541,
+            "stamp": 1707103240,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1452529542,
+    "rating": 14,
+    "tags": [
+        "归档页"
+    ],
+    "title": "Nation 123-TL（旧）",
+    "sitemap_update": 1753788168000,
+    "votings": [
+        [
+            8462980,
+            true
+        ],
+        [
+            8248071,
+            true
+        ],
+        [
+            8316541,
+            true
+        ],
+        [
+            8464470,
+            true
+        ],
+        [
+            8251012,
+            true
+        ],
+        [
+            8986496,
+            true
+        ],
+        [
+            8356393,
+            true
+        ],
+        [
+            8279798,
+            true
+        ],
+        [
+            9015246,
+            true
+        ],
+        [
+            6251737,
+            true
+        ],
+        [
+            8343886,
+            true
+        ],
+        [
+            8878416,
+            true
+        ],
+        [
+            8543531,
+            true
+        ],
+        [
+            8118764,
+            true
+        ]
+    ],
+    "is_locked": false
+}

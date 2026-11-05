@@ -1,0 +1,31 @@
+{
+    "name": "pages-administration-policy",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1547500424,
+            "author": 8343886,
+            "stamp": 1792154523,
+            "flags": "A",
+            "commentary": "已新增标签：公共政策。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1547500421,
+            "author": 8343886,
+            "stamp": 1792154514,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469506434,
+    "tags": [
+        "公共政策"
+    ],
+    "title": "页面管理政策",
+    "sitemap_update": 1792154523000,
+    "votings": [],
+    "is_locked": false
+}

@@ -1,0 +1,54 @@
+{
+    "title": "彼得留海姆",
+    "id": 16696040,
+    "description": "",
+    "last": 1707227375,
+    "lastUser": 6251737,
+    "started": 1706240508,
+    "startedUser": null,
+    "postsNum": 3,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 6411457,
+            "title": "",
+            "poster": 8710540,
+            "stamp": 1706240612,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 6412438,
+            "title": "作者贴",
+            "poster": 8464470,
+            "stamp": 1706329906,
+            "lastEdit": 1708839452,
+            "lastEditBy": 8464470,
+            "revisions": [
+                {
+                    "title": "作者贴",
+                    "author": 8464470,
+                    "id": 7813614,
+                    "stamp": 1708839452
+                },
+                {
+                    "title": "作者贴",
+                    "author": 8464470,
+                    "id": 7776332,
+                    "stamp": 1706329906
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": 6421238,
+            "title": "好文",
+            "poster": 6251737,
+            "stamp": 1707227375,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

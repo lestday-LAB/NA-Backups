@@ -1,0 +1,47 @@
+{
+    "name": "system:recent-changes",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1537131411,
+            "author": 8343886,
+            "stamp": 1761971316,
+            "flags": "A",
+            "commentary": "已新增标签：功能。 移除标签：系统。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530613915,
+            "author": 8325214,
+            "stamp": 1750584491,
+            "flags": "A",
+            "commentary": "已新增标签：系统。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1528054404,
+            "author": 8356393,
+            "stamp": 1740295665,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1512809746,
+            "author": 8343886,
+            "stamp": 1691391215,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1449295707,
+    "tags": [
+        "功能"
+    ],
+    "title": "最近的变更",
+    "sitemap_update": 1761971316000,
+    "votings": [],
+    "is_locked": true
+}

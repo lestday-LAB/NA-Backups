@@ -1,0 +1,42 @@
+{
+    "name": "vignette:mandragora",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1546252638,
+            "author": 9913959,
+            "stamp": 1787624477,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1546252624,
+            "author": 9913959,
+            "stamp": 1787624413,
+            "flags": "A",
+            "commentary": "已新增标签：小作品, 植物, 生物, 艾尔登。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1546252618,
+            "author": 9913959,
+            "stamp": 1787624388,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469225002,
+    "tags": [
+        "小作品",
+        "植物",
+        "生物",
+        "艾尔登"
+    ],
+    "title": "曼德拉草",
+    "sitemap_update": 1787624477000,
+    "votings": [],
+    "is_locked": false
+}

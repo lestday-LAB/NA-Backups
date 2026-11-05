@@ -1,0 +1,119 @@
+{
+    "name": "tag-guide",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 12,
+            "global_revision": 1547500618,
+            "author": 8343886,
+            "stamp": 1792155221,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1547500566,
+            "author": 8343886,
+            "stamp": 1792154993,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1547500538,
+            "author": 8343886,
+            "stamp": 1792154892,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1547500508,
+            "author": 8343886,
+            "stamp": 1792154726,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1547500446,
+            "author": 8343886,
+            "stamp": 1792154614,
+            "flags": "A",
+            "commentary": "移除标签：指导。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1547500430,
+            "author": 8343886,
+            "stamp": 1792154539,
+            "flags": "A",
+            "commentary": "已新增标签：公共政策。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1546027187,
+            "author": 8316541,
+            "stamp": 1786858723,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1546027128,
+            "author": 8316541,
+            "stamp": 1786858578,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1546026848,
+            "author": 8316541,
+            "stamp": 1786857598,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1546005569,
+            "author": 8316541,
+            "stamp": 1786792695,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1546005542,
+            "author": 8316541,
+            "stamp": 1786792576,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1546005535,
+            "author": 8316541,
+            "stamp": 1786792498,
+            "flags": "A",
+            "commentary": "已新增标签：指导。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1546005486,
+            "author": 8316541,
+            "stamp": 1786792420,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469174615,
+    "votings": [],
+    "tags": [
+        "公共政策"
+    ],
+    "title": "标签指导",
+    "sitemap_update": 1792155221000,
+    "is_locked": false
+}

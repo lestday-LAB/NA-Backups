@@ -1,0 +1,46 @@
+{
+    "title": "因理地区公约组织",
+    "id": 16922502,
+    "description": "",
+    "last": 1725972082,
+    "lastUser": 8426633,
+    "started": 1724477939,
+    "startedUser": null,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 6632055,
+            "title": "uv",
+            "poster": 8553227,
+            "stamp": 1724655260,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 6649851,
+            "title": "作者贴",
+            "poster": 8426633,
+            "stamp": 1725972082,
+            "lastEdit": 1770792173,
+            "lastEditBy": 8426633,
+            "revisions": [
+                {
+                    "title": "作者贴",
+                    "author": 8426633,
+                    "id": 9093902,
+                    "stamp": 1770792173
+                },
+                {
+                    "title": "作者贴",
+                    "author": 8426633,
+                    "id": 8064733,
+                    "stamp": 1725972082
+                }
+            ],
+            "children": []
+        }
+    ]
+}

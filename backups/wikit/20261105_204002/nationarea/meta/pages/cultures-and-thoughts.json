@@ -1,0 +1,80 @@
+{
+    "name": "cultures-and-thoughts",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1537131356,
+            "author": 8343886,
+            "stamp": 1761971122,
+            "flags": "A",
+            "commentary": "已新增标签：总览。 移除标签：系统。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1527628125,
+            "author": 8343886,
+            "stamp": 1738892727,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1527628122,
+            "author": 8343886,
+            "stamp": 1738892716,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"cultures-and-religions\" 至 \"cultures-and-thoughts\"."
+        },
+        {
+            "revision": 4,
+            "global_revision": 1527628112,
+            "author": 8343886,
+            "stamp": 1738892688,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1527198182,
+            "author": 8343886,
+            "stamp": 1736565727,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1517079117,
+            "author": 8343886,
+            "stamp": 1704007502,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1516270215,
+            "author": 8343886,
+            "stamp": 1701001747,
+            "flags": "A",
+            "commentary": "已新增标签：系统。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1516270210,
+            "author": 8343886,
+            "stamp": 1701001723,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1451547054,
+    "forum_thread": 17581179,
+    "tags": [
+        "总览"
+    ],
+    "title": "文化与思想档案馆",
+    "sitemap_update": 1761971122000,
+    "votings": [],
+    "is_locked": false
+}

@@ -1,0 +1,188 @@
+{
+    "name": "old:nation-72",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 16,
+            "global_revision": 1527039064,
+            "author": 8343886,
+            "stamp": 1735708624,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"deleted:nation-72\" 至 \"old:nation-72\"."
+        },
+        {
+            "revision": 15,
+            "global_revision": 1526983182,
+            "author": 6251737,
+            "stamp": 1735383084,
+            "flags": "A",
+            "commentary": "已新增标签：归档页。 移除标签：旧页面。"
+        },
+        {
+            "revision": 14,
+            "global_revision": 1526168691,
+            "author": 6251737,
+            "stamp": 1733389037,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1526167182,
+            "author": 6251737,
+            "stamp": 1733386833,
+            "flags": "A",
+            "commentary": "已新增标签：旧页面。 移除标签：一般文档, 国家, 奇异居民, 物理异常, 西半球, 讽刺, 重写中。"
+        },
+        {
+            "revision": 12,
+            "global_revision": 1526167169,
+            "author": 6251737,
+            "stamp": 1733386816,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"nation-72\" 至 \"deleted:nation-72\"."
+        },
+        {
+            "revision": 11,
+            "global_revision": 1525938968,
+            "author": 6251737,
+            "stamp": 1732348394,
+            "flags": "A",
+            "commentary": "已新增标签：物理异常。"
+        },
+        {
+            "revision": 10,
+            "global_revision": 1525922223,
+            "author": 8343886,
+            "stamp": 1732269320,
+            "flags": "A",
+            "commentary": "已新增标签：一般文档, 西半球。 移除标签：压迫性, 威权资本主义, 沿海, 物理异常。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1524991465,
+            "author": 8724677,
+            "stamp": 1728023289,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1524386664,
+            "author": 6251737,
+            "stamp": 1725457619,
+            "flags": "A",
+            "commentary": "已新增标签：重写中。 移除标签：重写终。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1524386661,
+            "author": 6251737,
+            "stamp": 1725457606,
+            "flags": "A",
+            "commentary": "已新增标签：重写终。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1524275068,
+            "author": 8724677,
+            "stamp": 1725007132,
+            "flags": "A",
+            "commentary": "已新增标签：讽刺。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1524260857,
+            "author": 8724677,
+            "stamp": 1724926906,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1524260343,
+            "author": 8724677,
+            "stamp": 1724923693,
+            "flags": "A",
+            "commentary": "已新增标签：压迫性, 国家, 奇异居民, 威权资本主义, 沿海, 物理异常。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1524260308,
+            "author": 8724677,
+            "stamp": 1724923512,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1524260305,
+            "author": 8724677,
+            "stamp": 1724923497,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1524260294,
+            "author": 8724677,
+            "stamp": 1724923465,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1524260249,
+            "author": 8724677,
+            "stamp": 1724923252,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1456604228,
+    "tags": [
+        "归档页"
+    ],
+    "title": "Nation 72（旧）",
+    "sitemap_update": 1735708624000,
+    "votings": [
+        [
+            8462980,
+            true
+        ],
+        [
+            8248071,
+            true
+        ],
+        [
+            8256969,
+            true
+        ],
+        [
+            9102405,
+            false
+        ],
+        [
+            8724677,
+            false
+        ],
+        [
+            8426633,
+            false
+        ],
+        [
+            6251737,
+            true
+        ],
+        [
+            8553227,
+            true
+        ],
+        [
+            8747271,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,95 @@
+{
+    "name": "2026-moon-event",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1545296356,
+            "author": 8343886,
+            "stamp": 1784355379,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1545263515,
+            "author": 8343886,
+            "stamp": 1784200243,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1545252786,
+            "author": 9287872,
+            "stamp": 1784154824,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1545252772,
+            "author": 9287872,
+            "stamp": 1784154683,
+            "flags": "F",
+            "commentary": "已上传文件 “moon.png”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1545252757,
+            "author": 9287872,
+            "stamp": 1784154492,
+            "flags": "A",
+            "commentary": "已新增标签：2026奔赴月球活动, 活动。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545252754,
+            "author": 9287872,
+            "stamp": 1784154478,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11860144,
+            "name": "moon.png",
+            "url": "http://nationarea.wikidot.com/local--files/2026-moon-event/moon.png",
+            "size": "26.77 kB (27412 Bytes)",
+            "size_bytes": 27412,
+            "mime": "image/png",
+            "content": "PNG image data, 512 x 512, 8-bit/color RGBA, non-interlaced",
+            "author": 9287872,
+            "stamp": 1784154683,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1468987621,
+    "forum_thread": 18161625,
+    "tags": [
+        "2026奔赴月球活动",
+        "活动"
+    ],
+    "title": "2026 奔赴月球活动",
+    "sitemap_update": 1784355379000,
+    "votings": [
+        [
+            9814883,
+            true
+        ],
+        [
+            9899603,
+            true
+        ],
+        [
+            8343886,
+            true
+        ],
+        [
+            9287872,
+            true
+        ]
+    ],
+    "is_locked": false
+}

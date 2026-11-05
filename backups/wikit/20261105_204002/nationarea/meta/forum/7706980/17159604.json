@@ -1,0 +1,32 @@
+{
+    "title": "安卡教造物-破魔石",
+    "id": 17159604,
+    "description": "",
+    "last": 1751114544,
+    "lastUser": 8374306,
+    "started": 1751084778,
+    "startedUser": null,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7051753,
+            "title": "dv",
+            "poster": 6251737,
+            "stamp": 1751084843,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7052105,
+                    "title": "Re: dv",
+                    "poster": 8374306,
+                    "stamp": 1751114544,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

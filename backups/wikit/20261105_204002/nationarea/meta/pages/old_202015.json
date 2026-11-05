@@ -1,0 +1,104 @@
+{
+    "name": "old:202015",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1541197847,
+            "author": 8343886,
+            "stamp": 1767189508,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"202015\" 至 \"old:202015\"."
+        },
+        {
+            "revision": 5,
+            "global_revision": 1541197845,
+            "author": 8343886,
+            "stamp": 1767189497,
+            "flags": "A",
+            "commentary": "已新增标签：归档页。 移除标签：月刊。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1529884117,
+            "author": 8553227,
+            "stamp": 1746290284,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1529880235,
+            "author": 8553227,
+            "stamp": 1746273422,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1529878132,
+            "author": 8553227,
+            "stamp": 1746264355,
+            "flags": "A",
+            "commentary": "已新增标签：月刊。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1529878129,
+            "author": 8553227,
+            "stamp": 1746264340,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1529878103,
+            "author": 8553227,
+            "stamp": 1746264198,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459595693,
+    "tags": [
+        "归档页"
+    ],
+    "title": "地域国家五月月刊",
+    "sitemap_update": 1767189508000,
+    "votings": [
+        [
+            8324175,
+            true
+        ],
+        [
+            8356393,
+            true
+        ],
+        [
+            8325214,
+            true
+        ],
+        [
+            8343886,
+            true
+        ],
+        [
+            8118764,
+            true
+        ],
+        [
+            8553227,
+            true
+        ],
+        [
+            8386863,
+            false
+        ],
+        [
+            9321893,
+            true
+        ]
+    ],
+    "is_locked": false
+}

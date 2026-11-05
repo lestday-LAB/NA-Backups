@@ -1,0 +1,68 @@
+{
+    "name": "old:society",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1541212447,
+            "author": 8343886,
+            "stamp": 1767271722,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1541212445,
+            "author": 8343886,
+            "stamp": 1767271708,
+            "flags": "A",
+            "commentary": "已新增标签：归档页。 移除标签：世界联盟, 国际条例。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541212441,
+            "author": 8343886,
+            "stamp": 1767271700,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"wa:society\" 至 \"old:society\"."
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530656035,
+            "author": 8343886,
+            "stamp": 1750849869,
+            "flags": "A",
+            "commentary": "已新增标签：国际条例。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1529403756,
+            "author": 8343886,
+            "stamp": 1745024394,
+            "flags": "A",
+            "commentary": "已新增标签：世界联盟。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1529403754,
+            "author": 8343886,
+            "stamp": 1745024386,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459282717,
+    "tags": [
+        "归档页"
+    ],
+    "title": "国际经济、文化与社会权利公约（旧）",
+    "sitemap_update": 1767271722000,
+    "votings": [
+        [
+            8356393,
+            true
+        ]
+    ],
+    "is_locked": false
+}
