@@ -1,0 +1,79 @@
+{
+    "name": "special:news",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1547609302,
+            "author": 8343886,
+            "stamp": 1792765203,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1547609264,
+            "author": 8343886,
+            "stamp": 1792765187,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1547609260,
+            "author": 8343886,
+            "stamp": 1792765178,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1547609251,
+            "author": 8343886,
+            "stamp": 1792765152,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1547475455,
+            "author": 8343886,
+            "stamp": 1791983304,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1547215575,
+            "author": 8343886,
+            "stamp": 1790852424,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1547206667,
+            "author": 8343886,
+            "stamp": 1790815240,
+            "flags": "A",
+            "commentary": "已新增标签：功能。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1547206663,
+            "author": 8343886,
+            "stamp": 1790815231,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469428852,
+    "votings": [],
+    "tags": [
+        "功能"
+    ],
+    "title": "主页：新闻",
+    "sitemap_update": 1792765203000,
+    "is_locked": false
+}
