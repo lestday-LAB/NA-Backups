@@ -1,0 +1,112 @@
+{
+    "name": "component:unrest-component",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 10,
+            "global_revision": 1530224657,
+            "author": 8343886,
+            "stamp": 1748048311,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"unrest-component\" 至 \"component:unrest-component\"."
+        },
+        {
+            "revision": 9,
+            "global_revision": 1530224655,
+            "author": 8343886,
+            "stamp": 1748048301,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1518362837,
+            "author": 8343886,
+            "stamp": 1708392869,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1515910232,
+            "author": 8457826,
+            "stamp": 1699617086,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1515910052,
+            "author": 8457826,
+            "stamp": 1699616482,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1515910048,
+            "author": 8457826,
+            "stamp": 1699616461,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1515879003,
+            "author": 8457826,
+            "stamp": 1699450934,
+            "flags": "A",
+            "commentary": "移除标签：原创。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1515878988,
+            "author": 8457826,
+            "stamp": 1699450865,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1515878931,
+            "author": 8457826,
+            "stamp": 1699450683,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 组件。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1515878926,
+            "author": 8457826,
+            "stamp": 1699450667,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1515878813,
+            "author": 8457826,
+            "stamp": 1699450410,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1451348184,
+    "tags": [
+        "组件"
+    ],
+    "title": "动乱程度模块",
+    "sitemap_update": 1748048311000,
+    "votings": [
+        [
+            8464470,
+            true
+        ],
+        [
+            8343886,
+            true
+        ]
+    ],
+    "is_locked": false
+}

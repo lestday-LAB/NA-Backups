@@ -1,0 +1,88 @@
+{
+    "name": "old:noweapons",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1541212435,
+            "author": 8343886,
+            "stamp": 1767271685,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1541212429,
+            "author": 8343886,
+            "stamp": 1767271673,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"wa:noweapons\" 至 \"old:noweapons\"."
+        },
+        {
+            "revision": 4,
+            "global_revision": 1541212428,
+            "author": 8343886,
+            "stamp": 1767271663,
+            "flags": "A",
+            "commentary": "已新增标签：归档页。 移除标签：世界联盟。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1529402666,
+            "author": 8343886,
+            "stamp": 1745019091,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1528928291,
+            "author": 8343886,
+            "stamp": 1743259437,
+            "flags": "A",
+            "commentary": "已新增标签：世界联盟。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1528928276,
+            "author": 8343886,
+            "stamp": 1743259381,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1528928270,
+            "author": 8343886,
+            "stamp": 1743259351,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459033689,
+    "tags": [
+        "归档页"
+    ],
+    "title": "禁止大规模杀伤性武器条约（旧）",
+    "sitemap_update": 1767271685000,
+    "votings": [
+        [
+            8356393,
+            true
+        ],
+        [
+            8325214,
+            true
+        ],
+        [
+            8343886,
+            true
+        ],
+        [
+            8118764,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,1173 @@
+{
+    "name": "component:page-signs",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 101,
+            "global_revision": 1545659779,
+            "author": 8343886,
+            "stamp": 1785717478,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 100,
+            "global_revision": 1545643742,
+            "author": 8343886,
+            "stamp": 1785650851,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 86"
+        },
+        {
+            "revision": 99,
+            "global_revision": 1545643730,
+            "author": 8343886,
+            "stamp": 1785650797,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 98,
+            "global_revision": 1545643706,
+            "author": 8343886,
+            "stamp": 1785650711,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 97,
+            "global_revision": 1545643689,
+            "author": 8343886,
+            "stamp": 1785650649,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 96,
+            "global_revision": 1545643676,
+            "author": 8343886,
+            "stamp": 1785650605,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 95,
+            "global_revision": 1545643655,
+            "author": 8343886,
+            "stamp": 1785650535,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 94,
+            "global_revision": 1544734716,
+            "author": 8343886,
+            "stamp": 1781873118,
+            "flags": "F",
+            "commentary": "已上传文件 “cen_logical_problem”。"
+        },
+        {
+            "revision": 93,
+            "global_revision": 1544734710,
+            "author": 8343886,
+            "stamp": 1781873101,
+            "flags": "F",
+            "commentary": "已上传文件 “cen_ugly_page”。"
+        },
+        {
+            "revision": 92,
+            "global_revision": 1544734702,
+            "author": 8343886,
+            "stamp": 1781873079,
+            "flags": "F",
+            "commentary": "已上传文件 “cen_unfinished”。"
+        },
+        {
+            "revision": 91,
+            "global_revision": 1544734693,
+            "author": 8343886,
+            "stamp": 1781873063,
+            "flags": "F",
+            "commentary": "已上传文件 “cen_ticket”。"
+        },
+        {
+            "revision": 90,
+            "global_revision": 1544734690,
+            "author": 8343886,
+            "stamp": 1781873048,
+            "flags": "F",
+            "commentary": "已上传文件 “cen_too_much_unrelevants”。"
+        },
+        {
+            "revision": 89,
+            "global_revision": 1544734681,
+            "author": 8343886,
+            "stamp": 1781873026,
+            "flags": "F",
+            "commentary": "已上传文件 “cen_conflicting_canon”。"
+        },
+        {
+            "revision": 88,
+            "global_revision": 1544734669,
+            "author": 8343886,
+            "stamp": 1781872996,
+            "flags": "F",
+            "commentary": "已上传文件 “cen_expression_problem”。"
+        },
+        {
+            "revision": 87,
+            "global_revision": 1541322024,
+            "author": 8343886,
+            "stamp": 1767925062,
+            "flags": "F",
+            "commentary": "已上传文件 “shorts”。"
+        },
+        {
+            "revision": 86,
+            "global_revision": 1541322018,
+            "author": 8343886,
+            "stamp": 1767925016,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 85,
+            "global_revision": 1541322000,
+            "author": 8343886,
+            "stamp": 1767924907,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 84,
+            "global_revision": 1541321983,
+            "author": 8343886,
+            "stamp": 1767924769,
+            "flags": "F",
+            "commentary": "已上传文件 “shorts”。"
+        },
+        {
+            "revision": 83,
+            "global_revision": 1541321968,
+            "author": 8343886,
+            "stamp": 1767924592,
+            "flags": "F",
+            "commentary": "已上传文件 “rewriting”。"
+        },
+        {
+            "revision": 82,
+            "global_revision": 1540783721,
+            "author": 8343886,
+            "stamp": 1766233373,
+            "flags": "F",
+            "commentary": "已上传文件 “xmark”。"
+        },
+        {
+            "revision": 81,
+            "global_revision": 1540783710,
+            "author": 8343886,
+            "stamp": 1766233359,
+            "flags": "F",
+            "commentary": "已上传文件 “check”。"
+        },
+        {
+            "revision": 80,
+            "global_revision": 1540299952,
+            "author": 8343886,
+            "stamp": 1765012641,
+            "flags": "F",
+            "commentary": "已上传文件 “prize”。"
+        },
+        {
+            "revision": 79,
+            "global_revision": 1540227250,
+            "author": 8343886,
+            "stamp": 1764853557,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 78,
+            "global_revision": 1540227208,
+            "author": 8343886,
+            "stamp": 1764853532,
+            "flags": "F",
+            "commentary": "已上传文件 “waitingapproving”。"
+        },
+        {
+            "revision": 77,
+            "global_revision": 1540227054,
+            "author": 8343886,
+            "stamp": 1764853233,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 76,
+            "global_revision": 1540224628,
+            "author": 8343886,
+            "stamp": 1764848472,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 75,
+            "global_revision": 1540224589,
+            "author": 8343886,
+            "stamp": 1764848391,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 74,
+            "global_revision": 1540224475,
+            "author": 8343886,
+            "stamp": 1764848160,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 73,
+            "global_revision": 1540223078,
+            "author": 8343886,
+            "stamp": 1764845593,
+            "flags": "F",
+            "commentary": "文件 “guildance” 已重新命名为 “guidance”。"
+        },
+        {
+            "revision": 72,
+            "global_revision": 1540222515,
+            "author": 8343886,
+            "stamp": 1764844349,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 71,
+            "global_revision": 1540221770,
+            "author": 8343886,
+            "stamp": 1764842793,
+            "flags": "F",
+            "commentary": "已上传文件 “theme”。"
+        },
+        {
+            "revision": 70,
+            "global_revision": 1540221608,
+            "author": 8343886,
+            "stamp": 1764842541,
+            "flags": "F",
+            "commentary": "已上传文件 “vote”。"
+        },
+        {
+            "revision": 69,
+            "global_revision": 1540221584,
+            "author": 8343886,
+            "stamp": 1764842501,
+            "flags": "F",
+            "commentary": "已上传文件 “rewriting”。"
+        },
+        {
+            "revision": 68,
+            "global_revision": 1540221576,
+            "author": 8343886,
+            "stamp": 1764842490,
+            "flags": "F",
+            "commentary": "已上传文件 “prize”。"
+        },
+        {
+            "revision": 67,
+            "global_revision": 1540221570,
+            "author": 8343886,
+            "stamp": 1764842478,
+            "flags": "F",
+            "commentary": "已上传文件 “papers”。"
+        },
+        {
+            "revision": 66,
+            "global_revision": 1540221563,
+            "author": 8343886,
+            "stamp": 1764842464,
+            "flags": "F",
+            "commentary": "已上传文件 “paperandclock”。"
+        },
+        {
+            "revision": 65,
+            "global_revision": 1540221556,
+            "author": 8343886,
+            "stamp": 1764842446,
+            "flags": "F",
+            "commentary": "已上传文件 “law”。"
+        },
+        {
+            "revision": 64,
+            "global_revision": 1540221548,
+            "author": 8343886,
+            "stamp": 1764842432,
+            "flags": "F",
+            "commentary": "已上传文件 “guildance”。"
+        },
+        {
+            "revision": 63,
+            "global_revision": 1540221546,
+            "author": 8343886,
+            "stamp": 1764842418,
+            "flags": "F",
+            "commentary": "已上传文件 “gears”。"
+        },
+        {
+            "revision": 62,
+            "global_revision": 1540221539,
+            "author": 8343886,
+            "stamp": 1764842404,
+            "flags": "F",
+            "commentary": "已上传文件 “flowers”。"
+        },
+        {
+            "revision": 61,
+            "global_revision": 1540221531,
+            "author": 8343886,
+            "stamp": 1764842393,
+            "flags": "F",
+            "commentary": "已上传文件 “findbook”。"
+        },
+        {
+            "revision": 60,
+            "global_revision": 1540221525,
+            "author": 8343886,
+            "stamp": 1764842380,
+            "flags": "F",
+            "commentary": "已上传文件 “document”。"
+        },
+        {
+            "revision": 59,
+            "global_revision": 1540221516,
+            "author": 8343886,
+            "stamp": 1764842367,
+            "flags": "F",
+            "commentary": "已上传文件 “component”。"
+        },
+        {
+            "revision": 58,
+            "global_revision": 1540221511,
+            "author": 8343886,
+            "stamp": 1764842354,
+            "flags": "F",
+            "commentary": "已上传文件 “books2”。"
+        },
+        {
+            "revision": 57,
+            "global_revision": 1540221502,
+            "author": 8343886,
+            "stamp": 1764842342,
+            "flags": "F",
+            "commentary": "已上传文件 “books1”。"
+        },
+        {
+            "revision": 56,
+            "global_revision": 1540221495,
+            "author": 8343886,
+            "stamp": 1764842330,
+            "flags": "F",
+            "commentary": "已上传文件 “bell”。"
+        },
+        {
+            "revision": 55,
+            "global_revision": 1540018740,
+            "author": 8343886,
+            "stamp": 1764382328,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 54,
+            "global_revision": 1540002682,
+            "author": 8343886,
+            "stamp": 1764343717,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 53,
+            "global_revision": 1540002646,
+            "author": 8343886,
+            "stamp": 1764343641,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 52,
+            "global_revision": 1539995084,
+            "author": 8343886,
+            "stamp": 1764327029,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 51,
+            "global_revision": 1539146264,
+            "author": 8343886,
+            "stamp": 1762602456,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"component:warning-of-articles\" 至 \"component:page-signs\"."
+        },
+        {
+            "revision": 50,
+            "global_revision": 1539146243,
+            "author": 8343886,
+            "stamp": 1762602399,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 49,
+            "global_revision": 1539146209,
+            "author": 8343886,
+            "stamp": 1762602380,
+            "flags": "A",
+            "commentary": "已新增标签：功能。 移除标签：组件。"
+        },
+        {
+            "revision": 48,
+            "global_revision": 1539146203,
+            "author": 8343886,
+            "stamp": 1762602368,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 47,
+            "global_revision": 1532585622,
+            "author": 8343886,
+            "stamp": 1759335400,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 46,
+            "global_revision": 1532585580,
+            "author": 8343886,
+            "stamp": 1759335247,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 45,
+            "global_revision": 1530947564,
+            "author": 8343886,
+            "stamp": 1752284058,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 44,
+            "global_revision": 1530947546,
+            "author": 8343886,
+            "stamp": 1752283993,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 43,
+            "global_revision": 1530947491,
+            "author": 8343886,
+            "stamp": 1752283944,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 42,
+            "global_revision": 1530934544,
+            "author": 8553227,
+            "stamp": 1752210858,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 41,
+            "global_revision": 1530908964,
+            "author": 8553227,
+            "stamp": 1752073086,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 40,
+            "global_revision": 1530908960,
+            "author": 8553227,
+            "stamp": 1752073064,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 39,
+            "global_revision": 1530908845,
+            "author": 8553227,
+            "stamp": 1752072476,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 38,
+            "global_revision": 1530908071,
+            "author": 8553227,
+            "stamp": 1752069751,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 37,
+            "global_revision": 1530907965,
+            "author": 8553227,
+            "stamp": 1752069443,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 36,
+            "global_revision": 1530907923,
+            "author": 8553227,
+            "stamp": 1752069232,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 35,
+            "global_revision": 1530905453,
+            "author": 8553227,
+            "stamp": 1752060010,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 34,
+            "global_revision": 1530905440,
+            "author": 8553227,
+            "stamp": 1752059933,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 33,
+            "global_revision": 1530905384,
+            "author": 8553227,
+            "stamp": 1752059719,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 32,
+            "global_revision": 1530883883,
+            "author": 8553227,
+            "stamp": 1751987715,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 31,
+            "global_revision": 1530883716,
+            "author": 8553227,
+            "stamp": 1751986889,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 30,
+            "global_revision": 1530883689,
+            "author": 8553227,
+            "stamp": 1751986757,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 29,
+            "global_revision": 1530883228,
+            "author": 8553227,
+            "stamp": 1751985210,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 28,
+            "global_revision": 1530883124,
+            "author": 8553227,
+            "stamp": 1751984823,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 27,
+            "global_revision": 1530882858,
+            "author": 8553227,
+            "stamp": 1751984148,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 26,
+            "global_revision": 1530882787,
+            "author": 8553227,
+            "stamp": 1751983861,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 25,
+            "global_revision": 1530882763,
+            "author": 8553227,
+            "stamp": 1751983752,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 24,
+            "global_revision": 1530882358,
+            "author": 8553227,
+            "stamp": 1751982064,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 23,
+            "global_revision": 1530882353,
+            "author": 8553227,
+            "stamp": 1751982036,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 22,
+            "global_revision": 1530882346,
+            "author": 8553227,
+            "stamp": 1751982016,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 21,
+            "global_revision": 1530882264,
+            "author": 8553227,
+            "stamp": 1751981858,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 20,
+            "global_revision": 1530882099,
+            "author": 8553227,
+            "stamp": 1751981291,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 19,
+            "global_revision": 1530881636,
+            "author": 8553227,
+            "stamp": 1751979455,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1530881578,
+            "author": 8553227,
+            "stamp": 1751979136,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1530224807,
+            "author": 8343886,
+            "stamp": 1748049478,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"warning-of-articles\" 至 \"component:warning-of-articles\"."
+        },
+        {
+            "revision": 16,
+            "global_revision": 1518362945,
+            "author": 8343886,
+            "stamp": 1708393313,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"component:warning-of-long-articles\" 至 \"warning-of-articles\"."
+        },
+        {
+            "revision": 15,
+            "global_revision": 1518362937,
+            "author": 8343886,
+            "stamp": 1708393288,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1518265036,
+            "author": 8343886,
+            "stamp": 1708001209,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1518265006,
+            "author": 8343886,
+            "stamp": 1708000998,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1518264847,
+            "author": 8343886,
+            "stamp": 1708000389,
+            "flags": "A",
+            "commentary": "移除标签：系统。"
+        },
+        {
+            "revision": 11,
+            "global_revision": 1515897139,
+            "author": 8343886,
+            "stamp": 1699540720,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1515896978,
+            "author": 8343886,
+            "stamp": 1699540351,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1515896940,
+            "author": 8343886,
+            "stamp": 1699540157,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1515896485,
+            "author": 8343886,
+            "stamp": 1699538541,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1515886106,
+            "author": 8343886,
+            "stamp": 1699486715,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1515886101,
+            "author": 8343886,
+            "stamp": 1699486657,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1515886077,
+            "author": 8343886,
+            "stamp": 1699486402,
+            "flags": "F",
+            "commentary": "已上传文件 “rew”。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1515886062,
+            "author": 8343886,
+            "stamp": 1699486186,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1515886028,
+            "author": 8343886,
+            "stamp": 1699486037,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1515885999,
+            "author": 8343886,
+            "stamp": 1699485816,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1515885994,
+            "author": 8343886,
+            "stamp": 1699485732,
+            "flags": "A",
+            "commentary": "已新增标签：系统, 组件。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1515885969,
+            "author": 8343886,
+            "stamp": 1699485524,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11695564,
+            "name": "bell",
+            "url": "http://nationarea.wikidot.com/local--files/component:page-signs/bell",
+            "size": "18.17 kB (18601 Bytes)",
+            "size_bytes": 18601,
+            "mime": "image/png",
+            "content": "PNG image data, 512 x 512, 8-bit/color RGBA, non-interlaced",
+            "author": 8343886,
+            "stamp": 1764842330,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11695565,
+            "name": "books1",
+            "url": "http://nationarea.wikidot.com/local--files/component:page-signs/books1",
+            "size": "20.88 kB (21377 Bytes)",
+            "size_bytes": 21377,
+            "mime": "image/png",
+            "content": "PNG image data, 320 x 320, 8-bit/color RGBA, non-interlaced",
+            "author": 8343886,
+            "stamp": 1764842342,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11695566,
+            "name": "books2",
+            "url": "http://nationarea.wikidot.com/local--files/component:page-signs/books2",
+            "size": "8.74 kB (8954 Bytes)",
+            "size_bytes": 8954,
+            "mime": "application/octet-stream",
+            "content": "RIFF (little-endian) data, Web/P image",
+            "author": 8343886,
+            "stamp": 1764842354,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11842163,
+            "name": "cen_conflicting_canon",
+            "url": "http://nationarea.wikidot.com/local--files/component:page-signs/cen_conflicting_canon",
+            "size": "39.97 kB (40931 Bytes)",
+            "size_bytes": 40931,
+            "mime": "image/png",
+            "content": "PNG image data, 302 x 299, 8-bit/color RGBA, non-interlaced",
+            "author": 8343886,
+            "stamp": 1781873026,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11842161,
+            "name": "cen_expression_problem",
+            "url": "http://nationarea.wikidot.com/local--files/component:page-signs/cen_expression_problem",
+            "size": "4.98 kB (5100 Bytes)",
+            "size_bytes": 5100,
+            "mime": "image/png",
+            "content": "PNG image data, 200 x 200, 8-bit/color RGBA, non-interlaced",
+            "author": 8343886,
+            "stamp": 1781872996,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11842168,
+            "name": "cen_logical_problem",
+            "url": "http://nationarea.wikidot.com/local--files/component:page-signs/cen_logical_problem",
+            "size": "13.63 kB (13952 Bytes)",
+            "size_bytes": 13952,
+            "mime": "application/octet-stream",
+            "content": "RIFF (little-endian) data, Web/P image, VP8 encoding, 800x800, Scaling: [none]x[none], YUV color, decoders should clamp",
+            "author": 8343886,
+            "stamp": 1781873118,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11842165,
+            "name": "cen_ticket",
+            "url": "http://nationarea.wikidot.com/local--files/component:page-signs/cen_ticket",
+            "size": "2.37 kB (2428 Bytes)",
+            "size_bytes": 2428,
+            "mime": "image/png",
+            "content": "PNG image data, 225 x 225, 8-bit colormap, non-interlaced",
+            "author": 8343886,
+            "stamp": 1781873063,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11842164,
+            "name": "cen_too_much_unrelevants",
+            "url": "http://nationarea.wikidot.com/local--files/component:page-signs/cen_too_much_unrelevants",
+            "size": "5 kB (5122 Bytes)",
+            "size_bytes": 5122,
+            "mime": "image/png",
+            "content": "PNG image data, 225 x 225, 8-bit colormap, non-interlaced",
+            "author": 8343886,
+            "stamp": 1781873048,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11842167,
+            "name": "cen_ugly_page",
+            "url": "http://nationarea.wikidot.com/local--files/component:page-signs/cen_ugly_page",
+            "size": "5.6 kB (5736 Bytes)",
+            "size_bytes": 5736,
+            "mime": "image/png",
+            "content": "PNG image data, 200 x 200, 8-bit/color RGBA, non-interlaced",
+            "author": 8343886,
+            "stamp": 1781873101,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11842166,
+            "name": "cen_unfinished",
+            "url": "http://nationarea.wikidot.com/local--files/component:page-signs/cen_unfinished",
+            "size": "911 Bytes",
+            "size_bytes": 911,
+            "mime": "image/svg+xml; charset=us-ascii",
+            "content": "SVG Scalable Vector Graphics image",
+            "author": 8343886,
+            "stamp": 1781873079,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11705102,
+            "name": "check",
+            "url": "http://nationarea.wikidot.com/local--files/component:page-signs/check",
+            "size": "870 Bytes",
+            "size_bytes": 870,
+            "mime": "image/png",
+            "content": "PNG image data, 20 x 20, 8-bit colormap, non-interlaced",
+            "author": 8343886,
+            "stamp": 1766233359,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11695567,
+            "name": "component",
+            "url": "http://nationarea.wikidot.com/local--files/component:page-signs/component",
+            "size": "5.13 kB (5252 Bytes)",
+            "size_bytes": 5252,
+            "mime": "image/png",
+            "content": "PNG image data, 256 x 256, 8-bit colormap, non-interlaced",
+            "author": 8343886,
+            "stamp": 1764842367,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11695568,
+            "name": "document",
+            "url": "http://nationarea.wikidot.com/local--files/component:page-signs/document",
+            "size": "3.47 kB (3550 Bytes)",
+            "size_bytes": 3550,
+            "mime": "image/png",
+            "content": "PNG image data, 225 x 225, 8-bit colormap, non-interlaced",
+            "author": 8343886,
+            "stamp": 1764842380,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11695569,
+            "name": "findbook",
+            "url": "http://nationarea.wikidot.com/local--files/component:page-signs/findbook",
+            "size": "6.05 kB (6192 Bytes)",
+            "size_bytes": 6192,
+            "mime": "image/png",
+            "content": "PNG image data, 512 x 512, 8-bit colormap, non-interlaced",
+            "author": 8343886,
+            "stamp": 1764842393,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11695570,
+            "name": "flowers",
+            "url": "http://nationarea.wikidot.com/local--files/component:page-signs/flowers",
+            "size": "9.16 kB (9379 Bytes)",
+            "size_bytes": 9379,
+            "mime": "image/png",
+            "content": "PNG image data, 512 x 512, 8-bit colormap, non-interlaced",
+            "author": 8343886,
+            "stamp": 1764842404,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11695571,
+            "name": "gears",
+            "url": "http://nationarea.wikidot.com/local--files/component:page-signs/gears",
+            "size": "30.7 kB (31441 Bytes)",
+            "size_bytes": 31441,
+            "mime": "image/png",
+            "content": "PNG image data, 320 x 319, 8-bit/color RGBA, non-interlaced",
+            "author": 8343886,
+            "stamp": 1764842418,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11695572,
+            "name": "guidance",
+            "url": "http://nationarea.wikidot.com/local--files/component:page-signs/guidance",
+            "size": "13.54 kB (13865 Bytes)",
+            "size_bytes": 13865,
+            "mime": "image/png",
+            "content": "PNG image data, 512 x 512, 8-bit/color RGBA, non-interlaced",
+            "author": 8343886,
+            "stamp": 1764842432,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11695573,
+            "name": "law",
+            "url": "http://nationarea.wikidot.com/local--files/component:page-signs/law",
+            "size": "6.57 kB (6723 Bytes)",
+            "size_bytes": 6723,
+            "mime": "image/png",
+            "content": "PNG image data, 200 x 200, 8-bit/color RGBA, non-interlaced",
+            "author": 8343886,
+            "stamp": 1764842446,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11695574,
+            "name": "paperandclock",
+            "url": "http://nationarea.wikidot.com/local--files/component:page-signs/paperandclock",
+            "size": "12.08 kB (12372 Bytes)",
+            "size_bytes": 12372,
+            "mime": "image/png",
+            "content": "PNG image data, 512 x 512, 8-bit/color RGBA, non-interlaced",
+            "author": 8343886,
+            "stamp": 1764842464,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11695575,
+            "name": "papers",
+            "url": "http://nationarea.wikidot.com/local--files/component:page-signs/papers",
+            "size": "2.74 kB (2804 Bytes)",
+            "size_bytes": 2804,
+            "mime": "image/png",
+            "content": "PNG image data, 512 x 512, 8-bit/color RGBA, non-interlaced",
+            "author": 8343886,
+            "stamp": 1764842478,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11696848,
+            "name": "prize",
+            "url": "http://nationarea.wikidot.com/local--files/component:page-signs/prize",
+            "size": "40.78 kB (41759 Bytes)",
+            "size_bytes": 41759,
+            "mime": "image/png",
+            "content": "PNG image data, 512 x 512, 8-bit/color RGBA, non-interlaced",
+            "author": 8343886,
+            "stamp": 1765012641,
+            "internal_version": 1
+        },
+        {
+            "file_id": 10897277,
+            "name": "rew",
+            "url": "http://nationarea.wikidot.com/local--files/component:page-signs/rew",
+            "size": "2.52 kB (2576 Bytes)",
+            "size_bytes": 2576,
+            "mime": "image/png",
+            "content": "PNG image data, 78 x 78, 8-bit/color RGBA, non-interlaced",
+            "author": 8343886,
+            "stamp": 1699486402,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11716375,
+            "name": "rewriting",
+            "url": "http://nationarea.wikidot.com/local--files/component:page-signs/rewriting",
+            "size": "9.49 kB (9713 Bytes)",
+            "size_bytes": 9713,
+            "mime": "image/png",
+            "content": "PNG image data, 225 x 225, 8-bit/color RGBA, non-interlaced",
+            "author": 8343886,
+            "stamp": 1767924592,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11716377,
+            "name": "shorts",
+            "url": "http://nationarea.wikidot.com/local--files/component:page-signs/shorts",
+            "size": "7.98 kB (8173 Bytes)",
+            "size_bytes": 8173,
+            "mime": "image/png",
+            "content": "PNG image data, 206 x 206, 8-bit/color RGBA, non-interlaced",
+            "author": 8343886,
+            "stamp": 1767925062,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11695583,
+            "name": "theme",
+            "url": "http://nationarea.wikidot.com/local--files/component:page-signs/theme",
+            "size": "43.33 kB (44372 Bytes)",
+            "size_bytes": 44372,
+            "mime": "image/png",
+            "content": "PNG image data, 512 x 512, 8-bit/color RGBA, non-interlaced",
+            "author": 8343886,
+            "stamp": 1764842793,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11695579,
+            "name": "vote",
+            "url": "http://nationarea.wikidot.com/local--files/component:page-signs/vote",
+            "size": "1.64 kB (1681 Bytes)",
+            "size_bytes": 1681,
+            "mime": "image/png",
+            "content": "PNG image data, 151 x 148, 8-bit colormap, non-interlaced",
+            "author": 8343886,
+            "stamp": 1764842541,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11695650,
+            "name": "waitingapproving",
+            "url": "http://nationarea.wikidot.com/local--files/component:page-signs/waitingapproving",
+            "size": "16.26 kB (16651 Bytes)",
+            "size_bytes": 16651,
+            "mime": "image/png",
+            "content": "PNG image data, 155 x 154, 8-bit/color RGBA, non-interlaced",
+            "author": 8343886,
+            "stamp": 1764853532,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11705103,
+            "name": "xmark",
+            "url": "http://nationarea.wikidot.com/local--files/component:page-signs/xmark",
+            "size": "606 Bytes",
+            "size_bytes": 606,
+            "mime": "application/octet-stream",
+            "content": "RIFF (little-endian) data, Web/P image",
+            "author": 8343886,
+            "stamp": 1766233373,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1451351205,
+    "tags": [
+        "功能"
+    ],
+    "title": "特殊页面标记",
+    "sitemap_update": 1785717478000,
+    "votings": [
+        [
+            8118764,
+            true
+        ]
+    ],
+    "is_locked": false
+}

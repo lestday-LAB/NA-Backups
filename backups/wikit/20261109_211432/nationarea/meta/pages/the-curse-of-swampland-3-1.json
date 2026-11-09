@@ -1,0 +1,120 @@
+{
+    "name": "the-curse-of-swampland-3-1",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 11,
+            "global_revision": 1544926827,
+            "author": 8343886,
+            "stamp": 1782779736,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1544775364,
+            "author": 8343886,
+            "stamp": 1782030566,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1544756336,
+            "author": 8343886,
+            "stamp": 1781964314,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1544737441,
+            "author": 8343886,
+            "stamp": 1781884013,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1544667010,
+            "author": 8343886,
+            "stamp": 1781601257,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1544342298,
+            "author": 8343886,
+            "stamp": 1780156493,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1544106220,
+            "author": 8343886,
+            "stamp": 1779610199,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1544089936,
+            "author": 8343886,
+            "stamp": 1779542449,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1544088838,
+            "author": 8343886,
+            "stamp": 1779539626,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1544088539,
+            "author": 8343886,
+            "stamp": 1779538902,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1544088522,
+            "author": 8343886,
+            "stamp": 1779538843,
+            "flags": "A",
+            "commentary": "已新增标签：幽默, 故事, 美政, 讽刺。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544088480,
+            "author": 8343886,
+            "stamp": 1779538695,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468701349,
+    "rating": 1,
+    "tags": [
+        "幽默",
+        "故事",
+        "美政",
+        "讽刺"
+    ],
+    "title": "沼泽诅咒，或者西塞罗州的运动会（上）",
+    "sitemap_update": 1782779736000,
+    "votings": [
+        [
+            8343886,
+            true
+        ]
+    ],
+    "is_locked": false
+}

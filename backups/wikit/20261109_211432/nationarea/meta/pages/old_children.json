@@ -1,0 +1,104 @@
+{
+    "name": "old:children",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1541212367,
+            "author": 8343886,
+            "stamp": 1767271484,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"wa:children\" 至 \"old:children\"."
+        },
+        {
+            "revision": 7,
+            "global_revision": 1541212363,
+            "author": 8343886,
+            "stamp": 1767271464,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1541212359,
+            "author": 8343886,
+            "stamp": 1767271452,
+            "flags": "A",
+            "commentary": "已新增标签：归档页。 移除标签：世界联盟, 国际条例。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1530656016,
+            "author": 8343886,
+            "stamp": 1750849792,
+            "flags": "A",
+            "commentary": "已新增标签：国际条例。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1529402650,
+            "author": 8343886,
+            "stamp": 1745019011,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1529402627,
+            "author": 8343886,
+            "stamp": 1745018883,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1528928172,
+            "author": 8343886,
+            "stamp": 1743258857,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1528927688,
+            "author": 8343886,
+            "stamp": 1743256858,
+            "flags": "A",
+            "commentary": "已新增标签：世界联盟。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1528927679,
+            "author": 8343886,
+            "stamp": 1743256823,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459033524,
+    "tags": [
+        "归档页"
+    ],
+    "title": "世界儿童权利公约（旧）",
+    "sitemap_update": 1767271484000,
+    "votings": [
+        [
+            8356393,
+            true
+        ],
+        [
+            8426633,
+            true
+        ],
+        [
+            8325214,
+            true
+        ],
+        [
+            8118764,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,44 @@
+{
+    "title": "归属资料",
+    "id": 18192031,
+    "description": "",
+    "last": 1784817470,
+    "lastUser": 9882061,
+    "started": 1784817399,
+    "startedUser": null,
+    "postsNum": 1,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 8681437,
+            "title": "",
+            "poster": 9882061,
+            "stamp": 1784817470,
+            "lastEdit": 1784880233,
+            "lastEditBy": 9882061,
+            "revisions": [
+                {
+                    "title": "",
+                    "author": 9882061,
+                    "id": 10298908,
+                    "stamp": 1784880233
+                },
+                {
+                    "title": "",
+                    "author": 9882061,
+                    "id": 10283940,
+                    "stamp": 1784824756
+                },
+                {
+                    "title": "",
+                    "author": 9882061,
+                    "id": 10281742,
+                    "stamp": 1784817470
+                }
+            ],
+            "children": []
+        }
+    ]
+}
