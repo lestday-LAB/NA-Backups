@@ -1,0 +1,125 @@
+{
+    "name": "selected-works-of-zhang-guojian",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 10,
+            "global_revision": 1519667845,
+            "author": 8553227,
+            "stamp": 1713438815,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1519283400,
+            "author": 8553227,
+            "stamp": 1711797786,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1519283279,
+            "author": 8553227,
+            "stamp": 1711797188,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"phenomenon-6575\" 至 \"selected-works-of-zhang-guojian\"."
+        },
+        {
+            "revision": 7,
+            "global_revision": 1519283213,
+            "author": 8553227,
+            "stamp": 1711796966,
+            "flags": "A",
+            "commentary": "已新增标签：故事。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1519283206,
+            "author": 8553227,
+            "stamp": 1711796926,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1519280329,
+            "author": 8553227,
+            "stamp": 1711780390,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1519280264,
+            "author": 8553227,
+            "stamp": 1711780027,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1519279923,
+            "author": 8553227,
+            "stamp": 1711778691,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1519279920,
+            "author": 8553227,
+            "stamp": 1711778661,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1519278167,
+            "author": 8553227,
+            "stamp": 1711768083,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1519277947,
+            "author": 8553227,
+            "stamp": 1711767022,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1453156205,
+    "forum_thread": 16760975,
+    "tags": [
+        "故事"
+    ],
+    "title": "张国建选集（节选）",
+    "sitemap_update": 1713438815000,
+    "votings": [
+        [
+            8248071,
+            true
+        ],
+        [
+            8464470,
+            true
+        ],
+        [
+            6251737,
+            false
+        ],
+        [
+            8345010,
+            true
+        ],
+        [
+            8553227,
+            true
+        ]
+    ],
+    "is_locked": false
+}

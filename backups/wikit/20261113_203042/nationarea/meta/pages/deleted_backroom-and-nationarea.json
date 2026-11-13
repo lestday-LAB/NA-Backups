@@ -1,0 +1,74 @@
+{
+    "name": "deleted:backroom-and-nationarea",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1545884591,
+            "author": 8325214,
+            "stamp": 1786440406,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"backroom-and-nationarea\" 至 \"deleted:backroom-and-nationarea\"."
+        },
+        {
+            "revision": 3,
+            "global_revision": 1534027661,
+            "author": 8325214,
+            "stamp": 1761645615,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1533251525,
+            "author": 8325214,
+            "stamp": 1761374265,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1533251154,
+            "author": 8325214,
+            "stamp": 1761374071,
+            "flags": "A",
+            "commentary": "已新增标签：2025相遇活动, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1533251086,
+            "author": 8325214,
+            "stamp": 1761374037,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460788636,
+    "rating": 4,
+    "tags": [
+        "2025相遇活动",
+        "故事"
+    ],
+    "title": "一段往事开始的什么巴拉巴拉的玩意",
+    "sitemap_update": 1786440406000,
+    "votings": [
+        [
+            10233679,
+            true
+        ],
+        [
+            8343886,
+            true
+        ],
+        [
+            8118764,
+            true
+        ],
+        [
+            8553227,
+            true
+        ]
+    ],
+    "is_locked": false
+}

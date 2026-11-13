@@ -1,0 +1,32 @@
+{
+    "title": "AliKaa-12号赤瞳魔法打击部",
+    "id": 18359451,
+    "description": "",
+    "last": 1792160450,
+    "lastUser": 8636742,
+    "started": 1792072457,
+    "startedUser": null,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 9101057,
+            "title": "",
+            "poster": 8118764,
+            "stamp": 1792072496,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 9101870,
+                    "title": "",
+                    "poster": 8636742,
+                    "stamp": 1792160450,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}
