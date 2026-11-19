@@ -1,0 +1,55 @@
+{
+    "name": "related-sites-policy",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1543535280,
+            "author": 8343886,
+            "stamp": 1777042248,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1542899386,
+            "author": 8343886,
+            "stamp": 1774412218,
+            "flags": "A",
+            "commentary": "移除标签：待批准。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542811492,
+            "author": 8343886,
+            "stamp": 1774064240,
+            "flags": "A",
+            "commentary": "已新增标签：待批准。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542811486,
+            "author": 8343886,
+            "stamp": 1774064214,
+            "flags": "A",
+            "commentary": "已新增标签：公共政策。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542811483,
+            "author": 8343886,
+            "stamp": 1774064206,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468330373,
+    "tags": [
+        "公共政策"
+    ],
+    "title": "相关站点管理政策",
+    "sitemap_update": 1777042248000,
+    "votings": [],
+    "is_locked": false
+}

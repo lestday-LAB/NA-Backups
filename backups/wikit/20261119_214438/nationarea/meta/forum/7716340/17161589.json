@@ -1,0 +1,40 @@
+{
+    "title": "迟到的新人报道",
+    "id": 17161589,
+    "description": "哈喽呀",
+    "last": 1756524806,
+    "lastUser": 9569218,
+    "started": 1751557491,
+    "startedUser": 7344601,
+    "postsNum": 3,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7056248,
+            "title": "迟到的新人报道",
+            "poster": 7344601,
+            "stamp": 1751557491,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7130185,
+                    "title": "Re: 迟到的新人报道",
+                    "poster": 8375717,
+                    "stamp": 1755449271,
+                    "revisions": [],
+                    "children": []
+                },
+                {
+                    "id": 7180403,
+                    "title": "Re: 迟到的新人报道",
+                    "poster": 9569218,
+                    "stamp": 1756524806,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

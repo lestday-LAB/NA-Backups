@@ -1,0 +1,63 @@
+{
+    "title": "獣耳の群れ",
+    "id": 17070584,
+    "description": "",
+    "last": 1742218853,
+    "lastUser": 8373329,
+    "started": 1742117535,
+    "startedUser": null,
+    "postsNum": 4,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 6882310,
+            "title": "",
+            "poster": 8118764,
+            "stamp": 1742117563,
+            "lastEdit": 1742117731,
+            "lastEditBy": 8118764,
+            "revisions": [
+                {
+                    "title": "",
+                    "author": 8118764,
+                    "id": 8336067,
+                    "stamp": 1742117731
+                },
+                {
+                    "title": "",
+                    "author": 8118764,
+                    "id": 8336064,
+                    "stamp": 1742117563
+                }
+            ],
+            "children": [
+                {
+                    "id": 6882365,
+                    "title": "",
+                    "poster": 8325214,
+                    "stamp": 1742119025,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": 6882741,
+            "title": "",
+            "poster": 6251737,
+            "stamp": 1742132362,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 6884722,
+            "title": "",
+            "poster": 8373329,
+            "stamp": 1742218853,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

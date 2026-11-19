@@ -1,0 +1,63 @@
+{
+    "title": "安卡教",
+    "id": 17015451,
+    "description": "",
+    "last": 1736069114,
+    "lastUser": 8374306,
+    "started": 1735967277,
+    "startedUser": null,
+    "postsNum": 4,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 6766517,
+            "title": "",
+            "poster": 8374306,
+            "stamp": 1735967298,
+            "lastEdit": 1735967320,
+            "lastEditBy": 8374306,
+            "revisions": [
+                {
+                    "title": "",
+                    "author": 8374306,
+                    "id": 8204726,
+                    "stamp": 1735967320
+                },
+                {
+                    "title": "",
+                    "author": 8374306,
+                    "id": 8204725,
+                    "stamp": 1735967298
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": 6766518,
+            "title": "u",
+            "poster": 8736966,
+            "stamp": 1735967679,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 6767558,
+            "title": "",
+            "poster": 8118764,
+            "stamp": 1736067768,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 6767568,
+                    "title": "",
+                    "poster": 8374306,
+                    "stamp": 1736069114,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

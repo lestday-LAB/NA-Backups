@@ -1,0 +1,100 @@
+{
+    "name": "nation-107",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1541206415,
+            "author": 8343886,
+            "stamp": 1767239723,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1539947828,
+            "author": 8343886,
+            "stamp": 1764220913,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1539802307,
+            "author": 8724677,
+            "stamp": 1763796069,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1539796697,
+            "author": 8724677,
+            "stamp": 1763783441,
+            "flags": "A",
+            "commentary": "已新增标签：宗教性, 西半球。 移除标签：宗教性西半球。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1539796692,
+            "author": 8724677,
+            "stamp": 1763783410,
+            "flags": "A",
+            "commentary": "已新增标签：争议性, 国家, 国家变种, 奇异居民, 宗教性西半球, 格式错乱, 消极。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539796054,
+            "author": 8724677,
+            "stamp": 1763781225,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467018403,
+    "forum_thread": 17455724,
+    "tags": [
+        "争议性",
+        "国家",
+        "国家变种",
+        "奇异居民",
+        "宗教性",
+        "格式错乱",
+        "消极",
+        "西半球"
+    ],
+    "title": "法满兹",
+    "sitemap_update": 1767239723000,
+    "votings": [
+        [
+            7679098,
+            true
+        ],
+        [
+            9102405,
+            true
+        ],
+        [
+            6251737,
+            false
+        ],
+        [
+            8325214,
+            true
+        ],
+        [
+            8343886,
+            true
+        ],
+        [
+            8553227,
+            true
+        ],
+        [
+            9287872,
+            true
+        ]
+    ],
+    "is_locked": false
+}

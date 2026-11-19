@@ -1,0 +1,232 @@
+{
+    "name": "nation-56",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 21,
+            "global_revision": 1541206134,
+            "author": 8343886,
+            "stamp": 1767238093,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 20,
+            "global_revision": 1540171759,
+            "author": 8343886,
+            "stamp": 1764742512,
+            "flags": "A",
+            "commentary": "移除标签：一般文档。"
+        },
+        {
+            "revision": 19,
+            "global_revision": 1539338877,
+            "author": 8343886,
+            "stamp": 1762950054,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1527617902,
+            "author": 8356393,
+            "stamp": 1738842162,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1525922158,
+            "author": 8343886,
+            "stamp": 1732269024,
+            "flags": "A",
+            "commentary": "已新增标签：一般文档, 漂游, 调查中。 移除标签：半岛, 压迫性, 威权资本主义, 待调查, 次要文档。"
+        },
+        {
+            "revision": 16,
+            "global_revision": 1523071881,
+            "author": 6251737,
+            "stamp": 1721191321,
+            "flags": "A",
+            "commentary": "已新增标签：次要文档。 移除标签：过渡设定。"
+        },
+        {
+            "revision": 15,
+            "global_revision": 1523062881,
+            "author": 6251737,
+            "stamp": 1721132648,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1523062875,
+            "author": 6251737,
+            "stamp": 1721132634,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1518110259,
+            "author": 6251737,
+            "stamp": 1707371231,
+            "flags": "A",
+            "commentary": "已新增标签：威权资本主义, 过渡设定。 移除标签：右翼, 集权化。"
+        },
+        {
+            "revision": 12,
+            "global_revision": 1514266697,
+            "author": 8343886,
+            "stamp": 1695741866,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1514266689,
+            "author": 8343886,
+            "stamp": 1695741853,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1514158283,
+            "author": 8343886,
+            "stamp": 1695450354,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1513965409,
+            "author": 8343886,
+            "stamp": 1694854821,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1513687722,
+            "author": 8343886,
+            "stamp": 1693736513,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1513646210,
+            "author": 8343886,
+            "stamp": 1693575689,
+            "flags": "A",
+            "commentary": "已新增标签：集权化。 移除标签：民集权化。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1513632565,
+            "author": 8564954,
+            "stamp": 1693570241,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1513392644,
+            "author": 8564954,
+            "stamp": 1693292007,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1513392585,
+            "author": 8564954,
+            "stamp": 1693291831,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1513392513,
+            "author": 8564954,
+            "stamp": 1693291610,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1513392455,
+            "author": 8564954,
+            "stamp": 1693291494,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1513380451,
+            "author": 8564954,
+            "stamp": 1693229781,
+            "flags": "A",
+            "commentary": "已新增标签：半岛, 压迫性, 右翼, 国家, 待调查, 民集权化。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1513380378,
+            "author": 8564954,
+            "stamp": 1693229577,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1449603262,
+    "rating": 5,
+    "forum_thread": 16336084,
+    "tags": [
+        "国家",
+        "漂游",
+        "调查中"
+    ],
+    "title": "即即兮迩",
+    "sitemap_update": 1767238093000,
+    "votings": [
+        [
+            8741503,
+            true
+        ],
+        [
+            10253371,
+            true
+        ],
+        [
+            8248071,
+            true
+        ],
+        [
+            7679098,
+            true
+        ],
+        [
+            8724677,
+            false
+        ],
+        [
+            6251737,
+            false
+        ],
+        [
+            8343886,
+            true
+        ],
+        [
+            8543531,
+            true
+        ],
+        [
+            5617762,
+            true
+        ]
+    ],
+    "is_locked": false
+}

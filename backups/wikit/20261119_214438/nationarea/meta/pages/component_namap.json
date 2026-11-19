@@ -1,0 +1,125 @@
+{
+    "name": "component:namap",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 9,
+            "global_revision": 1530224676,
+            "author": 8343886,
+            "stamp": 1748048422,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"namap\" 至 \"component:namap\"."
+        },
+        {
+            "revision": 8,
+            "global_revision": 1530224673,
+            "author": 8343886,
+            "stamp": 1748048410,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1530224669,
+            "author": 8343886,
+            "stamp": 1748048376,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1528053088,
+            "author": 8324175,
+            "stamp": 1740289351,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1528031833,
+            "author": 8343886,
+            "stamp": 1740186710,
+            "flags": "A",
+            "commentary": "已新增标签：组件。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1528031832,
+            "author": 8343886,
+            "stamp": 1740186699,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1528031831,
+            "author": 8343886,
+            "stamp": 1740186690,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1528022855,
+            "author": 8324175,
+            "stamp": 1740143694,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1528022846,
+            "author": 8324175,
+            "stamp": 1740143671,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1528022824,
+            "author": 8324175,
+            "stamp": 1740143614,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458580028,
+    "forum_thread": 17044928,
+    "tags": [
+        "组件"
+    ],
+    "title": "可点击跳转的世界地图",
+    "sitemap_update": 1748048422000,
+    "votings": [
+        [
+            8548483,
+            true
+        ],
+        [
+            8356393,
+            true
+        ],
+        [
+            8426633,
+            true
+        ],
+        [
+            8325214,
+            true
+        ],
+        [
+            8343886,
+            true
+        ],
+        [
+            8118764,
+            true
+        ],
+        [
+            8553227,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,332 @@
+{
+    "name": "the-curse-of-swampland",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 36,
+            "global_revision": 1545599432,
+            "author": 8343886,
+            "stamp": 1785481355,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 35,
+            "global_revision": 1545185276,
+            "author": 8343886,
+            "stamp": 1783902914,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 34,
+            "global_revision": 1545168247,
+            "author": 8343886,
+            "stamp": 1783825872,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 33,
+            "global_revision": 1544966826,
+            "author": 8343886,
+            "stamp": 1782983855,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 32,
+            "global_revision": 1544966710,
+            "author": 8343886,
+            "stamp": 1782983477,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 31,
+            "global_revision": 1544965719,
+            "author": 8343886,
+            "stamp": 1782979504,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 30,
+            "global_revision": 1544949152,
+            "author": 8343886,
+            "stamp": 1782896988,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 29,
+            "global_revision": 1544066432,
+            "author": 8343886,
+            "stamp": 1779441455,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 28,
+            "global_revision": 1544064845,
+            "author": 8343886,
+            "stamp": 1779430654,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 27,
+            "global_revision": 1543815187,
+            "author": 8343886,
+            "stamp": 1778338097,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 26,
+            "global_revision": 1543815160,
+            "author": 8343886,
+            "stamp": 1778337991,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 25,
+            "global_revision": 1543640140,
+            "author": 8343886,
+            "stamp": 1777600330,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 24,
+            "global_revision": 1543413898,
+            "author": 8343886,
+            "stamp": 1776516692,
+            "flags": "A",
+            "commentary": "已新增标签：美政。"
+        },
+        {
+            "revision": 23,
+            "global_revision": 1543390022,
+            "author": 8343886,
+            "stamp": 1776446896,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 22,
+            "global_revision": 1543362568,
+            "author": 8343886,
+            "stamp": 1776303096,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 21,
+            "global_revision": 1543350959,
+            "author": 8343886,
+            "stamp": 1776243936,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 20,
+            "global_revision": 1543287487,
+            "author": 8343886,
+            "stamp": 1775919131,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 19,
+            "global_revision": 1543264063,
+            "author": 8343886,
+            "stamp": 1775880346,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1543264031,
+            "author": 8343886,
+            "stamp": 1775880120,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1543263824,
+            "author": 8343886,
+            "stamp": 1775879072,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1543263556,
+            "author": 8343886,
+            "stamp": 1775877832,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1543262240,
+            "author": 8343886,
+            "stamp": 1775873861,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1543200135,
+            "author": 8343886,
+            "stamp": 1775718289,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1543198580,
+            "author": 8343886,
+            "stamp": 1775708159,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1543198494,
+            "author": 8343886,
+            "stamp": 1775707675,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1543198433,
+            "author": 8343886,
+            "stamp": 1775707352,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1543197082,
+            "author": 8343886,
+            "stamp": 1775698149,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1543181618,
+            "author": 8343886,
+            "stamp": 1775640695,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1543181539,
+            "author": 8343886,
+            "stamp": 1775640003,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1543178171,
+            "author": 8343886,
+            "stamp": 1775617934,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1543110531,
+            "author": 8343886,
+            "stamp": 1775301032,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1542796853,
+            "author": 8343886,
+            "stamp": 1773998938,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1542796582,
+            "author": 8343886,
+            "stamp": 1773997759,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1542796577,
+            "author": 8343886,
+            "stamp": 1773997706,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542796572,
+            "author": 8343886,
+            "stamp": 1773997681,
+            "flags": "A",
+            "commentary": "已新增标签：幽默, 讽刺。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542796568,
+            "author": 8343886,
+            "stamp": 1773997667,
+            "flags": "A",
+            "commentary": "已新增标签：故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542796564,
+            "author": 8343886,
+            "stamp": 1773997635,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468327352,
+    "rating": 4,
+    "tags": [
+        "幽默",
+        "故事",
+        "美政",
+        "讽刺"
+    ],
+    "title": "沼泽诅咒，或奥尔扎卡的九十七种死法",
+    "sitemap_update": 1785481355000,
+    "votings": [
+        [
+            8548483,
+            true
+        ],
+        [
+            9100566,
+            true
+        ],
+        [
+            8343886,
+            true
+        ],
+        [
+            9287872,
+            true
+        ]
+    ],
+    "is_locked": false
+}

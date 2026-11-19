@@ -1,0 +1,195 @@
+{
+    "name": "nation-119",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 17,
+            "global_revision": 1541206488,
+            "author": 8343886,
+            "stamp": 1767240140,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1540172134,
+            "author": 8343886,
+            "stamp": 1764743359,
+            "flags": "A",
+            "commentary": "已新增标签：关键设定。 移除标签：重要文档。"
+        },
+        {
+            "revision": 15,
+            "global_revision": 1539338307,
+            "author": 8343886,
+            "stamp": 1762948592,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1531040442,
+            "author": 8426633,
+            "stamp": 1752722234,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1527628189,
+            "author": 8343886,
+            "stamp": 1738892819,
+            "flags": "S",
+            "commentary": "有关重新命名页面：“world-assembly” 改为 “world-alliance” 的自动更新。"
+        },
+        {
+            "revision": 12,
+            "global_revision": 1527618004,
+            "author": 8356393,
+            "stamp": 1738842612,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1527387580,
+            "author": 8426633,
+            "stamp": 1737607260,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1525922300,
+            "author": 8343886,
+            "stamp": 1732269793,
+            "flags": "A",
+            "commentary": "已新增标签：西半球。 移除标签：人权保护, 威权社会主义, 沿海。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1525232807,
+            "author": 8426633,
+            "stamp": 1728999250,
+            "flags": "A",
+            "commentary": "已新增标签：重要文档。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1525059422,
+            "author": 8426633,
+            "stamp": 1728218976,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1525058902,
+            "author": 8426633,
+            "stamp": 1728215959,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1525058877,
+            "author": 8426633,
+            "stamp": 1728215824,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1525058874,
+            "author": 8426633,
+            "stamp": 1728215793,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1525058766,
+            "author": 8426633,
+            "stamp": 1728215112,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1525058750,
+            "author": 8426633,
+            "stamp": 1728215027,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1525058694,
+            "author": 8426633,
+            "stamp": 1728214646,
+            "flags": "A",
+            "commentary": "已新增标签：人权保护, 沿海。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1525058674,
+            "author": 8426633,
+            "stamp": 1728214579,
+            "flags": "A",
+            "commentary": "已新增标签：国家, 威权社会主义。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1525058654,
+            "author": 8426633,
+            "stamp": 1728214466,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1457015155,
+    "forum_thread": 17027939,
+    "tags": [
+        "关键设定",
+        "国家",
+        "西半球"
+    ],
+    "title": "往空",
+    "sitemap_update": 1767240140000,
+    "votings": [
+        [
+            8462980,
+            true
+        ],
+        [
+            8248071,
+            true
+        ],
+        [
+            8356393,
+            true
+        ],
+        [
+            8590217,
+            true
+        ],
+        [
+            8426633,
+            true
+        ],
+        [
+            6251737,
+            true
+        ],
+        [
+            8386863,
+            true
+        ],
+        [
+            9321893,
+            true
+        ]
+    ],
+    "is_locked": false
+}

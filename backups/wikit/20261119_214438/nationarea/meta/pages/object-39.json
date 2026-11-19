@@ -1,0 +1,68 @@
+{
+    "name": "object-39",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1546087428,
+            "author": 8374306,
+            "stamp": 1787035282,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1546086113,
+            "author": 8374306,
+            "stamp": 1787030292,
+            "flags": "A",
+            "commentary": "已新增标签：物理异常。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530693680,
+            "author": 8374306,
+            "stamp": 1751025805,
+            "flags": "A",
+            "commentary": "已新增标签：crossover, 物品。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530693675,
+            "author": 8374306,
+            "stamp": 1751025744,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459849329,
+    "votings": [
+        [
+            8462980,
+            true
+        ],
+        [
+            9733029,
+            true
+        ],
+        [
+            6251737,
+            false
+        ],
+        [
+            9758100,
+            true
+        ]
+    ],
+    "rating": 2,
+    "forum_thread": 17159604,
+    "tags": [
+        "crossover",
+        "物品",
+        "物理异常"
+    ],
+    "title": "安卡教造物-破魔石",
+    "sitemap_update": 1787035282000,
+    "is_locked": false
+}

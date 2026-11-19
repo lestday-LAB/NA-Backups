@@ -1,0 +1,141 @@
+{
+    "name": "old:2023-time-contest",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 11,
+            "global_revision": 1526983013,
+            "author": 8343886,
+            "stamp": 1735382394,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1526043367,
+            "author": 8343886,
+            "stamp": 1732978209,
+            "flags": "A",
+            "commentary": "已新增标签：归档页。 移除标签：2023新年时刻竞赛。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1526043365,
+            "author": 8343886,
+            "stamp": 1732978198,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"2023-time-contest\" 至 \"old:2023-time-contest\"."
+        },
+        {
+            "revision": 8,
+            "global_revision": 1517240918,
+            "author": 8343886,
+            "stamp": 1704632280,
+            "flags": "A",
+            "commentary": "已新增标签：2023新年时刻竞赛。 移除标签：系统。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1517082904,
+            "author": 6251737,
+            "stamp": 1704024932,
+            "flags": "A",
+            "commentary": "已新增标签：系统。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1517077632,
+            "author": 8343886,
+            "stamp": 1704001412,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1517077604,
+            "author": 8343886,
+            "stamp": 1704001227,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1517077531,
+            "author": 8343886,
+            "stamp": 1704000876,
+            "flags": "F",
+            "commentary": "已上传文件 “2023TC”。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1517077521,
+            "author": 8343886,
+            "stamp": 1704000843,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1517077429,
+            "author": 8343886,
+            "stamp": 1704000402,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1517077350,
+            "author": 8343886,
+            "stamp": 1703999922,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1517077025,
+            "author": 8343886,
+            "stamp": 1703998280,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 10941621,
+            "name": "2023TC",
+            "url": "http://nationarea.wikidot.com/local--files/old:2023-time-contest/2023TC",
+            "size": "305.16 kB (312479 Bytes)",
+            "size_bytes": 312479,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif Standard: , baseline, precision 8, 1024x1024, components 3",
+            "author": 8343886,
+            "stamp": 1704000876,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1452005337,
+    "tags": [
+        "归档页"
+    ],
+    "title": "2023 新年时刻竞赛（未举行）",
+    "sitemap_update": 1735382394000,
+    "votings": [
+        [
+            6251737,
+            false
+        ],
+        [
+            8343886,
+            true
+        ],
+        [
+            8118764,
+            true
+        ],
+        [
+            8386863,
+            false
+        ]
+    ],
+    "is_locked": false
+}

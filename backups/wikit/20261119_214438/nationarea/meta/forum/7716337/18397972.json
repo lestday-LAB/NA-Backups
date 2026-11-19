@@ -1,0 +1,46 @@
+{
+    "title": "有关讨论区的建议",
+    "id": 18397972,
+    "description": "",
+    "last": 1794839854,
+    "lastUser": 10508241,
+    "started": 1794839731,
+    "startedUser": 10508241,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 9133883,
+            "title": "有关讨论区的建议",
+            "poster": 10508241,
+            "stamp": 1794839731,
+            "lastEdit": 1794839743,
+            "lastEditBy": 10508241,
+            "revisions": [
+                {
+                    "title": "有关讨论区的建议",
+                    "author": 10508241,
+                    "id": 10770863,
+                    "stamp": 1794839743
+                },
+                {
+                    "title": "有关讨论区的建议",
+                    "author": 10508241,
+                    "id": 10770862,
+                    "stamp": 1794839731
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": 9133884,
+            "title": "Re: 有关讨论区的建议",
+            "poster": 10508241,
+            "stamp": 1794839854,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

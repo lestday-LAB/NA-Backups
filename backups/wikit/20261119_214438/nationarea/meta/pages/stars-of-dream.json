@@ -1,0 +1,73 @@
+{
+    "name": "stars-of-dream",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1525922408,
+            "author": 8343886,
+            "stamp": 1732270348,
+            "flags": "A",
+            "commentary": "移除标签：原创。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1516049004,
+            "author": 8343886,
+            "stamp": 1700265418,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1516042862,
+            "author": 8118764,
+            "stamp": 1700231175,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1516042851,
+            "author": 8118764,
+            "stamp": 1700231100,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1516042849,
+            "author": 8118764,
+            "stamp": 1700231075,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1451419119,
+    "forum_thread": 16458342,
+    "tags": [
+        "故事"
+    ],
+    "title": "Stars of dream-一首小诗。",
+    "sitemap_update": 1732270348000,
+    "votings": [
+        [
+            8248071,
+            true
+        ],
+        [
+            8316541,
+            false
+        ],
+        [
+            8343886,
+            true
+        ],
+        [
+            8719834,
+            true
+        ]
+    ],
+    "is_locked": false
+}

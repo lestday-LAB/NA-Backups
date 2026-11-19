@@ -1,0 +1,327 @@
+{
+    "name": "nation-83",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 20,
+            "global_revision": 1541206312,
+            "author": 8343886,
+            "stamp": 1767239155,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 19,
+            "global_revision": 1540180155,
+            "author": 8343886,
+            "stamp": 1764760417,
+            "flags": "A",
+            "commentary": "已新增标签：西半球。"
+        },
+        {
+            "revision": 18,
+            "global_revision": 1531459603,
+            "author": 8256969,
+            "stamp": 1754732768,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1531459122,
+            "author": 8256969,
+            "stamp": 1754730512,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1531459078,
+            "author": 8256969,
+            "stamp": 1754730182,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1531459065,
+            "author": 8256969,
+            "stamp": 1754730034,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1531459061,
+            "author": 8256969,
+            "stamp": 1754729996,
+            "flags": "F",
+            "commentary": "已上传文件 “55”。"
+        },
+        {
+            "revision": 13,
+            "global_revision": 1531459036,
+            "author": 8256969,
+            "stamp": 1754729839,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1531459012,
+            "author": 8256969,
+            "stamp": 1754729659,
+            "flags": "F",
+            "commentary": "已上传文件 “44”。"
+        },
+        {
+            "revision": 11,
+            "global_revision": 1531458946,
+            "author": 8256969,
+            "stamp": 1754729232,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1531458918,
+            "author": 8256969,
+            "stamp": 1754729049,
+            "flags": "F",
+            "commentary": "已上传文件 “33”。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1531458865,
+            "author": 8256969,
+            "stamp": 1754728708,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1531458835,
+            "author": 8256969,
+            "stamp": 1754728554,
+            "flags": "F",
+            "commentary": "已上传文件 “22”。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1531458817,
+            "author": 8256969,
+            "stamp": 1754728493,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1531458808,
+            "author": 8256969,
+            "stamp": 1754728427,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1531458799,
+            "author": 8256969,
+            "stamp": 1754728403,
+            "flags": "F",
+            "commentary": "已上传文件 “11”。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531458790,
+            "author": 8256969,
+            "stamp": 1754728382,
+            "flags": "F",
+            "commentary": "已上传文件 “NationalFlag”。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531458767,
+            "author": 8256969,
+            "stamp": 1754728328,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531458721,
+            "author": 8256969,
+            "stamp": 1754728230,
+            "flags": "F",
+            "commentary": "已上传文件 “Image_1729353733603.png”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531458697,
+            "author": 8256969,
+            "stamp": 1754728190,
+            "flags": "A",
+            "commentary": "已新增标签：国家。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531458691,
+            "author": 8256969,
+            "stamp": 1754728178,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11435498,
+            "name": "11",
+            "url": "http://nationarea.wikidot.com/local--files/nation-83/11",
+            "size": "2.11 MB (2209792 Bytes)",
+            "size_bytes": 2209792,
+            "mime": "image/png",
+            "content": "PNG image data, 1536 x 864, 8-bit/color RGB, non-interlaced",
+            "author": 8256969,
+            "stamp": 1754728403,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11435501,
+            "name": "22",
+            "url": "http://nationarea.wikidot.com/local--files/nation-83/22",
+            "size": "1.13 MB (1187840 Bytes)",
+            "size_bytes": 1187840,
+            "mime": "image/png",
+            "content": "PNG image data, 1328 x 1328, 8-bit/color RGB, non-interlaced",
+            "author": 8256969,
+            "stamp": 1754728554,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11435503,
+            "name": "33",
+            "url": "http://nationarea.wikidot.com/local--files/nation-83/33",
+            "size": "2.24 MB (2351196 Bytes)",
+            "size_bytes": 2351196,
+            "mime": "image/png",
+            "content": "PNG image data, 1328 x 1250, 8-bit/color RGBA, non-interlaced",
+            "author": 8256969,
+            "stamp": 1754729050,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11435505,
+            "name": "44",
+            "url": "http://nationarea.wikidot.com/local--files/nation-83/44",
+            "size": "1.23 MB (1288039 Bytes)",
+            "size_bytes": 1288039,
+            "mime": "image/png",
+            "content": "PNG image data, 864 x 1480, 8-bit/color RGBA, non-interlaced",
+            "author": 8256969,
+            "stamp": 1754729659,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11435509,
+            "name": "55",
+            "url": "http://nationarea.wikidot.com/local--files/nation-83/55",
+            "size": "1.76 MB (1846901 Bytes)",
+            "size_bytes": 1846901,
+            "mime": "image/png",
+            "content": "PNG image data, 1536 x 1050, 8-bit/color RGBA, non-interlaced",
+            "author": 8256969,
+            "stamp": 1754729996,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11435493,
+            "name": "Image_1729353733603.png",
+            "url": "http://nationarea.wikidot.com/local--files/nation-83/Image_1729353733603.png",
+            "size": "185.03 kB (189472 Bytes)",
+            "size_bytes": 189472,
+            "mime": "image/png",
+            "content": "PNG image data, 4500 x 2500, 8-bit/color RGBA, non-interlaced",
+            "author": 8256969,
+            "stamp": 1754728230,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11435497,
+            "name": "NationalFlag",
+            "url": "http://nationarea.wikidot.com/local--files/nation-83/NationalFlag",
+            "size": "185.03 kB (189472 Bytes)",
+            "size_bytes": 189472,
+            "mime": "image/png",
+            "content": "PNG image data, 4500 x 2500, 8-bit/color RGBA, non-interlaced",
+            "author": 8256969,
+            "stamp": 1754728382,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1460023701,
+    "forum_thread": 17178102,
+    "tags": [
+        "国家",
+        "西半球"
+    ],
+    "title": "远西海军政府",
+    "sitemap_update": 1767239155000,
+    "votings": [
+        [
+            8256969,
+            true
+        ],
+        [
+            9179772,
+            true
+        ],
+        [
+            9818466,
+            true
+        ],
+        [
+            7907970,
+            true
+        ],
+        [
+            8356393,
+            true
+        ],
+        [
+            7931329,
+            true
+        ],
+        [
+            8724677,
+            true
+        ],
+        [
+            8426633,
+            false
+        ],
+        [
+            9808207,
+            true
+        ],
+        [
+            8343886,
+            true
+        ],
+        [
+            9610670,
+            true
+        ],
+        [
+            8345010,
+            true
+        ],
+        [
+            10404301,
+            true
+        ],
+        [
+            9321893,
+            false
+        ]
+    ],
+    "is_locked": false
+}

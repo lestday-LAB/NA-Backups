@@ -1,0 +1,75 @@
+{
+    "name": "deleted:nation-47",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1545884613,
+            "author": 8325214,
+            "stamp": 1786440468,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"nation-47\" 至 \"deleted:nation-47\"."
+        },
+        {
+            "revision": 3,
+            "global_revision": 1539338779,
+            "author": 8343886,
+            "stamp": 1762949870,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530218636,
+            "author": 8325214,
+            "stamp": 1748001102,
+            "flags": "A",
+            "commentary": "已新增标签：2025袖珍国家活动, 国家, 微小的, 西半球。 移除标签：2025袖珍国家活动东半球国家微小的。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530218630,
+            "author": 8325214,
+            "stamp": 1748001086,
+            "flags": "A",
+            "commentary": "已新增标签：2025袖珍国家活动东半球国家微小的。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530218628,
+            "author": 8325214,
+            "stamp": 1748001074,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459726668,
+    "tags": [
+        "2025袖珍国家活动",
+        "国家",
+        "微小的",
+        "西半球"
+    ],
+    "title": "亻艹七之域",
+    "sitemap_update": 1786440468000,
+    "votings": [
+        [
+            9407660,
+            true
+        ],
+        [
+            8356393,
+            true
+        ],
+        [
+            8343886,
+            true
+        ],
+        [
+            8386863,
+            true
+        ]
+    ],
+    "is_locked": false
+}

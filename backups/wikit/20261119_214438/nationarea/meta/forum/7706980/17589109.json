@@ -1,0 +1,46 @@
+{
+    "title": "未来主义",
+    "id": 17589109,
+    "description": "",
+    "last": 1771073228,
+    "lastUser": 8426633,
+    "started": 1771073114,
+    "startedUser": null,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7553100,
+            "title": "自我检讨时间",
+            "poster": 7679098,
+            "stamp": 1771073192,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7553101,
+            "title": "🤔",
+            "poster": 8426633,
+            "stamp": 1771073228,
+            "lastEdit": 1771073325,
+            "lastEditBy": 8426633,
+            "revisions": [
+                {
+                    "title": "🤔",
+                    "author": 8426633,
+                    "id": 9099497,
+                    "stamp": 1771073325
+                },
+                {
+                    "title": "🤔",
+                    "author": 8426633,
+                    "id": 9099493,
+                    "stamp": 1771073228
+                }
+            ],
+            "children": []
+        }
+    ]
+}

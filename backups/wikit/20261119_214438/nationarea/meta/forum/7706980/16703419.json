@@ -1,0 +1,38 @@
+{
+    "title": "Nation 11（旧）",
+    "id": 16703419,
+    "description": "",
+    "last": 1726656589,
+    "lastUser": 6251737,
+    "started": 1706858015,
+    "startedUser": null,
+    "postsNum": 1,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 6655911,
+            "title": "这重写了个寂寞啊，DV",
+            "poster": 6251737,
+            "stamp": 1726656589,
+            "lastEdit": 1732332334,
+            "lastEditBy": 6251737,
+            "revisions": [
+                {
+                    "title": "这重写了个寂寞啊，DV",
+                    "author": 6251737,
+                    "id": 8166355,
+                    "stamp": 1732332334
+                },
+                {
+                    "title": "这重写了个寂寞啊，DV",
+                    "author": 6251737,
+                    "id": 8072136,
+                    "stamp": 1726656589
+                }
+            ],
+            "children": []
+        }
+    ]
+}

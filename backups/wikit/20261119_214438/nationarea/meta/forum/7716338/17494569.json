@@ -1,0 +1,47 @@
+{
+    "title": "[已编辑]",
+    "id": 17494569,
+    "description": "",
+    "last": 1766376198,
+    "lastUser": 8325214,
+    "started": 1766242786,
+    "startedUser": 9899603,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7474420,
+            "title": "组织草稿之——SCP-ER分部",
+            "poster": 9899603,
+            "stamp": 1766242786,
+            "lastEdit": 1769349346,
+            "lastEditBy": 9899603,
+            "revisions": [
+                {
+                    "title": "组织草稿之——SCP-ER分部",
+                    "author": 9899603,
+                    "id": 9061385,
+                    "stamp": 1769349346
+                },
+                {
+                    "title": "组织草稿之——SCP-ER分部",
+                    "author": 9899603,
+                    "id": 9004472,
+                    "stamp": 1766242786
+                }
+            ],
+            "children": [
+                {
+                    "id": 7476887,
+                    "title": "Re: 组织草稿之——SCP-ER分部",
+                    "poster": 8325214,
+                    "stamp": 1766376198,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}
