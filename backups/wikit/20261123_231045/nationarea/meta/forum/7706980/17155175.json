@@ -1,0 +1,23 @@
+{
+    "title": "世界联盟宪章",
+    "id": 17155175,
+    "description": "",
+    "last": 1750123394,
+    "lastUser": 8426633,
+    "started": 1750123368,
+    "startedUser": null,
+    "postsNum": 1,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7035051,
+            "title": "提问",
+            "poster": 8426633,
+            "stamp": 1750123394,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

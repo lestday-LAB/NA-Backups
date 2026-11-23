@@ -1,0 +1,83 @@
+{
+    "name": "odes-christmas",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1540896976,
+            "author": 9655278,
+            "stamp": 1766417208,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1540896620,
+            "author": 9655278,
+            "stamp": 1766415430,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1540896097,
+            "author": 9655278,
+            "stamp": 1766412712,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1540896035,
+            "author": 9655278,
+            "stamp": 1766412208,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540841843,
+            "author": 9655278,
+            "stamp": 1766330788,
+            "flags": "A",
+            "commentary": "已新增标签：2025圣诞颂活动, 诗歌。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540841653,
+            "author": 9655278,
+            "stamp": 1766330566,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467712117,
+    "rating": 2,
+    "forum_thread": 17496702,
+    "tags": [
+        "2025圣诞颂活动",
+        "诗歌"
+    ],
+    "title": "《吟佳节令诗集--圣夜三首》",
+    "sitemap_update": 1766417208000,
+    "votings": [
+        [
+            8548483,
+            true
+        ],
+        [
+            7679098,
+            true
+        ],
+        [
+            8325214,
+            false
+        ],
+        [
+            8553227,
+            true
+        ]
+    ],
+    "is_locked": false
+}

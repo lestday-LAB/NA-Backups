@@ -1,0 +1,89 @@
+{
+    "name": "canzone-del-toryo",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1541002155,
+            "author": 7679098,
+            "stamp": 1766642285,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1541002106,
+            "author": 7679098,
+            "stamp": 1766642211,
+            "flags": "A",
+            "commentary": "已新增标签：诗歌。 移除标签：故事。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1528901474,
+            "author": 7679098,
+            "stamp": 1743117550,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1528901378,
+            "author": 7679098,
+            "stamp": 1743116843,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1528901285,
+            "author": 7679098,
+            "stamp": 1743116115,
+            "flags": "A",
+            "commentary": "已新增标签：故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1528901268,
+            "author": 7679098,
+            "stamp": 1743116037,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459024527,
+    "rating": 4,
+    "tags": [
+        "诗歌"
+    ],
+    "title": "多瑞欧自由邦诗歌：祖国之歌",
+    "sitemap_update": 1766642285000,
+    "votings": [
+        [
+            8356393,
+            true
+        ],
+        [
+            9102405,
+            true
+        ],
+        [
+            8426633,
+            true
+        ],
+        [
+            6251737,
+            false
+        ],
+        [
+            8118764,
+            true
+        ],
+        [
+            9321893,
+            true
+        ]
+    ],
+    "is_locked": false
+}

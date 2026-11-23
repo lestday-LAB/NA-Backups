@@ -1,0 +1,168 @@
+{
+    "name": "old:constitution-of-wa",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 16,
+            "global_revision": 1541212466,
+            "author": 8343886,
+            "stamp": 1767271801,
+            "flags": "A",
+            "commentary": "已新增标签：归档页。 移除标签：世界联盟, 国际条例。"
+        },
+        {
+            "revision": 15,
+            "global_revision": 1541212460,
+            "author": 8343886,
+            "stamp": 1767271788,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"wa:constitution-of-wa\" 至 \"old:constitution-of-wa\"."
+        },
+        {
+            "revision": 14,
+            "global_revision": 1532794516,
+            "author": 8343886,
+            "stamp": 1759825557,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1532794478,
+            "author": 8343886,
+            "stamp": 1759825332,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1530656022,
+            "author": 8343886,
+            "stamp": 1750849826,
+            "flags": "A",
+            "commentary": "已新增标签：国际条例。"
+        },
+        {
+            "revision": 11,
+            "global_revision": 1530231864,
+            "author": 8343886,
+            "stamp": 1748090690,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1529402572,
+            "author": 8343886,
+            "stamp": 1745018588,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1529402496,
+            "author": 8343886,
+            "stamp": 1745018160,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1529199026,
+            "author": 8343886,
+            "stamp": 1744418932,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1527385480,
+            "author": 8343886,
+            "stamp": 1737595145,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1527385303,
+            "author": 8343886,
+            "stamp": 1737593043,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"constitution-of-wa\" 至 \"wa:constitution-of-wa\"."
+        },
+        {
+            "revision": 5,
+            "global_revision": 1527286478,
+            "author": 8343886,
+            "stamp": 1737115639,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1527199086,
+            "author": 8343886,
+            "stamp": 1736571165,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1527198773,
+            "author": 8343886,
+            "stamp": 1736569625,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1527198767,
+            "author": 8343886,
+            "stamp": 1736569555,
+            "flags": "A",
+            "commentary": "已新增标签：世界联盟。 移除标签：世界大会。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1527198762,
+            "author": 8343886,
+            "stamp": 1736569536,
+            "flags": "A",
+            "commentary": "已新增标签：世界大会。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1527198759,
+            "author": 8343886,
+            "stamp": 1736569523,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458225042,
+    "tags": [
+        "归档页"
+    ],
+    "title": "世界联盟宪章",
+    "sitemap_update": 1767271801000,
+    "votings": [
+        [
+            8356393,
+            true
+        ],
+        [
+            8736966,
+            true
+        ],
+        [
+            8118764,
+            true
+        ],
+        [
+            9321893,
+            true
+        ]
+    ],
+    "is_locked": false
+}

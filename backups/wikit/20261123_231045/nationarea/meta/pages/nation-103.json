@@ -1,0 +1,96 @@
+{
+    "name": "nation-103",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1548516034,
+            "author": 8325214,
+            "stamp": 1795349378,
+            "flags": "A",
+            "commentary": "已新增标签：推荐阅读。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1548516028,
+            "author": 8325214,
+            "stamp": 1795349327,
+            "flags": "A",
+            "commentary": "已新增标签：埃珥拉。 移除标签：西半球。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1541206379,
+            "author": 8343886,
+            "stamp": 1767239554,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1539337547,
+            "author": 8343886,
+            "stamp": 1762947074,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1529189867,
+            "author": 8724677,
+            "stamp": 1744375574,
+            "flags": "A",
+            "commentary": "已新增标签：奇异居民。 移除标签：物理异常。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1529185412,
+            "author": 8724677,
+            "stamp": 1744351914,
+            "flags": "A",
+            "commentary": "已新增标签：国家, 物理异常, 西半球。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1529177834,
+            "author": 8724677,
+            "stamp": 1744311113,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459145644,
+    "votings": [
+        [
+            8256969,
+            true
+        ],
+        [
+            9407660,
+            false
+        ],
+        [
+            8356393,
+            true
+        ],
+        [
+            8325214,
+            true
+        ],
+        [
+            8118764,
+            true
+        ]
+    ],
+    "forum_thread": 17090380,
+    "tags": [
+        "国家",
+        "埃珥拉",
+        "奇异居民",
+        "推荐阅读"
+    ],
+    "title": "巴斯特兰",
+    "sitemap_update": 1795349378000,
+    "is_locked": false
+}

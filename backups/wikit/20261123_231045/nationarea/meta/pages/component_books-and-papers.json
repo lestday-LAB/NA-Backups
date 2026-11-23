@@ -1,0 +1,91 @@
+{
+    "name": "component:books-and-papers",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1530224817,
+            "author": 8343886,
+            "stamp": 1748049537,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"books-and-papers\" 至 \"component:books-and-papers\"."
+        },
+        {
+            "revision": 5,
+            "global_revision": 1518362870,
+            "author": 8343886,
+            "stamp": 1708393047,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"component:books-and-papers\" 至 \"books-and-papers\"."
+        },
+        {
+            "revision": 4,
+            "global_revision": 1518362825,
+            "author": 8343886,
+            "stamp": 1708392790,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1515945440,
+            "author": 8343886,
+            "stamp": 1699779022,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1515945433,
+            "author": 8343886,
+            "stamp": 1699779005,
+            "flags": "A",
+            "commentary": "已新增标签：搬运, 组件。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1515945358,
+            "author": 8343886,
+            "stamp": 1699778707,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1515945315,
+            "author": 8343886,
+            "stamp": 1699778639,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1451374221,
+    "rating": 4,
+    "forum_thread": 16450681,
+    "tags": [
+        "搬运",
+        "组件"
+    ],
+    "title": "笔记本模块",
+    "sitemap_update": 1748049537000,
+    "votings": [
+        [
+            9477146,
+            true
+        ],
+        [
+            8356393,
+            true
+        ],
+        [
+            8457826,
+            true
+        ],
+        [
+            8979576,
+            true
+        ]
+    ],
+    "is_locked": false
+}
