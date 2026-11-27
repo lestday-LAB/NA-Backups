@@ -1,0 +1,125 @@
+{
+    "name": "nation-55",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1548515638,
+            "author": 8325214,
+            "stamp": 1795347172,
+            "flags": "A",
+            "commentary": "已新增标签：埃珥拉, 推荐阅读, 隐喻。 移除标签：东半球, 幽默, 讽刺。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1545345999,
+            "author": 8343886,
+            "stamp": 1784543012,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1545345847,
+            "author": 8343886,
+            "stamp": 1784542690,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1545345657,
+            "author": 8343886,
+            "stamp": 1784541757,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1545345608,
+            "author": 8343886,
+            "stamp": 1784541580,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1545345422,
+            "author": 8343886,
+            "stamp": 1784541119,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1545345349,
+            "author": 8343886,
+            "stamp": 1784540820,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1545344780,
+            "author": 8343886,
+            "stamp": 1784539201,
+            "flags": "A",
+            "commentary": "已新增标签：东半球, 国家, 幽默, 讽刺。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545344765,
+            "author": 8343886,
+            "stamp": 1784539151,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469010205,
+    "votings": [
+        [
+            8548483,
+            true
+        ],
+        [
+            9477146,
+            true
+        ],
+        [
+            7679098,
+            true
+        ],
+        [
+            9899603,
+            true
+        ],
+        [
+            8724677,
+            true
+        ],
+        [
+            8343886,
+            true
+        ],
+        [
+            9655278,
+            true
+        ],
+        [
+            9287872,
+            true
+        ]
+    ],
+    "rating": 8,
+    "forum_thread": 18346549,
+    "tags": [
+        "国家",
+        "埃珥拉",
+        "推荐阅读",
+        "隐喻"
+    ],
+    "title": "卢西塔尼亚",
+    "sitemap_update": 1795347172000,
+    "is_locked": false
+}
